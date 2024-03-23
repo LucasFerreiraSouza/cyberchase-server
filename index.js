@@ -1,7 +1,7 @@
 const express = require("express");
 const mongoose = require("mongoose");
 const router = express.Router();
-//const Person = require("./models/Person");
+const Person = require("./models/Person");
 //import { Person } from '../models/Person';
 
 
