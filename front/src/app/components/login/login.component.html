@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class='login'>
+	<div class="login-image-container">
+		<img src="assets/fatec.png" alt="Fatec" class="login-image">
+		<div class="overlay"></div>
+	</div>
+
+	<form class="login-form" (ngSubmit)="fazLogin()">
+		<h2>BEM VINDO!</h2>
+		<p class='login-subtitle'>Faça o login.</p>
+
+		<label for="email" class='login-label'>Email:</label>
+		<input
+			type="email"
+			name="email"
+			id="email"
+			[(ngModel)]="email"
+			class='login-input'
+			required
+		>
+
+		<label for="senha" class='login-label'>Senha:</label>
+		<input
+			type="password"
+			name="senha"
+			id="senha"
+			[(ngModel)]="senha"
+			class='login-input'
+			style="margin-bottom: 0.8rem;"
+			required
+		>
+
+		<button (click)="esqueciSenha()" type='button' class='login-forgot-password'>
+			<b>Esqueci minha senha</b>
+		</button>
+		
+		<button type="submit" class="login-button-primary">Entrar</button>
+		
+		<aside class="login-divider-container">
+			<div class="divider"></div>
+			<span class="login-alternative-access">Ou baixe o jogo!</span>
+			<div class="divider"></div>
+		</aside>
+
+		<button type="button" (click)="baixarJogo()" class="login-button-secondary">
+			Baixar jogo
+		</button>
+
+		<!--
+		<button type="button" (click)="jogarJogo()" class="login-button-secondary">
+			Jogar jogo
+	   </button>
+		-->  
+		  
+	</form>
+</body>
+

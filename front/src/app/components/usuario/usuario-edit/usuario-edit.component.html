@@ -1,0 +1,35 @@
+<div *ngIf="usuario && permissao">
+  <h2>Edit usuario {{ usuario.nome }}</h2>
+
+  <table>
+    <tr>
+      <td><label for="nome">Nome:</label></td>
+      <td><input type="text" [(ngModel)]="usuario.nome" name="nome" required /></td>
+    </tr>
+    <tr>
+      <td><label for="disciplinas">Disciplinas:</label></td>
+      <td>
+        <div *ngFor="let disciplina of disciplinas" [ngStyle]="{'color': disciplina.cor}">
+          <label>
+            <input type="checkbox" [(ngModel)]="disciplina.selecionada" />
+            {{ disciplina.sigla }} - {{ disciplina.nomeCompleto }}
+          </label>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td><label for="email">Email:</label></td>
+      <td><input type="email" [(ngModel)]="usuario.email" name="email" required email /></td>
+    </tr>
+    <tr>
+      <td><label for="senha">Senha:</label></td>
+      <td><input type="text" [(ngModel)]="usuario.senha" name="senha" required /></td>
+    </tr>
+  </table>
+
+  <p>
+    <button (click)="usuarioEdit()">Gravar</button>
+  </p>
+</div>
+<p *ngIf="message">{{ message }}</p>
+<app-sem-acesso></app-sem-acesso>

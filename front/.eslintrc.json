@@ -1,0 +1,81 @@
+{
+  "root": true,
+  "ignorePatterns": [
+    "projects/**/*"
+  ],
+  "overrides": [
+    {
+      "files": [
+        "*.ts"
+      ],
+      "extends": [
+        "eslint:recommended",
+        "plugin:@typescript-eslint/recommended",
+        "plugin:@angular-eslint/recommended",
+        "plugin:@angular-eslint/template/process-inline-templates"
+      ],
+      "rules": {
+        "@angular-eslint/directive-selector": [
+          "error",
+          {
+            "type": "attribute",
+            "prefix": "app",
+            "style": "camelCase"
+          }
+        ],
+        "@angular-eslint/component-selector": [
+          "error",
+          {
+            "type": "element",
+            "prefix": "app",
+            "style": "kebab-case"
+          }
+        ],
+        "indent": ["error", 2], // Recuo de 2 espaços
+        "quotes": ["error", "single"], // Aspas simples
+        "semi": ["error", "always"], // Sempre usar ponto e vírgula
+        "max-len": ["error", { "code": 120 }], // Comprimento máximo de linha
+        "object-curly-spacing": ["error", "always"], // Espaço dentro das chaves
+        "array-bracket-spacing": ["error", "never"], // Sem espaço dentro dos colchetes
+        "arrow-parens": ["error", "always"], // Parênteses sempre em funções de seta
+        "no-trailing-spaces": "error", // Sem espaços em branco finais
+        "eol-last": ["error", "always"], // Nova linha no final dos arquivos
+        "no-multiple-empty-lines": ["error", { "max": 1 }] // Máximo de uma linha vazia
+      }
+    },
+    {
+      "files": ["*.html"],
+      "extends": [
+        "plugin:@angular-eslint/template/recommended",
+        "plugin:eslint-plugin-html/recommended"
+      ],
+      "rules": {
+        // Suas regras personalizadas para templates HTML
+        "indent": ["error", 2], // Recuo de 2 espaços
+        "max-len": ["error", { "code": 120 }], // Comprimento máximo de linha
+        "brace-style": ["error", "1tbs"], // Estilo de chaves
+        "comma-spacing": "error", // Espaçamento em vírgulas
+        "computed-property-spacing": "error", // Espaçamento em propriedades computadas
+        "eol-last": ["error", "always"], // Nova linha no final dos arquivos
+        "no-multiple-empty-lines": ["error", { "max": 1 }], // Máximo de uma linha vazia
+        "no-trailing-spaces": "error", // Sem espaços em branco finais
+        "space-before-function-paren": ["error", "never"], // Espaço antes do parêntese de função
+        "space-in-parens": ["error", "never"], // Sem espaço dentro dos parênteses
+        "space-infix-ops": "error", // Espaço ao redor de operadores
+        "space-unary-ops": "error", // Espaço em operadores unários
+        "no-console": "warn", // Não permitir console.log, console.error, etc.
+        "no-alert": "warn" // Não permitir alert
+      }
+    },
+    {
+      "files": ["*.css"],
+      "extends": ["stylelint-config-recommended"],
+      "rules": {
+        // Suas regras personalizadas do ESLint para CSS
+        "indent": ["error", 2], // Recuo de 2 espaços
+        "max-len": ["error", { "code": 120 }], // Comprimento máximo de linha
+        "no-multiple-empty-lines": ["error", { "max": 1 }] // Máximo de uma linha vazia
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+<div *ngIf="permissao">
+  <h2>Deletar pergunta</h2>
+  
+  <p>
+    <strong>Disciplina:</strong>
+    <span [ngStyle]="{'color': pergunta.disciplina?.cor}">
+      {{ pergunta.disciplina?.nomeCompleto }}
+    </span>
+  </p>
+  <p><strong>Descrição:</strong> {{ pergunta.descricao }}</p>
+  <p><strong>Tempo:</strong> {{ pergunta.T }} segundos</p>
+  <p><strong>Alternativa Correta:</strong> {{ pergunta.C_A }}</p>
+
+  <h3><b>Arquivos Associados</b></h3>
+  <div *ngFor="let arquivo of arquivos">
+    <div *ngIf="isImageType(arquivo.nome)">
+      <h4>Imagem:</h4>
+      <img [src]="arquivo.base64" alt="Imagem" style="max-width: 200px; max-height: 200px;">
+    </div>
+
+    <div *ngIf="isAudioType(arquivo.nome)">
+      <h4>Áudio:</h4>
+      <audio controls>
+        <source [src]="arquivo.base64" type="audio/ogg">
+        Seu navegador não suporta o elemento de áudio.
+      </audio>
+    </div>
+  </div>
+
+  <button (click)="perguntaDelete(pergunta.id)">Excluir Pergunta</button>
+  <button (click)="goBack()">Voltar</button>
+</div>
+
+<div *ngIf="errorMessage">
+  {{ errorMessage }}
+</div>
+
+<app-sem-acesso></app-sem-acesso>

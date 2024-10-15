@@ -1,0 +1,41 @@
+<div *ngIf="permissao">
+  <h2>Criar Novo Usuário</h2>
+
+  <p>
+    <label for="nome">Nome: </label>
+    <input type="text" [(ngModel)]="newUsuario.nome" name="nome" required />
+  </p>
+
+  <p>
+    <label for="disciplinas">Disciplinas: </label>
+    <div *ngFor="let disciplina of disciplinas">
+      <input 
+        type="checkbox" 
+        [(ngModel)]="disciplina.selecionada" 
+        (change)="atualizarDisciplinas()">
+      <span [style.color]="disciplina.cor">
+        {{ disciplina.sigla }} - {{ disciplina.nomeCompleto }}
+      </span>
+    </div>
+  
+
+  <p>
+    <label for="email">Email: </label>
+    <input type="email" [(ngModel)]="newUsuario.email" name="email" required email />
+  </p>
+  
+  <p>
+    <label for="senha">Senha: </label>
+    <input type="password" [(ngModel)]="newUsuario.senha" name="senha" required />
+  </p>
+  
+  <p>
+    <button (click)="createUsuario(newUsuario)">Gravar</button>
+  </p>
+
+  <div *ngIf="mensagem" class="mensagem">
+    {{mensagem}}
+  </div>
+</div>
+
+<app-sem-acesso></app-sem-acesso>

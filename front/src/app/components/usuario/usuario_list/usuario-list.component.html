@@ -1,0 +1,29 @@
+<div *ngIf="usuarios && permissao">
+  <h3>Usuarios</h3>
+  <button (click)="incluirUsuario()">Incluir Usuario</button>
+
+  <ul>
+    <li *ngFor="let usuario of usuarios">
+      <table>
+        <tr>
+          <td><b>Nome</b></td>
+          <td><b>Disciplinas</b></td>
+          <td><b>Email</b></td>
+          <td><b>Senha</b></td>
+        </tr>
+        <tr>
+          <td><input type="text" name="Nome" [(ngModel)]="usuario.nome" readonly></td>
+          <td>
+            <div *ngFor="let disciplina of usuario.disciplinas">
+              <input type="text" name="Disciplina" [value]="disciplina.sigla" readonly [ngStyle]="{'color': disciplina.cor}"> <!-- Mostrando o nome completo -->
+            </div>
+          </td>
+          <td><input type="text" name="Email" [(ngModel)]="usuario.email" readonly></td>
+          <td><input type="text" [(ngModel)]="usuario.senha" name="senha" required /></td>
+        </tr>
+      </table>
+      <button (click)="alterarUsuario(usuario.id)">Alt</button>
+      <button (click)="excluirUsuario(usuario.id)">Excl</button>
+    </li>
+  </ul>
+</div>

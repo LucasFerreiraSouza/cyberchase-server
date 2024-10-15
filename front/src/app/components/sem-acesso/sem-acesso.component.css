@@ -1,0 +1,70 @@
+/* Estilos existentes */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+div {
+  background-color: #7EA1C4;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  width: 100%;
+  max-width: 400px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+input[type="email"] {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  background-color: #000015;
+  color: #7EA1C4;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #000030;
+}
+
+/* Novos estilos */
+.success-message {
+  color: #000015;
+  margin-top: 16px;
+}
+
+.error-message {
+  color: #000030;
+  margin-top: 16px;
+}
+
+
+
