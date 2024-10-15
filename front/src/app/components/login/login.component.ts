@@ -51,7 +51,7 @@ export class LoginComponent {
   
   jogarJogo() {
     //const jogoUrl = 'http://localhost:8080/jogo/index.html'; // URL para o seu jogo
-    const jogoUrl = 'https://cyberchase-qa.onrender.com/jogo/index.html'; // URL para o seu jogo
+    const jogoUrl = 'https://cyberchase-server.onrender.com/jogo/index.html'; // URL para o seu jogo
 
     window.open(jogoUrl, '_blank'); // Abre em uma nova aba
   }

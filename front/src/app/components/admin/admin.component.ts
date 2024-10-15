@@ -38,7 +38,7 @@ export class AdminComponent {
     this.zippingInProgress = true;
     this.botaoDesabilitado = true;
   
-    this.http.post<any>('https://cyberchase-qa.onrender.com/api/arquivos/zip-jogo', { headers: this.headers }).subscribe(
+    this.http.post<any>('https://cyberchase-server.onrender.com/api/arquivos/zip-jogo', { headers: this.headers }).subscribe(
     //this.http.post<any>('http://localhost:8080/api/arquivos/zip-jogo', { headers: this.headers }).subscribe(
       response => {
         this.mensagemAtualizacao = 'Nova versão do jogo lançada com sucesso!';
