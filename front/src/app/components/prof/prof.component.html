@@ -1,7 +1,0 @@
-<div class="container">
-  <div *ngIf="permissao">
-    <p><button (click)="selecionarProf('ensino')">Perguntas de Ensino</button></p>
-    <p><button (click)="selecionarProf('exercicio')">Perguntas de Exercício</button></p>
-  </div>
-</div>
-<app-sem-acesso *ngIf="!permissao"></app-sem-acesso>
