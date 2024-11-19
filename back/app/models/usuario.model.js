@@ -6,6 +6,8 @@ module.exports = mongoose => {
       nome: { type: String, unique: true, required: true },
       email: { type: String, unique: true, required: true },
       senha: { type: String, required: true },
+      isAdmin: { type: Boolean, required: true, default: false },  // Default para false
+      isTeacher: { type: Boolean, required: true, default: false }, // Default para false    
       
       // Alterado para array de objetos de disciplinas
       disciplinas: [{

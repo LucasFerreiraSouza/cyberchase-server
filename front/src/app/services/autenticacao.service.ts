@@ -32,6 +32,13 @@ export class AutenticacaoService {
           if (usuarioAutenticado) {
             localStorage.setItem('userId', usuarioAutenticado.id); // Armazenar o ID do usuário no localStorage
             localStorage.setItem('userDisciplinas', JSON.stringify(usuarioAutenticado.disciplinas ?? [])); // Armazenar as disciplinas do usuário
+
+            // Armazenar os papéis do usuário
+            localStorage.setItem('userRoles', JSON.stringify({
+              isAdmin: usuarioAutenticado.isAdmin || false,
+              isTeacher: usuarioAutenticado.isTeacher || false
+            }));
+
             console.log('ID do usuário armazenado:', usuarioAutenticado.id);
             console.log('Disciplinas do usuário armazenadas:', usuarioAutenticado.disciplinas);
 
@@ -59,9 +66,9 @@ export class AutenticacaoService {
     return userId;
   }
 
-  getUserDisciplinas(): { sigla: string; nomeCompleto: string; cor: string;}[] {
+  getUserDisciplinas(): { sigla: string; nomeCompleto: string; cor: string; }[] {
     const userDisciplinas = localStorage.getItem('userDisciplinas');
-  
+
     try {
       return userDisciplinas ? JSON.parse(userDisciplinas) : [];
     } catch (error) {
@@ -69,7 +76,26 @@ export class AutenticacaoService {
       return [];
     }
   }
-  
+
+  // Método para recuperar os papéis do usuário
+  getUserRoles(): { isAdmin: boolean; isTeacher: boolean; } {
+    const userRoles = localStorage.getItem('userRoles');
+
+    try {
+      return userRoles ? JSON.parse(userRoles) : { isAdmin: false, isTeacher: false };
+    } catch (error) {
+      console.error("Erro ao recuperar roles do usuário:", error);
+      return { isAdmin: false, isTeacher: false };
+    }
+  }
+
+  isAdmin(): boolean {
+    return this.getUserRoles().isAdmin;
+  }
+
+  isTeacher(): boolean {
+    return this.getUserRoles().isTeacher;
+  }
 
   // Getter e setter para permissões
   public get permissao(): boolean {
@@ -89,6 +115,7 @@ export class AutenticacaoService {
     localStorage.removeItem("permissao");
     localStorage.removeItem("userId");
     localStorage.removeItem("userDisciplinas");
+    localStorage.removeItem("userRoles"); // Remover roles do usuário
   }
 
   // Lógica de monitoramento de inatividade
@@ -105,7 +132,7 @@ export class AutenticacaoService {
     if (this.timer) {
       clearTimeout(this.timer);
     }
-    
+
     this.timer = setTimeout(() => this.redirecionarParaSemAcesso(), 600000); // 600000 ms = 600 s = 10 min
   }
 

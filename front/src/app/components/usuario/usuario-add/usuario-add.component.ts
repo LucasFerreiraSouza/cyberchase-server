@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { Location } from '@angular/common';
 import { AutenticacaoService } from 'src/app/services/autenticacao.service';
 import { UsuarioServices } from 'src/app/services/usuario.services';
+import { UsuarioModel } from 'src/app/models/usuario.model';
 
 @Component({
   templateUrl: './usuario-add.component.html',
@@ -9,15 +10,16 @@ import { UsuarioServices } from 'src/app/services/usuario.services';
 })
 export class UsuarioAddComponent implements OnInit {
 
-  public newUsuario = { 
-    'nome': '',    
-    'disciplinas': [] as { sigla: string; nomeCompleto: string; cor: string;}[], 
-    'email': '',
-    'senha': '' 
+  public newUsuario: UsuarioModel = {
+    nome: '',
+    disciplinas: [],
+    email: '',
+    senha: '',
+    isAdmin: false,
+    isTeacher: false
   };
 
   public disciplinas = [
-    { sigla: 'admin', nomeCompleto: 'admin', cor: '#1E90FF', selecionada: false }, // Azul
     { sigla: 'IAC001', nomeCompleto: 'Arquitetura e Organização de Computadores', cor: '#32CD32', selecionada: false }, // Verde
     { sigla: 'IAL002', nomeCompleto: 'Algoritmos e Lógica de Programação', cor: '#32CD32', selecionada: false }, // Verde
     { sigla: 'ILM001', nomeCompleto: 'Programação em Microinformática', cor: '#32CD32', selecionada: false }, // Verde
@@ -67,12 +69,10 @@ export class UsuarioAddComponent implements OnInit {
     { sigla: 'ITI004', nomeCompleto: 'Gestão e Governança de Tecnologia da Informação', cor: '#EE82EE', selecionada: false }, // Violeta
     { sigla: 'LIN600', nomeCompleto: 'Inglês VI', cor: '#EE82EE', selecionada: false }, // Violeta
     { sigla: 'TES001', nomeCompleto: 'Estágio Supervisionado', cor: '#EE82EE', selecionada: false }, // Violeta
-    { sigla: 'TTG103', nomeCompleto: 'Trabalho de Graduação II', cor: '#EE82EE', selecionada: false }  // Violeta
-];
-
-
+    { sigla: 'TTG103', nomeCompleto: 'Trabalho de Graduação II', cor: '#EE82EE', selecionada: false }  // Violeta  ];
+  ]
   public mensagem: string | undefined;
-  permissao: boolean = this.autenticacao.permissao;
+  permissao: boolean = this.autenticacao.permissao || false; // Adicionando um valor padrão
 
   constructor(
       private usuarioServices: UsuarioServices,
@@ -90,53 +90,65 @@ export class UsuarioAddComponent implements OnInit {
     return re.test(email);
   }
 
-  createUsuario(newUsuario: any): void {
+  createUsuario(): void {
+    this.atualizarDisciplinas(); // Atualiza as disciplinas selecionadas antes de criar o usuário
+
     if (this.newUsuario.nome === '') {
-      this.mensagem = 'Nome Não informado';
-      return;
+        this.mensagem = 'Nome não informado';
+        return;
     }
     if (this.newUsuario.senha === '') {
-      this.mensagem = 'Senha Não informada';
-      return;
+        this.mensagem = 'Senha não informada';
+        return;
     }
-    if (this.newUsuario.email === '' || !this.isValidEmail(this.newUsuario.email)) {
-      this.mensagem = 'E-mail Não informado ou inválido';
+    if (!this.newUsuario || !this.newUsuario.email || this.newUsuario.email === '' || !this.isValidEmail(this.newUsuario.email)) {
+      this.mensagem = 'E-mail não informado ou inválido';
       return;
-    }
+  }
+  
 
     // Chama o serviço para criar um novo usuário
-    this.usuarioServices.create(newUsuario).subscribe({
-      next: () => {
-        // Em caso de sucesso, retorna para a página anterior
-        this.location.back();
-      },
-      error: (error) => {
-        // Em caso de erro, verifica se há uma mensagem de erro específica retornada pelo servidor
-        if (error.error && error.error.message) {
-          // Define a mensagem de erro recebida do servidor
-          this.mensagem = error.error.message;
-        } else {
-          // Se não houver uma mensagem específica, exibe uma mensagem genérica de erro
-          console.error(error);
-          this.mensagem = "Ocorreu um erro ao criar o usuário. Por favor, tente novamente mais tarde.";
+    this.usuarioServices.create(this.newUsuario).subscribe({
+        next: () => {
+            // Em caso de sucesso, retorna para a página anterior
+            this.location.back();
+        },
+        error: (error) => {
+            // Atribuição da mensagem de erro com tratamento para undefined
+            if (error.error && error.error.message) {
+                this.mensagem = error.error.message;
+            } else {
+                console.error(error);
+                this.mensagem = "Ocorreu um erro ao criar o usuário. Por favor, tente novamente mais tarde.";
+            }
         }
-      }
     });
+}
+
+atualizarDisciplinas(): void {
+  // Verifica se newUsuario está definido, caso contrário inicializa
+  if (!this.newUsuario) {
+      this.newUsuario = { disciplinas: [] }; // Inicializa com um array vazio
   }
 
-  atualizarDisciplinas(): void {
-    // Limpa o array de disciplinas selecionadas
-    this.newUsuario.disciplinas = [];
+  // Garante que disciplinas é um array
+  if (!this.newUsuario.disciplinas) {
+      this.newUsuario.disciplinas = [];
+  } else {
+      // Limpa disciplinas existentes antes de adicionar novas
+      this.newUsuario.disciplinas = [];
+  }
 
-    // Adiciona disciplinas selecionadas ao array
-    this.disciplinas.forEach(disciplina => {
+  this.disciplinas.forEach(disciplina => {
       if (disciplina.selecionada) {
-        this.newUsuario.disciplinas.push({
-          sigla: disciplina.sigla,
-          nomeCompleto: disciplina.nomeCompleto,
-          cor:disciplina.cor
-        });
+          // Aqui usamos o operador '!' para garantir que disciplinas não é undefined
+          this.newUsuario.disciplinas!.push({
+              sigla: disciplina.sigla,
+              nomeCompleto: disciplina.nomeCompleto,
+              cor: disciplina.cor
+          });
       }
-    });
-  }
+  });
+}
+
 }

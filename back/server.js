@@ -4,10 +4,6 @@ const express = require("express");
 const cors = require("cors");
 const path = require("path");
 const arquivoRoutes = require('./app/routes/arquivo.routes');
-const perguntaRoutes = require('./app/routes/pergunta.routes');
-const fs = require('fs');
-const axios = require("axios");
-const checkToken = require('./app/utils/checkToken');
 const { adminFunction } = require('./app/utils/admin'); // Função do admin
 
 const app = express();
@@ -63,8 +59,13 @@ async function startServer() {
     require("./app/routes/usuario.routes")(app);
     require("./app/routes/pergunta.routes")(app);
     require("./app/routes/arquivo.routes")(app);
+    
+    app.use(express.static(path.join(__dirname, '/jogo')));
 
-    // Chamada da função adminFunction para inicialização de recursos administrativos
+    const gameRoutes = require("./app/routes/game.routes")
+    app.use('/', gameRoutes)
+
+    // Chamada da função adminFunction para inicialização de recursos do administrador
     adminFunction();
 
     app.use('/jogo', express.static(path.join(__dirname, 'jogo')));

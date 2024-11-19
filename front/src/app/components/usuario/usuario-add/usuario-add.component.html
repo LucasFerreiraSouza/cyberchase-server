@@ -1,41 +1,49 @@
 <div *ngIf="permissao">
   <h2>Criar Novo Usuário</h2>
 
-  <p>
+  <div *ngIf="mensagem" class="alert">{{ mensagem }}</div>
+
+  <div>
     <label for="nome">Nome: </label>
     <input type="text" [(ngModel)]="newUsuario.nome" name="nome" required />
-  </p>
+  </div>
 
-  <p>
+  <div>
     <label for="disciplinas">Disciplinas: </label>
     <div *ngFor="let disciplina of disciplinas">
       <input 
         type="checkbox" 
-        [(ngModel)]="disciplina.selecionada" 
-        (change)="atualizarDisciplinas()">
+        [(ngModel)]="disciplina.selecionada">
       <span [style.color]="disciplina.cor">
         {{ disciplina.sigla }} - {{ disciplina.nomeCompleto }}
       </span>
     </div>
-  
+  </div>
 
-  <p>
+  <div>
     <label for="email">Email: </label>
     <input type="email" [(ngModel)]="newUsuario.email" name="email" required email />
-  </p>
+  </div>
   
-  <p>
+  <div>
     <label for="senha">Senha: </label>
     <input type="password" [(ngModel)]="newUsuario.senha" name="senha" required />
-  </p>
-  
-  <p>
-    <button (click)="createUsuario(newUsuario)">Gravar</button>
-  </p>
-
-  <div *ngIf="mensagem" class="mensagem">
-    {{mensagem}}
   </div>
-</div>
 
-<app-sem-acesso></app-sem-acesso>
+  <div>
+    <label>Perfil:</label>
+    <div>
+      <input type="checkbox" [(ngModel)]="newUsuario.isAdmin" name="isAdmin">
+      <label for="isAdmin">Admin</label>
+    </div>
+    <div>
+      <input type="checkbox" [(ngModel)]="newUsuario.isTeacher" name="isTeacher">
+      <label for="isTeacher">Professor</label>
+    </div>
+  </div>
+
+  <button (click)="createUsuario()" [disabled]="!newUsuario.nome || !newUsuario.email || !newUsuario.senha || !permissao">
+    Criar Usuário
+  </button>
+
+</div>

@@ -2,8 +2,9 @@
   <div *ngIf="permissao">
     <!-- Exibir botão "Perfil de Administrador" se o usuário for um administrador -->
     <button *ngIf="isAdmin" (click)="selecionarPerfil('admin')">Perfil de Administrador</button>
-    <!-- Exibir botão "Perfil de Professor" se o usuário não for um administrador ou se ele for um administrador e tiver mais de uma disciplina -->
-    <button *ngIf="!isAdmin || (isAdmin && checkHasOtherDisciplines())" (click)="selecionarPerfil('prof')">Perfil de Professor</button>
+    
+    <!-- Exibir botão "Perfil de Professor" se o usuário for professor e tiver disciplinas -->
+    <button *ngIf="isTeacher && checkHasOtherDisciplines()" (click)="selecionarPerfil('prof')">Perfil de Professor</button>
   </div>
 </div>
 <app-sem-acesso></app-sem-acesso>

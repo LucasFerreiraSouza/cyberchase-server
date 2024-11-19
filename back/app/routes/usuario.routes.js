@@ -86,5 +86,16 @@ module.exports = app => {
       }
   })
 
+  router.get('/authenticate/:email/:password', async (req, res) =>  {
+
+        Usuario.findOne({email: req.params.email, senha: req.params.password})
+        .then((user) => {
+            if(!user) res.status(404).send({message: 'Usuário não encontrado'})
+            else res.status(200).send(user)
+            
+        })
+        .catch((err) => res.status(404).send({message: 'Usuário não encontrado, error:'&err}))
+    })
+
   app.use("/api/usuarios", router);
 };

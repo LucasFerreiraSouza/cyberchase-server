@@ -27,6 +27,18 @@
     </tr>
   </table>
 
+  <div>
+    <label>Perfil:</label>
+    <div>
+      <input type="checkbox" [(ngModel)]="usuario.isAdmin" name="isAdmin">
+      <label for="isAdmin">Admin</label>
+    </div>
+    <div>
+      <input type="checkbox" [(ngModel)]="usuario.isTeacher" name="isTeacher">
+      <label for="isTeacher">Professor</label>
+    </div>
+  </div>
+
   <p>
     <button (click)="usuarioEdit()">Gravar</button>
   </p>

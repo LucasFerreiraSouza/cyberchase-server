@@ -1,6 +1,5 @@
-import { Component, HostListener } from '@angular/core';
+import { Component } from '@angular/core';
 import { Router } from '@angular/router';
-
 import { UsuarioModel } from 'src/app/models/usuario.model';
 import { UsuarioServices } from 'src/app/services/usuario.services';
 import { AutenticacaoService } from 'src/app/services/autenticacao.service';
@@ -10,9 +9,8 @@ import { AutenticacaoService } from 'src/app/services/autenticacao.service';
   templateUrl: './usuario-list.component.html',
   styleUrls: ['./usuario-list.component.css'],
 })
-
 export class UsuarioListComponent {
-  usuarios?: UsuarioModel[]
+  usuarios: UsuarioModel[] = [];
   permissao: boolean = this.autenticacao.permissao;
   mensagemAtualizacao: boolean = false; 
 
@@ -33,30 +31,26 @@ export class UsuarioListComponent {
       },
       error: (error) => {
         if (error.error && error.error.message) {
-          alert(error.error.message);
+          // Aqui, considere usar um sistema de notificação em vez de alert
+          console.error(error.error.message);
         } else {
           console.error(error);
-          alert("Ocorreu um erro ao carregar os usuários. Por favor, tente novamente mais tarde.");
+          // Novamente, uma notificação pode ser melhor aqui
+          console.error("Ocorreu um erro ao carregar os usuários.");
         }
       }
     });
   }
 
-  alterarUsuario(id: string) {
+  alterarUsuario(id: string): void {
     this.router.navigate(['/UsuarioEdit', id]);
   }
 
-  excluirUsuario(id: string) {
+  excluirUsuario(id: string): void {
     this.router.navigate(['/UsuarioDelete', id]);
   }
 
-  incluirUsuario() {
+  incluirUsuario(): void {
     this.router.navigate(['/UsuarioAdd']);
   }
-
-  
-  
-  
-
-  
 }

@@ -59,7 +59,9 @@ exports.create = (req, res) => {
             nome: req.body.nome,
             disciplinas: req.body.disciplinas || [], // garante que disciplinas sejam um array, mesmo que vazio
             email: req.body.email,
-            senha: req.body.senha
+            senha: req.body.senha,
+            isAdmin: req.body.isAdmin,
+            isTeacher: req.body.isTeacher,
           });
 
           // Save Usuario in the database
@@ -142,7 +144,8 @@ exports.update = async (req, res) => {
           res.status(404).send({
             message: `Não foi possível atualizar o usuário com o ID=${id}. Talvez o usuário não tenha sido encontrado!`
           });
-        } else res.send({ message: "Usuário atualizado com sucesso." });
+        } 
+        // else res.send({ message: "Usuário atualizado com sucesso." });
       })
       .catch(err => {
         res.status(500).send({
@@ -189,6 +192,7 @@ exports.findById = (req, res) => {
 
 
 // Delete a Usuario with the specified id in the request
+// Delete a Usuario with the specified id in the request
 exports.delete = async (req, res) => {
   const id = req.params.id;
 
@@ -202,14 +206,11 @@ exports.delete = async (req, res) => {
     }
 
     // Verifica se o usuário é da disciplina "admin"
-    const isAdminUser = usuario.disciplinas.some(disciplina => disciplina.sigla === 'admin');
-    if (isAdminUser) {
-      const adminUsers = await Usuario.find({ 'disciplinas.sigla': 'admin' });
-      if (adminUsers.length === 1) {
-        return res.status(400).send({
-          message: "Não é possível excluir o único usuário da disciplina admin."
-        });
-      }
+    const adminUsers = await Usuario.find({ 'isAdmin': true });
+    if (adminUsers.length === 1 && adminUsers[0]._id.toString() === id) {
+      return res.status(400).send({
+        message: "Não é possível excluir o único usuário da disciplina admin."
+      });
     }
 
     // Encontra todas as perguntas relacionadas ao usuário
@@ -223,15 +224,13 @@ exports.delete = async (req, res) => {
         if (arquivo) {
           // Remove o arquivo do sistema de arquivos
           const filePath = arquivo.nome;
-          const directory = arquivo.nome.includes('.png', '.ogg') ? 'jogo/img/pictures/' : 'jogo/audio/se/';
+          const directory = arquivo.nome.endsWith('.png') || arquivo.nome.endsWith('.ogg') ? 'jogo/img/pictures/' : 'jogo/audio/se/';
           const fullPath = `../back/${directory}${filePath}`;
 
           // Verifica se o arquivo existe antes de tentar excluí-lo
           fs.unlink(fullPath, (err) => {
             if (err) {
               console.error("Erro ao excluir o arquivo do sistema de arquivos:", err);
-            } else {
-              //console.log("Arquivo excluído do sistema de arquivos com sucesso:", fullPath);
             }
           });
         }
@@ -254,6 +253,7 @@ exports.delete = async (req, res) => {
     });
   }
 };
+
 
 
 // Ler o conteúdo do arquivo sendgrid.env e obter a chave de API

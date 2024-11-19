@@ -1,12 +1,6 @@
 <div class="container">
   <div *ngIf="permissao">
-    <p><button (click)="redirectToUsuarios()">Usuários</button></p>
-
-    <!-- Botão para lançar nova versão do jogo -->
-    <button type="button" *ngIf="!zippingInProgress" [disabled]="botaoDesabilitado" (click)="launchNewGameVersion()">Lançar nova versão do jogo</button>
-    <!-- Exibe a mensagem de atualização, se houver -->
-    <div *ngIf="zippingInProgress">Aguarde enquanto o jogo está sendo atualizado...</div>
-    <div *ngIf="mensagemAtualizacao">{{ mensagemAtualizacao }}</div>
+    <p>Redirecionando para a lista de usuários...</p>
   </div>
 </div>
 

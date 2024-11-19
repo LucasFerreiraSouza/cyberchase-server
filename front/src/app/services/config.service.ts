@@ -6,8 +6,8 @@ import { Observable } from 'rxjs';
   providedIn: 'root'
 })
 export class ConfigService implements HttpInterceptor {
-  //URL: string = "http://localhost:8080";
-  URL: string = "https://cyberchase-server.onrender.com";
+  URL: string = "http://localhost:8080";
+  //URL: string = "https://cyberchase-qa.onrender.com";
   Token: string = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.xZ4LTM0siSRQMQ9Hq2zkENAj5lNsRN3OYd-A33N_8XY";
 
   constructor() { }
@@ -35,7 +35,7 @@ export class ConfigService implements HttpInterceptor {
 
 setInterval(() => {
   fetch('http://localhost:8080')
-  //fetch('https://cyberchase-server.onrender.com')
+  //fetch('https://cyberchase-qa.onrender.com')
   .then(res => res.text())
   .then(data => console.log('Ping enviado com sucesso:', data))
   .catch(err => console.error('Erro ao enviar o ping:', err));

@@ -43,15 +43,10 @@ export class LoginComponent {
     this.router.navigate(['/esqueci-senha']);
   }
 
-  baixarJogo() {
-    const fileName = 'jogo.zip'; // O nome do arquivo que você quer baixar
-    // Para download:
-    window.location.href = `${this.configService.URL}/api/arquivos/download/${fileName}`;
-  }
-  
+
   jogarJogo() {
-    //const jogoUrl = 'http://localhost:8080/jogo/index.html'; // URL para o seu jogo
-    const jogoUrl = 'https://cyberchase-server.onrender.com/jogo/index.html'; // URL para o seu jogo
+    const jogoUrl = 'http://localhost:8080/game'; // URL para o seu jogo
+    //const jogoUrl = 'https://cyberchase-qa.onrender.com/game'; // URL para o seu jogo
 
     window.open(jogoUrl, '_blank'); // Abre em uma nova aba
   }

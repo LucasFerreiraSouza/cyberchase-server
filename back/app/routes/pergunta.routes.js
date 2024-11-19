@@ -60,7 +60,6 @@ module.exports = app => {
       await arquivoRoutes.updateQuestions(); // Chama a função para atualizar perguntas
       await arquivoRoutes.updateArchives(); // Chama a função para atualizar perguntas
 
-
       // Se a resposta não foi enviada pelo controlador
       if (!res.headersSent) {
         res.status(200).json({ message: "Pergunta deletada e arquivos atualizados com sucesso." });

@@ -13,7 +13,6 @@ export class UsuarioEditComponent implements OnInit {
 
   usuario!: UsuarioModel;
   public disciplinas = [
-    { sigla: 'admin', nomeCompleto: 'admin', cor: '#1E90FF', selecionada: false }, // Azul
     { sigla: 'IAC001', nomeCompleto: 'Arquitetura e Organização de Computadores', cor: '#32CD32', selecionada: false }, // Verde
     { sigla: 'IAL002', nomeCompleto: 'Algoritmos e Lógica de Programação', cor: '#32CD32', selecionada: false }, // Verde
     { sigla: 'ILM001', nomeCompleto: 'Programação em Microinformática', cor: '#32CD32', selecionada: false }, // Verde
@@ -83,6 +82,8 @@ export class UsuarioEditComponent implements OnInit {
       nome: '',
       email: '',
       senha: '',
+      isAdmin: false,
+      isTeacher: false,
       disciplinas: [] // Inicializa como um array vazio
     };
 
