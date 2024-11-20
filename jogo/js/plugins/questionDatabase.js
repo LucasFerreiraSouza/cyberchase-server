@@ -6,7 +6,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#32CD32"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_6a0a2208-7d90-46dc-87ba-003a81cc59dc",
+        "GUID": "MZQ_9f03284c-0f96-4589-a4ca-7d198059e0a5",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -31,14 +31,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e09b841f34ae87326867",
-            "6733e09c841f34ae8732686b"
+            "673e52f4a311a8834bde1f3a",
+            "673e52f4a311a8834bde1f3e"
         ],
-        "createdAt": "2024-11-12T23:11:17.158Z",
-        "updatedAt": "2024-11-12T23:11:24.261Z",
-        "id": "6733e095841f34ae87325287"
+        "createdAt": "2024-11-20T21:21:53.599Z",
+        "updatedAt": "2024-11-20T21:21:56.877Z",
+        "id": "673e52f1a311a8834bde095a"
     },
     {
         "disciplina": {
@@ -47,7 +47,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#32CD32"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_d4d78d48-d6d8-4a7c-bb31-2c6534d3eb62",
+        "GUID": "MZQ_50e3fe48-d2f8-47a5-a341-4c75dfa9f38f",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -72,14 +72,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e09c841f34ae8732686f",
-            "6733e09d841f34ae87326873"
+            "673e52f5a311a8834bde1f42",
+            "673e52f5a311a8834bde1f46"
         ],
-        "createdAt": "2024-11-12T23:11:17.242Z",
-        "updatedAt": "2024-11-12T23:11:25.461Z",
-        "id": "6733e095841f34ae873252be"
+        "createdAt": "2024-11-20T21:21:53.638Z",
+        "updatedAt": "2024-11-20T21:21:57.952Z",
+        "id": "673e52f1a311a8834bde0991"
     },
     {
         "disciplina": {
@@ -88,7 +88,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#32CD32"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_5f0b948f-da45-4c97-8609-4e3919331d4e",
+        "GUID": "MZQ_c499eb59-07d5-4b61-b946-ea97f1fb05e2",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -113,14 +113,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e09e841f34ae87326877",
-            "6733e09e841f34ae8732687b"
+            "673e52f6a311a8834bde1f4a",
+            "673e52f7a311a8834bde1f4e"
         ],
-        "createdAt": "2024-11-12T23:11:17.297Z",
-        "updatedAt": "2024-11-12T23:11:26.696Z",
-        "id": "6733e095841f34ae873252f6"
+        "createdAt": "2024-11-20T21:21:53.661Z",
+        "updatedAt": "2024-11-20T21:21:59.025Z",
+        "id": "673e52f1a311a8834bde09c8"
     },
     {
         "disciplina": {
@@ -129,7 +129,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#32CD32"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_4b9b10bc-119f-4c6d-983a-5167946a2b63",
+        "GUID": "MZQ_007ac218-e337-4b39-a1af-fbd2fbf4b0de",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -154,14 +154,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e09f841f34ae8732687f",
-            "6733e09f841f34ae87326883"
+            "673e52f7a311a8834bde1f52",
+            "673e52f8a311a8834bde1f56"
         ],
-        "createdAt": "2024-11-12T23:11:17.350Z",
-        "updatedAt": "2024-11-12T23:11:27.942Z",
-        "id": "6733e095841f34ae8732532e"
+        "createdAt": "2024-11-20T21:21:53.694Z",
+        "updatedAt": "2024-11-20T21:22:00.096Z",
+        "id": "673e52f1a311a8834bde0a01"
     },
     {
         "disciplina": {
@@ -170,7 +170,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#32CD32"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_5e7e55f8-fe7c-4880-882e-1c01438b033b",
+        "GUID": "MZQ_b9389388-5f49-4b1a-bf1f-ccda7c8f88a2",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -195,14 +195,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0a0841f34ae87326887",
-            "6733e0a1841f34ae8732688b"
+            "673e52f8a311a8834bde1f5a",
+            "673e52f9a311a8834bde1f5e"
         ],
-        "createdAt": "2024-11-12T23:11:17.399Z",
-        "updatedAt": "2024-11-12T23:11:29.205Z",
-        "id": "6733e095841f34ae87325366"
+        "createdAt": "2024-11-20T21:21:53.725Z",
+        "updatedAt": "2024-11-20T21:22:01.176Z",
+        "id": "673e52f1a311a8834bde0a39"
     },
     {
         "disciplina": {
@@ -211,7 +211,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#32CD32"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_6f493262-b3d9-462e-a949-eddf49c4098e",
+        "GUID": "MZQ_45d66efd-52ac-4652-a2a2-10a80c393baf",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -236,14 +236,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0a1841f34ae8732688f",
-            "6733e0a2841f34ae87326893"
+            "673e52f9a311a8834bde1f62",
+            "673e52faa311a8834bde1f66"
         ],
-        "createdAt": "2024-11-12T23:11:17.453Z",
-        "updatedAt": "2024-11-12T23:11:30.454Z",
-        "id": "6733e095841f34ae8732539e"
+        "createdAt": "2024-11-20T21:21:53.755Z",
+        "updatedAt": "2024-11-20T21:22:02.251Z",
+        "id": "673e52f1a311a8834bde0a71"
     },
     {
         "disciplina": {
@@ -252,7 +252,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#32CD32"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_2bd365d1-668b-435e-b1b8-b6494ba25e42",
+        "GUID": "MZQ_75c2afb9-4392-4702-bcf2-a80040580b7f",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -277,14 +277,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0a3841f34ae87326897",
-            "6733e0a3841f34ae8732689b"
+            "673e52faa311a8834bde1f6a",
+            "673e52fba311a8834bde1f6e"
         ],
-        "createdAt": "2024-11-12T23:11:17.505Z",
-        "updatedAt": "2024-11-12T23:11:31.709Z",
-        "id": "6733e095841f34ae873253d6"
+        "createdAt": "2024-11-20T21:21:53.784Z",
+        "updatedAt": "2024-11-20T21:22:03.343Z",
+        "id": "673e52f1a311a8834bde0aa9"
     },
     {
         "disciplina": {
@@ -293,7 +293,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#32CD32"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_e1b348aa-d39a-41af-bfc4-6a5ef814a93f",
+        "GUID": "MZQ_949c4e1f-2776-41af-bc68-fcc62e245681",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -318,14 +318,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0a4841f34ae8732689f",
-            "6733e0a4841f34ae873268a3"
+            "673e52fba311a8834bde1f72",
+            "673e52fca311a8834bde1f76"
         ],
-        "createdAt": "2024-11-12T23:11:17.556Z",
-        "updatedAt": "2024-11-12T23:11:32.957Z",
-        "id": "6733e095841f34ae8732540e"
+        "createdAt": "2024-11-20T21:21:53.852Z",
+        "updatedAt": "2024-11-20T21:22:04.449Z",
+        "id": "673e52f1a311a8834bde0ae1"
     },
     {
         "disciplina": {
@@ -334,7 +334,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#32CD32"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_11e6e550-272d-4d04-beb5-614fdcaae3a9",
+        "GUID": "MZQ_cd9bfc84-0c60-461b-a05d-54231f987268",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -359,14 +359,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0a5841f34ae873268a7",
-            "6733e0a6841f34ae873268ab"
+            "673e52fda311a8834bde1f7a",
+            "673e52fda311a8834bde1f7e"
         ],
-        "createdAt": "2024-11-12T23:11:17.611Z",
-        "updatedAt": "2024-11-12T23:11:34.211Z",
-        "id": "6733e095841f34ae87325446"
+        "createdAt": "2024-11-20T21:21:53.882Z",
+        "updatedAt": "2024-11-20T21:22:05.546Z",
+        "id": "673e52f1a311a8834bde0b19"
     },
     {
         "disciplina": {
@@ -375,7 +375,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#32CD32"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_2c1b0cdd-6d2e-4ec8-9e01-5653c1138eeb",
+        "GUID": "MZQ_7d83e689-79b0-4c58-8977-f26e0218f983",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -400,14 +400,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0a6841f34ae873268af",
-            "6733e0a7841f34ae873268b3"
+            "673e52fea311a8834bde1f82",
+            "673e52fea311a8834bde1f86"
         ],
-        "createdAt": "2024-11-12T23:11:17.661Z",
-        "updatedAt": "2024-11-12T23:11:35.431Z",
-        "id": "6733e095841f34ae8732547e"
+        "createdAt": "2024-11-20T21:21:53.906Z",
+        "updatedAt": "2024-11-20T21:22:06.621Z",
+        "id": "673e52f1a311a8834bde0b51"
     },
     {
         "disciplina": {
@@ -416,7 +416,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#FFD700"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_640f2124-d667-4119-b17b-9663e10bad94",
+        "GUID": "MZQ_b693ea5a-9d30-406b-9e92-c52ac8ac42cf",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -441,14 +441,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0a8841f34ae873268b7",
-            "6733e0a8841f34ae873268bb"
+            "673e52ffa311a8834bde1f8a",
+            "673e52ffa311a8834bde1f8e"
         ],
-        "createdAt": "2024-11-12T23:11:17.708Z",
-        "updatedAt": "2024-11-12T23:11:36.703Z",
-        "id": "6733e095841f34ae873254b6"
+        "createdAt": "2024-11-20T21:21:53.939Z",
+        "updatedAt": "2024-11-20T21:22:07.698Z",
+        "id": "673e52f1a311a8834bde0b89"
     },
     {
         "disciplina": {
@@ -457,7 +457,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#FFD700"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_f7a3c9ad-1a34-455e-ad8e-67d59f2a2a88",
+        "GUID": "MZQ_45400925-5028-4f12-a3bb-13eddc36fb52",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -482,14 +482,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0a9841f34ae873268bf",
-            "6733e0a9841f34ae873268c3"
+            "673e5300a311a8834bde1f92",
+            "673e5300a311a8834bde1f96"
         ],
-        "createdAt": "2024-11-12T23:11:17.778Z",
-        "updatedAt": "2024-11-12T23:11:37.937Z",
-        "id": "6733e095841f34ae873254ee"
+        "createdAt": "2024-11-20T21:21:53.967Z",
+        "updatedAt": "2024-11-20T21:22:08.786Z",
+        "id": "673e52f1a311a8834bde0bc1"
     },
     {
         "disciplina": {
@@ -498,7 +498,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#FFD700"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_ac1f0ff5-e364-4c39-929d-bba7bf0d8bfb",
+        "GUID": "MZQ_85d966c5-771f-4805-9972-9aa14660a80f",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -523,14 +523,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0aa841f34ae873268c7",
-            "6733e0ab841f34ae873268cb"
+            "673e5301a311a8834bde1f9a",
+            "673e5301a311a8834bde1f9e"
         ],
-        "createdAt": "2024-11-12T23:11:17.849Z",
-        "updatedAt": "2024-11-12T23:11:39.141Z",
-        "id": "6733e095841f34ae87325526"
+        "createdAt": "2024-11-20T21:21:53.991Z",
+        "updatedAt": "2024-11-20T21:22:09.882Z",
+        "id": "673e52f1a311a8834bde0bf9"
     },
     {
         "disciplina": {
@@ -539,7 +539,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#FFD700"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_6d639520-b4f0-41cd-9f79-786f883dae04",
+        "GUID": "MZQ_05652b8b-acab-4f7c-9673-d3abe3e219e6",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -564,14 +564,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0ab841f34ae873268cf",
-            "6733e0ac841f34ae873268d3"
+            "673e5302a311a8834bde1fa2",
+            "673e5302a311a8834bde1fa6"
         ],
-        "createdAt": "2024-11-12T23:11:17.905Z",
-        "updatedAt": "2024-11-12T23:11:40.356Z",
-        "id": "6733e095841f34ae8732555e"
+        "createdAt": "2024-11-20T21:21:54.013Z",
+        "updatedAt": "2024-11-20T21:22:10.984Z",
+        "id": "673e52f2a311a8834bde0c31"
     },
     {
         "disciplina": {
@@ -580,7 +580,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#FFD700"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_5beb929b-4c5a-4013-9d54-0b689fd7bb57",
+        "GUID": "MZQ_3ffb5bbe-033b-4bec-b57f-bfd11e552b6c",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -605,14 +605,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0ac841f34ae873268d7",
-            "6733e0ad841f34ae873268db"
+            "673e5303a311a8834bde1faa",
+            "673e5304a311a8834bde1fae"
         ],
-        "createdAt": "2024-11-12T23:11:17.962Z",
-        "updatedAt": "2024-11-12T23:11:41.599Z",
-        "id": "6733e095841f34ae87325596"
+        "createdAt": "2024-11-20T21:21:54.046Z",
+        "updatedAt": "2024-11-20T21:22:12.060Z",
+        "id": "673e52f2a311a8834bde0c69"
     },
     {
         "disciplina": {
@@ -621,7 +621,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#FFD700"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_a7fc6823-e5c4-4624-90fd-129e2e7d403d",
+        "GUID": "MZQ_da8bf7ba-6ba3-482e-ad1a-b879fab267c0",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -646,14 +646,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0ae841f34ae873268df",
-            "6733e0ae841f34ae873268e3"
+            "673e5304a311a8834bde1fb2",
+            "673e5305a311a8834bde1fb6"
         ],
-        "createdAt": "2024-11-12T23:11:18.016Z",
-        "updatedAt": "2024-11-12T23:11:42.847Z",
-        "id": "6733e096841f34ae873255ce"
+        "createdAt": "2024-11-20T21:21:54.068Z",
+        "updatedAt": "2024-11-20T21:22:13.131Z",
+        "id": "673e52f2a311a8834bde0ca1"
     },
     {
         "disciplina": {
@@ -662,7 +662,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#FFD700"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_2c78cc0f-fdaf-474b-a16b-52db894a3549",
+        "GUID": "MZQ_9c717fc1-7e9d-4b36-b009-0bcbb8770ce5",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -687,14 +687,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0af841f34ae873268e7",
-            "6733e0b0841f34ae873268eb"
+            "673e5305a311a8834bde1fba",
+            "673e5306a311a8834bde1fbe"
         ],
-        "createdAt": "2024-11-12T23:11:18.070Z",
-        "updatedAt": "2024-11-12T23:11:44.111Z",
-        "id": "6733e096841f34ae87325606"
+        "createdAt": "2024-11-20T21:21:54.089Z",
+        "updatedAt": "2024-11-20T21:22:14.208Z",
+        "id": "673e52f2a311a8834bde0cd9"
     },
     {
         "disciplina": {
@@ -703,7 +703,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#FFD700"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_44f2422c-91ce-4835-841b-0adc249b64d1",
+        "GUID": "MZQ_eb0935cc-97cb-46e5-8577-e395e9b8f38e",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -728,14 +728,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0b0841f34ae873268ef",
-            "6733e0b1841f34ae873268f3"
+            "673e5306a311a8834bde1fc2",
+            "673e5307a311a8834bde1fc6"
         ],
-        "createdAt": "2024-11-12T23:11:18.125Z",
-        "updatedAt": "2024-11-12T23:11:45.365Z",
-        "id": "6733e096841f34ae8732563f"
+        "createdAt": "2024-11-20T21:21:54.107Z",
+        "updatedAt": "2024-11-20T21:22:15.280Z",
+        "id": "673e52f2a311a8834bde0d11"
     },
     {
         "disciplina": {
@@ -744,7 +744,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#FFD700"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_23463fe8-6c45-4238-a347-a94bb5e4442e",
+        "GUID": "MZQ_600d6454-f4e6-4534-80e1-a473d8afc50a",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -769,14 +769,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0b1841f34ae873268f7",
-            "6733e0b2841f34ae873268fb"
+            "673e5307a311a8834bde1fca",
+            "673e5308a311a8834bde1fce"
         ],
-        "createdAt": "2024-11-12T23:11:18.174Z",
-        "updatedAt": "2024-11-12T23:11:46.637Z",
-        "id": "6733e096841f34ae87325676"
+        "createdAt": "2024-11-20T21:21:54.128Z",
+        "updatedAt": "2024-11-20T21:22:16.359Z",
+        "id": "673e52f2a311a8834bde0d49"
     },
     {
         "disciplina": {
@@ -785,7 +785,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#FFD700"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_09dce41a-13bd-4450-9356-40aefd615f74",
+        "GUID": "MZQ_74050ecc-91a2-4349-835a-7d2c862793fe",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -810,14 +810,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0b3841f34ae873268ff",
-            "6733e0b3841f34ae87326903"
+            "673e5308a311a8834bde1fd2",
+            "673e5309a311a8834bde1fd6"
         ],
-        "createdAt": "2024-11-12T23:11:18.225Z",
-        "updatedAt": "2024-11-12T23:11:47.869Z",
-        "id": "6733e096841f34ae873256ae"
+        "createdAt": "2024-11-20T21:21:54.153Z",
+        "updatedAt": "2024-11-20T21:22:17.427Z",
+        "id": "673e52f2a311a8834bde0d81"
     },
     {
         "disciplina": {
@@ -826,7 +826,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF8C00"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_5c3f85ae-b276-43f1-a01d-59ad29bc978e",
+        "GUID": "MZQ_cc35f1fb-bd09-478f-9371-395247c183d8",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -851,14 +851,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0b4841f34ae87326907",
-            "6733e0b5841f34ae8732690b"
+            "673e5309a311a8834bde1fda",
+            "673e530aa311a8834bde1fde"
         ],
-        "createdAt": "2024-11-12T23:11:18.277Z",
-        "updatedAt": "2024-11-12T23:11:49.121Z",
-        "id": "6733e096841f34ae873256e6"
+        "createdAt": "2024-11-20T21:21:54.174Z",
+        "updatedAt": "2024-11-20T21:22:18.498Z",
+        "id": "673e52f2a311a8834bde0db9"
     },
     {
         "disciplina": {
@@ -867,7 +867,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF8C00"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_83ab3bfd-79a0-4749-be3e-1e61c59fab82",
+        "GUID": "MZQ_f2c1e6b5-82e7-4cd2-abdc-2ea023ab078a",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -892,14 +892,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0b5841f34ae8732690f",
-            "6733e0b6841f34ae87326913"
+            "673e530ba311a8834bde1fe2",
+            "673e530ba311a8834bde1fe6"
         ],
-        "createdAt": "2024-11-12T23:11:18.331Z",
-        "updatedAt": "2024-11-12T23:11:50.384Z",
-        "id": "6733e096841f34ae8732571e"
+        "createdAt": "2024-11-20T21:21:54.195Z",
+        "updatedAt": "2024-11-20T21:22:19.569Z",
+        "id": "673e52f2a311a8834bde0df1"
     },
     {
         "disciplina": {
@@ -908,7 +908,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF8C00"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_65d023cc-5ff5-4780-abb5-6d3f4b7333f6",
+        "GUID": "MZQ_993f3a76-63e8-493e-b26f-71eb598e0108",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -933,14 +933,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0b6841f34ae87326917",
-            "6733e0b7841f34ae8732691b"
+            "673e530ca311a8834bde1fea",
+            "673e530ca311a8834bde1fee"
         ],
-        "createdAt": "2024-11-12T23:11:18.380Z",
-        "updatedAt": "2024-11-12T23:11:51.628Z",
-        "id": "6733e096841f34ae87325756"
+        "createdAt": "2024-11-20T21:21:54.220Z",
+        "updatedAt": "2024-11-20T21:22:20.642Z",
+        "id": "673e52f2a311a8834bde0e29"
     },
     {
         "disciplina": {
@@ -949,7 +949,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF8C00"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_25a389ba-7efc-45b2-b47a-4b173e54c021",
+        "GUID": "MZQ_62bcb586-3ecd-4cd5-a8b1-b036467c6a51",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -974,14 +974,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0b8841f34ae8732691f",
-            "6733e0b8841f34ae87326923"
+            "673e530da311a8834bde1ff2",
+            "673e530da311a8834bde1ff6"
         ],
-        "createdAt": "2024-11-12T23:11:18.432Z",
-        "updatedAt": "2024-11-12T23:11:52.870Z",
-        "id": "6733e096841f34ae8732578e"
+        "createdAt": "2024-11-20T21:21:54.243Z",
+        "updatedAt": "2024-11-20T21:22:21.718Z",
+        "id": "673e52f2a311a8834bde0e61"
     },
     {
         "disciplina": {
@@ -990,7 +990,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF8C00"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_8bca668e-2c52-4197-b917-790947edd5da",
+        "GUID": "MZQ_59d84e7c-796e-4a74-96fb-36c6aecdb35c",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -1015,14 +1015,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0b9841f34ae87326927",
-            "6733e0ba841f34ae8732692b"
+            "673e530ea311a8834bde1ffa",
+            "673e530ea311a8834bde1ffe"
         ],
-        "createdAt": "2024-11-12T23:11:18.481Z",
-        "updatedAt": "2024-11-12T23:11:54.109Z",
-        "id": "6733e096841f34ae873257c6"
+        "createdAt": "2024-11-20T21:21:54.266Z",
+        "updatedAt": "2024-11-20T21:22:22.796Z",
+        "id": "673e52f2a311a8834bde0e99"
     },
     {
         "disciplina": {
@@ -1031,7 +1031,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF8C00"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_4dc5fe88-8b25-4250-a82c-a0d1c9117e49",
+        "GUID": "MZQ_5983c55e-b7b2-4c4e-9cab-002008332a02",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -1056,14 +1056,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0ba841f34ae8732692f",
-            "6733e0bb841f34ae87326933"
+            "673e530fa311a8834bde2002",
+            "673e530fa311a8834bde2006"
         ],
-        "createdAt": "2024-11-12T23:11:18.531Z",
-        "updatedAt": "2024-11-12T23:11:55.359Z",
-        "id": "6733e096841f34ae873257fe"
+        "createdAt": "2024-11-20T21:21:54.288Z",
+        "updatedAt": "2024-11-20T21:22:23.867Z",
+        "id": "673e52f2a311a8834bde0ed1"
     },
     {
         "disciplina": {
@@ -1072,7 +1072,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF8C00"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_d468b033-1a15-4c0b-bf03-398e1cf86b9a",
+        "GUID": "MZQ_9b70a3e4-3033-41bd-b699-7a4adb077c93",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -1097,14 +1097,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0bb841f34ae87326937",
-            "6733e0bc841f34ae8732693b"
+            "673e5310a311a8834bde200a",
+            "673e5310a311a8834bde200e"
         ],
-        "createdAt": "2024-11-12T23:11:18.593Z",
-        "updatedAt": "2024-11-12T23:11:56.601Z",
-        "id": "6733e096841f34ae87325836"
+        "createdAt": "2024-11-20T21:21:54.307Z",
+        "updatedAt": "2024-11-20T21:22:24.928Z",
+        "id": "673e52f2a311a8834bde0f09"
     },
     {
         "disciplina": {
@@ -1113,7 +1113,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF8C00"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_dd96d3cc-bb5a-43d2-81b5-0cd891effb3d",
+        "GUID": "MZQ_cd5458f9-1ada-43eb-a9d3-f379a3f974c7",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -1138,14 +1138,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0bd841f34ae8732693f",
-            "6733e0bd841f34ae87326943"
+            "673e5311a311a8834bde2012",
+            "673e5312a311a8834bde2016"
         ],
-        "createdAt": "2024-11-12T23:11:18.643Z",
-        "updatedAt": "2024-11-12T23:11:57.825Z",
-        "id": "6733e096841f34ae8732586e"
+        "createdAt": "2024-11-20T21:21:54.328Z",
+        "updatedAt": "2024-11-20T21:22:26.006Z",
+        "id": "673e52f2a311a8834bde0f41"
     },
     {
         "disciplina": {
@@ -1154,7 +1154,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF8C00"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_09770764-e9d5-4938-b987-f2bf53744bbf",
+        "GUID": "MZQ_8fc0387b-0ce4-41a2-84e6-3007ad349c4e",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -1179,14 +1179,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0be841f34ae87326947",
-            "6733e0bf841f34ae8732694b"
+            "673e5312a311a8834bde201a",
+            "673e5313a311a8834bde201e"
         ],
-        "createdAt": "2024-11-12T23:11:18.728Z",
-        "updatedAt": "2024-11-12T23:11:59.076Z",
-        "id": "6733e096841f34ae873258a6"
+        "createdAt": "2024-11-20T21:21:54.349Z",
+        "updatedAt": "2024-11-20T21:22:27.080Z",
+        "id": "673e52f2a311a8834bde0f79"
     },
     {
         "disciplina": {
@@ -1195,7 +1195,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF8C00"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_c3cbea94-c0b5-43f7-805e-3ccd96af0cde",
+        "GUID": "MZQ_2cdef9be-ae46-42e4-978f-58506a4b7b91",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -1220,14 +1220,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0bf841f34ae8732694f",
-            "6733e0c0841f34ae87326953"
+            "673e5313a311a8834bde2022",
+            "673e5314a311a8834bde2026"
         ],
-        "createdAt": "2024-11-12T23:11:18.779Z",
-        "updatedAt": "2024-11-12T23:12:00.346Z",
-        "id": "6733e096841f34ae873258de"
+        "createdAt": "2024-11-20T21:21:54.375Z",
+        "updatedAt": "2024-11-20T21:22:28.145Z",
+        "id": "673e52f2a311a8834bde0fb1"
     },
     {
         "disciplina": {
@@ -1236,7 +1236,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF8C00"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_3865c788-c479-4f8c-b1a2-9336775f59a6",
+        "GUID": "MZQ_7cfc25f7-18e8-4412-8be4-904310d70075",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -1261,14 +1261,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0c0841f34ae87326957",
-            "6733e0c1841f34ae8732695b"
+            "673e5314a311a8834bde202a",
+            "673e5315a311a8834bde202e"
         ],
-        "createdAt": "2024-11-12T23:11:18.829Z",
-        "updatedAt": "2024-11-12T23:12:01.578Z",
-        "id": "6733e096841f34ae87325916"
+        "createdAt": "2024-11-20T21:21:54.408Z",
+        "updatedAt": "2024-11-20T21:22:29.216Z",
+        "id": "673e52f2a311a8834bde0fe9"
     },
     {
         "disciplina": {
@@ -1277,7 +1277,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF8C00"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_fc76261a-f49c-4b3f-8605-31e55c2ee557",
+        "GUID": "MZQ_b1cc0e8c-737e-44f1-95cf-5da95ed48291",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -1302,14 +1302,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0c2841f34ae8732695f",
-            "6733e0c2841f34ae87326963"
+            "673e5315a311a8834bde2032",
+            "673e5316a311a8834bde2036"
         ],
-        "createdAt": "2024-11-12T23:11:18.877Z",
-        "updatedAt": "2024-11-12T23:12:02.815Z",
-        "id": "6733e096841f34ae8732594e"
+        "createdAt": "2024-11-20T21:21:54.428Z",
+        "updatedAt": "2024-11-20T21:22:30.290Z",
+        "id": "673e52f2a311a8834bde1021"
     },
     {
         "disciplina": {
@@ -1318,7 +1318,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF0000"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_ed5df862-7029-452e-8814-4c9bd673dcfc",
+        "GUID": "MZQ_a735d4d2-7a81-4bd7-a7ca-2b3280051589",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -1343,14 +1343,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0c3841f34ae87326967",
-            "6733e0c4841f34ae8732696b"
+            "673e5316a311a8834bde203a",
+            "673e5317a311a8834bde203e"
         ],
-        "createdAt": "2024-11-12T23:11:18.929Z",
-        "updatedAt": "2024-11-12T23:12:04.053Z",
-        "id": "6733e096841f34ae87325986"
+        "createdAt": "2024-11-20T21:21:54.449Z",
+        "updatedAt": "2024-11-20T21:22:31.363Z",
+        "id": "673e52f2a311a8834bde1059"
     },
     {
         "disciplina": {
@@ -1359,7 +1359,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF0000"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_4f89f739-1eb8-407f-a951-2f8c99661b49",
+        "GUID": "MZQ_0771f712-0e03-4ed6-b9d7-432a1423123d",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -1384,14 +1384,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0c4841f34ae8732696f",
-            "6733e0c5841f34ae87326973"
+            "673e5317a311a8834bde2042",
+            "673e5318a311a8834bde2046"
         ],
-        "createdAt": "2024-11-12T23:11:18.985Z",
-        "updatedAt": "2024-11-12T23:12:05.284Z",
-        "id": "6733e096841f34ae873259be"
+        "createdAt": "2024-11-20T21:21:54.471Z",
+        "updatedAt": "2024-11-20T21:22:32.433Z",
+        "id": "673e52f2a311a8834bde1091"
     },
     {
         "disciplina": {
@@ -1400,7 +1400,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF0000"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_e1ad8e02-cb05-476e-9be0-a7157f9b65d2",
+        "GUID": "MZQ_906a94fe-3d57-4d99-b037-43e29260ae3a",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -1425,14 +1425,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0c5841f34ae87326977",
-            "6733e0c6841f34ae8732697b"
+            "673e5318a311a8834bde204a",
+            "673e5319a311a8834bde204e"
         ],
-        "createdAt": "2024-11-12T23:11:19.043Z",
-        "updatedAt": "2024-11-12T23:12:06.552Z",
-        "id": "6733e097841f34ae873259f6"
+        "createdAt": "2024-11-20T21:21:54.491Z",
+        "updatedAt": "2024-11-20T21:22:33.498Z",
+        "id": "673e52f2a311a8834bde10c9"
     },
     {
         "disciplina": {
@@ -1441,7 +1441,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF0000"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_09bff408-12a5-4417-8841-a2c8d38dddfe",
+        "GUID": "MZQ_cfa81455-cf19-43df-8eee-1f172f208d55",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -1466,14 +1466,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0c7841f34ae8732697f",
-            "6733e0c7841f34ae87326983"
+            "673e531aa311a8834bde2052",
+            "673e531aa311a8834bde2056"
         ],
-        "createdAt": "2024-11-12T23:11:19.097Z",
-        "updatedAt": "2024-11-12T23:12:07.777Z",
-        "id": "6733e097841f34ae87325a2e"
+        "createdAt": "2024-11-20T21:21:54.517Z",
+        "updatedAt": "2024-11-20T21:22:34.559Z",
+        "id": "673e52f2a311a8834bde1101"
     },
     {
         "disciplina": {
@@ -1482,7 +1482,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF0000"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_403b0abc-1300-4c6c-8c4a-c1bdbaf22c1e",
+        "GUID": "MZQ_db428f23-cd16-4006-83a2-9479fe1d1559",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -1507,14 +1507,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0c8841f34ae87326987",
-            "6733e0c8841f34ae8732698b"
+            "673e531ba311a8834bde205a",
+            "673e531ba311a8834bde205e"
         ],
-        "createdAt": "2024-11-12T23:11:19.154Z",
-        "updatedAt": "2024-11-12T23:12:09.009Z",
-        "id": "6733e097841f34ae87325a66"
+        "createdAt": "2024-11-20T21:21:54.540Z",
+        "updatedAt": "2024-11-20T21:22:35.607Z",
+        "id": "673e52f2a311a8834bde1139"
     },
     {
         "disciplina": {
@@ -1523,7 +1523,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF0000"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_b0015064-878f-4bd4-a9fa-e98aa53a37de",
+        "GUID": "MZQ_f2c9e4a6-be7d-4565-90c6-b5b8666dd8a6",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -1548,14 +1548,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0c9841f34ae8732698f",
-            "6733e0ca841f34ae87326993"
+            "673e531ca311a8834bde2062",
+            "673e531ca311a8834bde2066"
         ],
-        "createdAt": "2024-11-12T23:11:19.218Z",
-        "updatedAt": "2024-11-12T23:12:10.264Z",
-        "id": "6733e097841f34ae87325a9e"
+        "createdAt": "2024-11-20T21:21:54.560Z",
+        "updatedAt": "2024-11-20T21:22:36.681Z",
+        "id": "673e52f2a311a8834bde1171"
     },
     {
         "disciplina": {
@@ -1564,7 +1564,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF0000"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_ddd84ab3-7918-4740-a205-02dafe2ccc46",
+        "GUID": "MZQ_8a685a4f-e794-409d-88ba-97d011a76bba",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -1589,14 +1589,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0ca841f34ae87326997",
-            "6733e0cb841f34ae8732699b"
+            "673e531da311a8834bde206a",
+            "673e531da311a8834bde206e"
         ],
-        "createdAt": "2024-11-12T23:11:19.286Z",
-        "updatedAt": "2024-11-12T23:12:11.505Z",
-        "id": "6733e097841f34ae87325ad6"
+        "createdAt": "2024-11-20T21:21:54.586Z",
+        "updatedAt": "2024-11-20T21:22:37.755Z",
+        "id": "673e52f2a311a8834bde11a9"
     },
     {
         "disciplina": {
@@ -1605,7 +1605,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF0000"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_2801d48f-91f1-4657-bf35-bb80bc204caa",
+        "GUID": "MZQ_3d45cbb7-7e94-4041-9b62-131358b778ee",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -1630,14 +1630,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0cc841f34ae8732699f",
-            "6733e0cc841f34ae873269a3"
+            "673e531ea311a8834bde2072",
+            "673e531ea311a8834bde2076"
         ],
-        "createdAt": "2024-11-12T23:11:19.358Z",
-        "updatedAt": "2024-11-12T23:12:12.761Z",
-        "id": "6733e097841f34ae87325b0e"
+        "createdAt": "2024-11-20T21:21:54.607Z",
+        "updatedAt": "2024-11-20T21:22:38.816Z",
+        "id": "673e52f2a311a8834bde11e1"
     },
     {
         "disciplina": {
@@ -1646,7 +1646,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF0000"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_9662ca54-c112-4bfc-9ac7-d0c5e0aa1cce",
+        "GUID": "MZQ_5de4623d-3048-431b-a35a-cbbeb7387b17",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -1671,14 +1671,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0cd841f34ae873269a7",
-            "6733e0cd841f34ae873269ab"
+            "673e531fa311a8834bde207a",
+            "673e531fa311a8834bde207e"
         ],
-        "createdAt": "2024-11-12T23:11:19.416Z",
-        "updatedAt": "2024-11-12T23:12:14.007Z",
-        "id": "6733e097841f34ae87325b46"
+        "createdAt": "2024-11-20T21:21:54.629Z",
+        "updatedAt": "2024-11-20T21:22:39.891Z",
+        "id": "673e52f2a311a8834bde1219"
     },
     {
         "disciplina": {
@@ -1687,7 +1687,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF0000"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_c578c84b-2071-4531-8c20-1730816348f8",
+        "GUID": "MZQ_9eabcdaf-7179-46ac-ade8-e13c9c1915f7",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -1712,14 +1712,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0ce841f34ae873269af",
-            "6733e0cf841f34ae873269b3"
+            "673e5320a311a8834bde2082",
+            "673e5320a311a8834bde2086"
         ],
-        "createdAt": "2024-11-12T23:11:19.479Z",
-        "updatedAt": "2024-11-12T23:12:15.217Z",
-        "id": "6733e097841f34ae87325b7e"
+        "createdAt": "2024-11-20T21:21:54.655Z",
+        "updatedAt": "2024-11-20T21:22:40.960Z",
+        "id": "673e52f2a311a8834bde1251"
     },
     {
         "disciplina": {
@@ -1728,7 +1728,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF0000"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_cf509f43-80a2-40d7-816f-8700b63b9248",
+        "GUID": "MZQ_e6b8dea8-b6e2-4d82-bc2d-70cb3c64c9be",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -1753,14 +1753,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0cf841f34ae873269b7",
-            "6733e0d0841f34ae873269bb"
+            "673e5321a311a8834bde208a",
+            "673e5322a311a8834bde208e"
         ],
-        "createdAt": "2024-11-12T23:11:19.537Z",
-        "updatedAt": "2024-11-12T23:12:16.465Z",
-        "id": "6733e097841f34ae87325bb6"
+        "createdAt": "2024-11-20T21:21:54.676Z",
+        "updatedAt": "2024-11-20T21:22:42.025Z",
+        "id": "673e52f2a311a8834bde1289"
     },
     {
         "disciplina": {
@@ -1769,7 +1769,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF0000"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_260d3e7c-e40e-4244-97c3-baf0d06318be",
+        "GUID": "MZQ_21c598bb-c320-4e7c-953d-4a802a1d04f5",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -1794,14 +1794,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0d1841f34ae873269bf",
-            "6733e0d1841f34ae873269c3"
+            "673e5322a311a8834bde2092",
+            "673e5323a311a8834bde2096"
         ],
-        "createdAt": "2024-11-12T23:11:19.589Z",
-        "updatedAt": "2024-11-12T23:12:17.711Z",
-        "id": "6733e097841f34ae87325bee"
+        "createdAt": "2024-11-20T21:21:54.706Z",
+        "updatedAt": "2024-11-20T21:22:43.096Z",
+        "id": "673e52f2a311a8834bde12c1"
     },
     {
         "disciplina": {
@@ -1810,7 +1810,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#8A2BE2"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_3d0d8e16-d61f-4a3a-ae67-8260c767320c",
+        "GUID": "MZQ_fe9d9dbd-4e81-4205-bbba-f5e9e5459a1f",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -1835,14 +1835,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0d2841f34ae873269c7",
-            "6733e0d2841f34ae873269cb"
+            "673e5323a311a8834bde209a",
+            "673e5324a311a8834bde209e"
         ],
-        "createdAt": "2024-11-12T23:11:19.657Z",
-        "updatedAt": "2024-11-12T23:12:18.945Z",
-        "id": "6733e097841f34ae87325c26"
+        "createdAt": "2024-11-20T21:21:54.740Z",
+        "updatedAt": "2024-11-20T21:22:44.157Z",
+        "id": "673e52f2a311a8834bde12f9"
     },
     {
         "disciplina": {
@@ -1851,7 +1851,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#8A2BE2"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_67e4c742-87ad-4771-b538-0423e937ed57",
+        "GUID": "MZQ_6f2d7f9c-615f-48f3-bdab-8c42adb76c15",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -1876,14 +1876,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0d3841f34ae873269cf",
-            "6733e0d4841f34ae873269d3"
+            "673e5324a311a8834bde20a2",
+            "673e5325a311a8834bde20a6"
         ],
-        "createdAt": "2024-11-12T23:11:19.720Z",
-        "updatedAt": "2024-11-12T23:12:20.194Z",
-        "id": "6733e097841f34ae87325c5e"
+        "createdAt": "2024-11-20T21:21:54.765Z",
+        "updatedAt": "2024-11-20T21:22:45.234Z",
+        "id": "673e52f2a311a8834bde1331"
     },
     {
         "disciplina": {
@@ -1892,7 +1892,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#8A2BE2"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_5fd872fb-6a4a-4d82-b0d9-9ca0bc6834d3",
+        "GUID": "MZQ_0d9775f9-e7d2-4ed9-acab-696c007a488d",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -1917,14 +1917,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0d4841f34ae873269d7",
-            "6733e0d5841f34ae873269db"
+            "673e5325a311a8834bde20aa",
+            "673e5326a311a8834bde20ae"
         ],
-        "createdAt": "2024-11-12T23:11:19.791Z",
-        "updatedAt": "2024-11-12T23:12:21.434Z",
-        "id": "6733e097841f34ae87325c96"
+        "createdAt": "2024-11-20T21:21:54.787Z",
+        "updatedAt": "2024-11-20T21:22:46.298Z",
+        "id": "673e52f2a311a8834bde1369"
     },
     {
         "disciplina": {
@@ -1933,7 +1933,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#8A2BE2"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_2888fd72-7bfc-4bff-bb58-6409e9981100",
+        "GUID": "MZQ_2d47868d-d3db-4baa-8648-bef0f0c89bf8",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -1958,14 +1958,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0d6841f34ae873269df",
-            "6733e0d6841f34ae873269e3"
+            "673e5326a311a8834bde20b2",
+            "673e5327a311a8834bde20b6"
         ],
-        "createdAt": "2024-11-12T23:11:19.852Z",
-        "updatedAt": "2024-11-12T23:12:22.706Z",
-        "id": "6733e097841f34ae87325cce"
+        "createdAt": "2024-11-20T21:21:54.808Z",
+        "updatedAt": "2024-11-20T21:22:47.378Z",
+        "id": "673e52f2a311a8834bde13a1"
     },
     {
         "disciplina": {
@@ -1974,7 +1974,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#8A2BE2"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_84c5ce59-b73c-41fb-abab-97129e450e48",
+        "GUID": "MZQ_2f5abcbe-3946-43c8-b5d1-5179cabeff99",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -1999,14 +1999,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0d7841f34ae873269e7",
-            "6733e0d7841f34ae873269eb"
+            "673e5327a311a8834bde20ba",
+            "673e5328a311a8834bde20be"
         ],
-        "createdAt": "2024-11-12T23:11:19.901Z",
-        "updatedAt": "2024-11-12T23:12:23.958Z",
-        "id": "6733e097841f34ae87325d06"
+        "createdAt": "2024-11-20T21:21:54.830Z",
+        "updatedAt": "2024-11-20T21:22:48.447Z",
+        "id": "673e52f2a311a8834bde13d9"
     },
     {
         "disciplina": {
@@ -2015,7 +2015,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#8A2BE2"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_a6957b8e-2c6d-4cc5-b0aa-c5d831470e73",
+        "GUID": "MZQ_7ff8138b-cdbb-40d7-9c4d-42d8dff937ff",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -2040,14 +2040,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0d8841f34ae873269ef",
-            "6733e0d9841f34ae873269f3"
+            "673e5328a311a8834bde20c2",
+            "673e5329a311a8834bde20c6"
         ],
-        "createdAt": "2024-11-12T23:11:19.958Z",
-        "updatedAt": "2024-11-12T23:12:25.197Z",
-        "id": "6733e097841f34ae87325d3e"
+        "createdAt": "2024-11-20T21:21:54.852Z",
+        "updatedAt": "2024-11-20T21:22:49.509Z",
+        "id": "673e52f2a311a8834bde1411"
     },
     {
         "disciplina": {
@@ -2056,7 +2056,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#8A2BE2"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_1d4730d8-a970-4094-99cb-494ba3c7f08b",
+        "GUID": "MZQ_024ba0f4-3bb7-4e68-bf9a-2e14d3c02847",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -2081,14 +2081,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0d9841f34ae873269f7",
-            "6733e0da841f34ae873269fb"
+            "673e532aa311a8834bde20ca",
+            "673e532aa311a8834bde20ce"
         ],
-        "createdAt": "2024-11-12T23:11:20.020Z",
-        "updatedAt": "2024-11-12T23:12:26.443Z",
-        "id": "6733e098841f34ae87325d76"
+        "createdAt": "2024-11-20T21:21:54.875Z",
+        "updatedAt": "2024-11-20T21:22:50.579Z",
+        "id": "673e52f2a311a8834bde1449"
     },
     {
         "disciplina": {
@@ -2097,7 +2097,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#8A2BE2"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_2619fcbe-581a-408b-a5a3-744afe52421b",
+        "GUID": "MZQ_0107fced-ca2a-404d-a3b4-66506a3ef6be",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -2122,14 +2122,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0db841f34ae873269ff",
-            "6733e0db841f34ae87326a03"
+            "673e532ba311a8834bde20d2",
+            "673e532ba311a8834bde20d6"
         ],
-        "createdAt": "2024-11-12T23:11:20.086Z",
-        "updatedAt": "2024-11-12T23:12:27.689Z",
-        "id": "6733e098841f34ae87325dae"
+        "createdAt": "2024-11-20T21:21:54.899Z",
+        "updatedAt": "2024-11-20T21:22:51.657Z",
+        "id": "673e52f2a311a8834bde1481"
     },
     {
         "disciplina": {
@@ -2138,7 +2138,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#8A2BE2"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_e12b9ae9-e669-43dd-8bd4-0d1f060c011e",
+        "GUID": "MZQ_ac67701b-e892-4d76-afc9-801910664069",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -2163,14 +2163,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0dc841f34ae87326a07",
-            "6733e0dc841f34ae87326a0b"
+            "673e532ca311a8834bde20da",
+            "673e532ca311a8834bde20de"
         ],
-        "createdAt": "2024-11-12T23:11:20.151Z",
-        "updatedAt": "2024-11-12T23:12:28.995Z",
-        "id": "6733e098841f34ae87325de6"
+        "createdAt": "2024-11-20T21:21:54.921Z",
+        "updatedAt": "2024-11-20T21:22:52.731Z",
+        "id": "673e52f2a311a8834bde14b9"
     },
     {
         "disciplina": {
@@ -2179,7 +2179,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#8A2BE2"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_05671986-4668-4083-8e82-54485d663fe4",
+        "GUID": "MZQ_904441ad-120a-4bc1-8220-11a0979753ed",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -2204,14 +2204,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0dd841f34ae87326a0f",
-            "6733e0de841f34ae87326a13"
+            "673e532da311a8834bde20e2",
+            "673e532da311a8834bde20e6"
         ],
-        "createdAt": "2024-11-12T23:11:20.231Z",
-        "updatedAt": "2024-11-12T23:12:30.246Z",
-        "id": "6733e098841f34ae87325e1e"
+        "createdAt": "2024-11-20T21:21:54.944Z",
+        "updatedAt": "2024-11-20T21:22:53.805Z",
+        "id": "673e52f2a311a8834bde14f1"
     },
     {
         "disciplina": {
@@ -2220,7 +2220,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#8A2BE2"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_18d347ac-7604-468a-9acc-fabc977814a9",
+        "GUID": "MZQ_c30be56d-2d91-43ea-8b1b-c1029de74968",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -2245,14 +2245,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0de841f34ae87326a17",
-            "6733e0df841f34ae87326a1b"
+            "673e532ea311a8834bde20ea",
+            "673e532ea311a8834bde20ee"
         ],
-        "createdAt": "2024-11-12T23:11:20.287Z",
-        "updatedAt": "2024-11-12T23:12:31.606Z",
-        "id": "6733e098841f34ae87325e56"
+        "createdAt": "2024-11-20T21:21:54.970Z",
+        "updatedAt": "2024-11-20T21:22:54.879Z",
+        "id": "673e52f2a311a8834bde1529"
     },
     {
         "disciplina": {
@@ -2261,7 +2261,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#8A2BE2"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_b98b64dc-1e23-44fd-b5dc-59c1538bc806",
+        "GUID": "MZQ_88a8a653-a0bf-47e2-add9-7f80a2c4edd8",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -2286,14 +2286,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0e0841f34ae87326a1f",
-            "6733e0e0841f34ae87326a23"
+            "673e532fa311a8834bde20f2",
+            "673e532fa311a8834bde20f6"
         ],
-        "createdAt": "2024-11-12T23:11:20.338Z",
-        "updatedAt": "2024-11-12T23:12:32.925Z",
-        "id": "6733e098841f34ae87325e8e"
+        "createdAt": "2024-11-20T21:21:54.996Z",
+        "updatedAt": "2024-11-20T21:22:55.958Z",
+        "id": "673e52f2a311a8834bde1561"
     },
     {
         "disciplina": {
@@ -2302,7 +2302,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#8A2BE2"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_20971527-a0fb-47cd-b608-ad2e2f8a7f92",
+        "GUID": "MZQ_0334d8ef-d3ed-46b3-a85b-003a25fd91c0",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -2327,14 +2327,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0e1841f34ae87326a27",
-            "6733e0e2841f34ae87326a2b"
+            "673e5330a311a8834bde20fa",
+            "673e5331a311a8834bde20fe"
         ],
-        "createdAt": "2024-11-12T23:11:20.418Z",
-        "updatedAt": "2024-11-12T23:12:34.214Z",
-        "id": "6733e098841f34ae87325ec6"
+        "createdAt": "2024-11-20T21:21:55.021Z",
+        "updatedAt": "2024-11-20T21:22:57.035Z",
+        "id": "673e52f3a311a8834bde1599"
     },
     {
         "disciplina": {
@@ -2343,7 +2343,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#8A2BE2"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_563c42fc-5bbe-4f27-b918-5a45ad1aca3e",
+        "GUID": "MZQ_7c0eceb8-d62e-42bf-bbaf-975af1d892b4",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -2368,14 +2368,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0e2841f34ae87326a2f",
-            "6733e0e3841f34ae87326a33"
+            "673e5331a311a8834bde2102",
+            "673e5332a311a8834bde2106"
         ],
-        "createdAt": "2024-11-12T23:11:20.500Z",
-        "updatedAt": "2024-11-12T23:12:35.497Z",
-        "id": "6733e098841f34ae87325efe"
+        "createdAt": "2024-11-20T21:21:55.053Z",
+        "updatedAt": "2024-11-20T21:22:58.096Z",
+        "id": "673e52f3a311a8834bde15d1"
     },
     {
         "disciplina": {
@@ -2384,7 +2384,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#4B0082"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_958d80b0-80e3-401e-854d-996e306a222c",
+        "GUID": "MZQ_5777f702-3274-4e00-8e36-d7071973d209",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -2409,14 +2409,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0e4841f34ae87326a37",
-            "6733e0e4841f34ae87326a3b"
+            "673e5332a311a8834bde210a",
+            "673e5333a311a8834bde210e"
         ],
-        "createdAt": "2024-11-12T23:11:20.576Z",
-        "updatedAt": "2024-11-12T23:12:36.778Z",
-        "id": "6733e098841f34ae87325f36"
+        "createdAt": "2024-11-20T21:21:55.078Z",
+        "updatedAt": "2024-11-20T21:22:59.157Z",
+        "id": "673e52f3a311a8834bde1609"
     },
     {
         "disciplina": {
@@ -2425,7 +2425,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#4B0082"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_4fd5666e-df60-44c7-8717-161c6c71a6a4",
+        "GUID": "MZQ_adc3ea07-0057-42da-8266-8cef91042ecf",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -2450,14 +2450,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0e5841f34ae87326a3f",
-            "6733e0e6841f34ae87326a43"
+            "673e5333a311a8834bde2112",
+            "673e5334a311a8834bde2116"
         ],
-        "createdAt": "2024-11-12T23:11:20.644Z",
-        "updatedAt": "2024-11-12T23:12:38.119Z",
-        "id": "6733e098841f34ae87325f6e"
+        "createdAt": "2024-11-20T21:21:55.105Z",
+        "updatedAt": "2024-11-20T21:23:00.226Z",
+        "id": "673e52f3a311a8834bde1641"
     },
     {
         "disciplina": {
@@ -2466,7 +2466,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#4B0082"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_c7c33379-93d2-457c-a9f4-9e007c99db38",
+        "GUID": "MZQ_7dfff48e-d164-4b22-ab6b-76110eeff004",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -2491,14 +2491,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0e6841f34ae87326a47",
-            "6733e0e7841f34ae87326a4b"
+            "673e5334a311a8834bde211a",
+            "673e5335a311a8834bde211e"
         ],
-        "createdAt": "2024-11-12T23:11:20.713Z",
-        "updatedAt": "2024-11-12T23:12:39.623Z",
-        "id": "6733e098841f34ae87325fa6"
+        "createdAt": "2024-11-20T21:21:55.132Z",
+        "updatedAt": "2024-11-20T21:23:01.291Z",
+        "id": "673e52f3a311a8834bde1679"
     },
     {
         "disciplina": {
@@ -2507,7 +2507,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#4B0082"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_4454b695-e8bf-4a3f-a401-48268595e11d",
+        "GUID": "MZQ_4e03b5ad-650a-4550-bd01-c020fb79e485",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -2532,14 +2532,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0e8841f34ae87326a4f",
-            "6733e0e8841f34ae87326a53"
+            "673e5335a311a8834bde2122",
+            "673e5336a311a8834bde2126"
         ],
-        "createdAt": "2024-11-12T23:11:20.779Z",
-        "updatedAt": "2024-11-12T23:12:41.072Z",
-        "id": "6733e098841f34ae87325fde"
+        "createdAt": "2024-11-20T21:21:55.157Z",
+        "updatedAt": "2024-11-20T21:23:02.366Z",
+        "id": "673e52f3a311a8834bde16b1"
     },
     {
         "disciplina": {
@@ -2548,7 +2548,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#4B0082"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_3f98ef91-a9c3-4173-896f-790ffc51ed94",
+        "GUID": "MZQ_dc2aad20-421e-4654-998d-85f6cd1567a4",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -2573,14 +2573,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0e9841f34ae87326a57",
-            "6733e0ea841f34ae87326a5b"
+            "673e5336a311a8834bde212a",
+            "673e5337a311a8834bde212e"
         ],
-        "createdAt": "2024-11-12T23:11:20.855Z",
-        "updatedAt": "2024-11-12T23:12:42.949Z",
-        "id": "6733e098841f34ae87326016"
+        "createdAt": "2024-11-20T21:21:55.183Z",
+        "updatedAt": "2024-11-20T21:23:03.422Z",
+        "id": "673e52f3a311a8834bde16e9"
     },
     {
         "disciplina": {
@@ -2589,7 +2589,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#4B0082"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_6612ebec-c83b-4153-8f9d-0407b4f37d7a",
+        "GUID": "MZQ_073c36e3-1862-40f2-a313-7091cf4eefd5",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -2614,14 +2614,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0eb841f34ae87326a5f",
-            "6733e0ec841f34ae87326a63"
+            "673e5337a311a8834bde2132",
+            "673e5338a311a8834bde2136"
         ],
-        "createdAt": "2024-11-12T23:11:20.944Z",
-        "updatedAt": "2024-11-12T23:12:44.604Z",
-        "id": "6733e098841f34ae8732604e"
+        "createdAt": "2024-11-20T21:21:55.209Z",
+        "updatedAt": "2024-11-20T21:23:04.500Z",
+        "id": "673e52f3a311a8834bde1721"
     },
     {
         "disciplina": {
@@ -2630,7 +2630,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#4B0082"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_0c0ba7c3-41f4-41c5-be51-f94f48191f4a",
+        "GUID": "MZQ_99a6f6db-54e8-4cc3-9e88-65f02811f15e",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -2655,14 +2655,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0ed841f34ae87326a67",
-            "6733e0ee841f34ae87326a6b"
+            "673e5339a311a8834bde213a",
+            "673e5339a311a8834bde213e"
         ],
-        "createdAt": "2024-11-12T23:11:21.003Z",
-        "updatedAt": "2024-11-12T23:12:46.431Z",
-        "id": "6733e099841f34ae87326086"
+        "createdAt": "2024-11-20T21:21:55.233Z",
+        "updatedAt": "2024-11-20T21:23:05.578Z",
+        "id": "673e52f3a311a8834bde1759"
     },
     {
         "disciplina": {
@@ -2671,7 +2671,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#4B0082"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_6d52ce4c-7ba1-4f14-a47c-7457b6254703",
+        "GUID": "MZQ_574bf87a-a0c5-42af-953f-9187c30decab",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -2696,14 +2696,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0ef841f34ae87326a6f",
-            "6733e0ef841f34ae87326a73"
+            "673e533aa311a8834bde2142",
+            "673e533aa311a8834bde2146"
         ],
-        "createdAt": "2024-11-12T23:11:21.098Z",
-        "updatedAt": "2024-11-12T23:12:47.775Z",
-        "id": "6733e099841f34ae873260be"
+        "createdAt": "2024-11-20T21:21:55.261Z",
+        "updatedAt": "2024-11-20T21:23:06.627Z",
+        "id": "673e52f3a311a8834bde1791"
     },
     {
         "disciplina": {
@@ -2712,7 +2712,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#4B0082"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_859b807a-e00f-44cf-94e0-7b63c021ef9f",
+        "GUID": "MZQ_3a822165-0d05-441d-9f0b-87b02fcff2f1",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -2737,14 +2737,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0f0841f34ae87326a77",
-            "6733e0f1841f34ae87326a7b"
+            "673e533ba311a8834bde214a",
+            "673e533ba311a8834bde214e"
         ],
-        "createdAt": "2024-11-12T23:11:21.174Z",
-        "updatedAt": "2024-11-12T23:12:49.092Z",
-        "id": "6733e099841f34ae873260f6"
+        "createdAt": "2024-11-20T21:21:55.290Z",
+        "updatedAt": "2024-11-20T21:23:07.690Z",
+        "id": "673e52f3a311a8834bde17c9"
     },
     {
         "disciplina": {
@@ -2753,7 +2753,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#4B0082"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_8ed19323-0d1a-4e15-b12f-dcea7f0db0fe",
+        "GUID": "MZQ_e9682915-0960-4afd-8639-7195c92f6023",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -2778,14 +2778,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0f1841f34ae87326a7f",
-            "6733e0f2841f34ae87326a83"
+            "673e533ca311a8834bde2152",
+            "673e533ca311a8834bde2156"
         ],
-        "createdAt": "2024-11-12T23:11:21.227Z",
-        "updatedAt": "2024-11-12T23:12:50.396Z",
-        "id": "6733e099841f34ae8732612e"
+        "createdAt": "2024-11-20T21:21:55.317Z",
+        "updatedAt": "2024-11-20T21:23:08.759Z",
+        "id": "673e52f3a311a8834bde1801"
     },
     {
         "disciplina": {
@@ -2794,7 +2794,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#4B0082"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_2518bd83-bb66-439c-b787-2580c199aafd",
+        "GUID": "MZQ_04106bdc-bfbd-40be-aacd-05d3ebee68af",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -2819,14 +2819,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0f3841f34ae87326a87",
-            "6733e0f3841f34ae87326a8b"
+            "673e533da311a8834bde215a",
+            "673e533da311a8834bde215e"
         ],
-        "createdAt": "2024-11-12T23:11:21.292Z",
-        "updatedAt": "2024-11-12T23:12:51.674Z",
-        "id": "6733e099841f34ae87326166"
+        "createdAt": "2024-11-20T21:21:55.347Z",
+        "updatedAt": "2024-11-20T21:23:09.829Z",
+        "id": "673e52f3a311a8834bde1839"
     },
     {
         "disciplina": {
@@ -2835,7 +2835,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#4B0082"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_853417f1-df5e-46fb-8878-7bcaab31427c",
+        "GUID": "MZQ_c30e1602-43bc-4ab4-82bc-b80d5a9e97b2",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -2860,14 +2860,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0f4841f34ae87326a8f",
-            "6733e0f4841f34ae87326a93"
+            "673e533ea311a8834bde2162",
+            "673e533ea311a8834bde2166"
         ],
-        "createdAt": "2024-11-12T23:11:21.363Z",
-        "updatedAt": "2024-11-12T23:12:52.984Z",
-        "id": "6733e099841f34ae8732619e"
+        "createdAt": "2024-11-20T21:21:55.376Z",
+        "updatedAt": "2024-11-20T21:23:10.896Z",
+        "id": "673e52f3a311a8834bde1871"
     },
     {
         "disciplina": {
@@ -2876,7 +2876,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#00FFFF"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_91b16c90-c7da-494d-835b-c638347207d5",
+        "GUID": "MZQ_dee1c6c3-0632-4ffe-b8a3-2812dd881233",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -2901,14 +2901,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0f5841f34ae87326a97",
-            "6733e0f6841f34ae87326a9b"
+            "673e533fa311a8834bde216a",
+            "673e533fa311a8834bde216e"
         ],
-        "createdAt": "2024-11-12T23:11:21.421Z",
-        "updatedAt": "2024-11-12T23:12:54.276Z",
-        "id": "6733e099841f34ae873261d6"
+        "createdAt": "2024-11-20T21:21:55.407Z",
+        "updatedAt": "2024-11-20T21:23:11.963Z",
+        "id": "673e52f3a311a8834bde18a9"
     },
     {
         "disciplina": {
@@ -2917,7 +2917,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#00FFFF"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_0af08c06-a45c-423c-bfaf-1d8b2cdea307",
+        "GUID": "MZQ_856d6501-7b7d-445a-ae6a-e96839f96b8e",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -2942,14 +2942,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0f6841f34ae87326a9f",
-            "6733e0f7841f34ae87326aa3"
+            "673e5340a311a8834bde2172",
+            "673e5341a311a8834bde2176"
         ],
-        "createdAt": "2024-11-12T23:11:21.488Z",
-        "updatedAt": "2024-11-12T23:12:55.510Z",
-        "id": "6733e099841f34ae8732620e"
+        "createdAt": "2024-11-20T21:21:55.440Z",
+        "updatedAt": "2024-11-20T21:23:13.023Z",
+        "id": "673e52f3a311a8834bde18e1"
     },
     {
         "disciplina": {
@@ -2958,7 +2958,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#00FFFF"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_f64d7b7d-b99d-4435-bbd7-9fa8ae1e895a",
+        "GUID": "MZQ_3a4d0af2-9eda-4f07-b3b0-2bad457b332a",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -2983,14 +2983,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0f8841f34ae87326aa7",
-            "6733e0f8841f34ae87326aab"
+            "673e5341a311a8834bde217a",
+            "673e5342a311a8834bde217e"
         ],
-        "createdAt": "2024-11-12T23:11:21.560Z",
-        "updatedAt": "2024-11-12T23:12:56.749Z",
-        "id": "6733e099841f34ae87326246"
+        "createdAt": "2024-11-20T21:21:55.469Z",
+        "updatedAt": "2024-11-20T21:23:14.098Z",
+        "id": "673e52f3a311a8834bde1919"
     },
     {
         "disciplina": {
@@ -2999,7 +2999,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#00FFFF"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_4be70dd1-8943-4d31-a1d8-c0725ab609b0",
+        "GUID": "MZQ_d979e643-ef54-49a3-80f2-67773a39d79d",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -3024,14 +3024,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0f9841f34ae87326aaf",
-            "6733e0f9841f34ae87326ab3"
+            "673e5342a311a8834bde2182",
+            "673e5343a311a8834bde2186"
         ],
-        "createdAt": "2024-11-12T23:11:21.641Z",
-        "updatedAt": "2024-11-12T23:12:57.984Z",
-        "id": "6733e099841f34ae8732627e"
+        "createdAt": "2024-11-20T21:21:55.499Z",
+        "updatedAt": "2024-11-20T21:23:15.154Z",
+        "id": "673e52f3a311a8834bde1951"
     },
     {
         "disciplina": {
@@ -3040,7 +3040,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#00FFFF"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_4fc21c77-54ae-48a4-b66e-fd482367d0ad",
+        "GUID": "MZQ_ce2f33c6-aa13-4ad8-9356-9779cfcb8ca2",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -3065,14 +3065,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0fa841f34ae87326ab7",
-            "6733e0fb841f34ae87326abb"
+            "673e5343a311a8834bde218a",
+            "673e5344a311a8834bde218e"
         ],
-        "createdAt": "2024-11-12T23:11:21.701Z",
-        "updatedAt": "2024-11-12T23:12:59.235Z",
-        "id": "6733e099841f34ae873262b6"
+        "createdAt": "2024-11-20T21:21:55.525Z",
+        "updatedAt": "2024-11-20T21:23:16.224Z",
+        "id": "673e52f3a311a8834bde1989"
     },
     {
         "disciplina": {
@@ -3081,7 +3081,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#00FFFF"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_510a6d7f-31f6-4d2e-96eb-8e34e54547b1",
+        "GUID": "MZQ_51d24f94-c76c-4e97-be58-964ee08ededb",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -3106,14 +3106,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0fb841f34ae87326abf",
-            "6733e0fc841f34ae87326ac3"
+            "673e5344a311a8834bde2192",
+            "673e5345a311a8834bde2196"
         ],
-        "createdAt": "2024-11-12T23:11:21.757Z",
-        "updatedAt": "2024-11-12T23:13:00.502Z",
-        "id": "6733e099841f34ae873262ee"
+        "createdAt": "2024-11-20T21:21:55.553Z",
+        "updatedAt": "2024-11-20T21:23:17.282Z",
+        "id": "673e52f3a311a8834bde19c1"
     },
     {
         "disciplina": {
@@ -3122,7 +3122,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#00FFFF"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_3f0eb1e2-bcb4-434b-a162-fd66dde56fc0",
+        "GUID": "MZQ_3b6af68a-2840-4443-b868-24a04c125cfd",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -3147,14 +3147,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0fd841f34ae87326ac7",
-            "6733e0fd841f34ae87326acb"
+            "673e5345a311a8834bde219a",
+            "673e5346a311a8834bde219e"
         ],
-        "createdAt": "2024-11-12T23:11:21.821Z",
-        "updatedAt": "2024-11-12T23:13:01.768Z",
-        "id": "6733e099841f34ae87326326"
+        "createdAt": "2024-11-20T21:21:55.580Z",
+        "updatedAt": "2024-11-20T21:23:18.350Z",
+        "id": "673e52f3a311a8834bde19f9"
     },
     {
         "disciplina": {
@@ -3163,7 +3163,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#00FFFF"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_2f0dc7a6-a1ff-444b-aefa-e593b4b2fe94",
+        "GUID": "MZQ_2f6f8d47-e317-408d-8392-7c677c938faf",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -3188,14 +3188,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e0fe841f34ae87326acf",
-            "6733e100841f34ae87326ad3"
+            "673e5346a311a8834bde21a2",
+            "673e5347a311a8834bde21a6"
         ],
-        "createdAt": "2024-11-12T23:11:21.887Z",
-        "updatedAt": "2024-11-12T23:13:04.665Z",
-        "id": "6733e099841f34ae8732635e"
+        "createdAt": "2024-11-20T21:21:55.607Z",
+        "updatedAt": "2024-11-20T21:23:19.413Z",
+        "id": "673e52f3a311a8834bde1a31"
     },
     {
         "disciplina": {
@@ -3204,7 +3204,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#00FFFF"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_84c32689-7c3c-4c4d-83cc-c1a3f8b70c03",
+        "GUID": "MZQ_cacbb09d-abf0-4255-9329-9e13d2f8719a",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -3229,14 +3229,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e101841f34ae87326ad7",
-            "6733e101841f34ae87326adb"
+            "673e5347a311a8834bde21aa",
+            "673e5348a311a8834bde21ae"
         ],
-        "createdAt": "2024-11-12T23:11:21.961Z",
-        "updatedAt": "2024-11-12T23:13:06.184Z",
-        "id": "6733e099841f34ae87326396"
+        "createdAt": "2024-11-20T21:21:55.634Z",
+        "updatedAt": "2024-11-20T21:23:20.477Z",
+        "id": "673e52f3a311a8834bde1a69"
     },
     {
         "disciplina": {
@@ -3245,7 +3245,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#00FFFF"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_429fc30c-e330-4c57-832d-43c55d86081f",
+        "GUID": "MZQ_8b207497-2001-4455-b639-c8ee8a561985",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -3270,14 +3270,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e102841f34ae87326adf",
-            "6733e103841f34ae87326ae3"
+            "673e5349a311a8834bde21b2",
+            "673e5349a311a8834bde21b6"
         ],
-        "createdAt": "2024-11-12T23:11:22.025Z",
-        "updatedAt": "2024-11-12T23:13:07.684Z",
-        "id": "6733e09a841f34ae873263ce"
+        "createdAt": "2024-11-20T21:21:55.661Z",
+        "updatedAt": "2024-11-20T21:23:21.549Z",
+        "id": "673e52f3a311a8834bde1aa1"
     },
     {
         "disciplina": {
@@ -3286,7 +3286,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#00FFFF"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_2a11b8e3-e551-40a8-826d-e461bb23d183",
+        "GUID": "MZQ_ac262b55-c2e3-46c2-8f5b-6e1f10504b2b",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -3311,14 +3311,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e104841f34ae87326ae7",
-            "6733e104841f34ae87326aeb"
+            "673e534aa311a8834bde21ba",
+            "673e534aa311a8834bde21be"
         ],
-        "createdAt": "2024-11-12T23:11:22.087Z",
-        "updatedAt": "2024-11-12T23:13:09.187Z",
-        "id": "6733e09a841f34ae87326406"
+        "createdAt": "2024-11-20T21:21:55.694Z",
+        "updatedAt": "2024-11-20T21:23:22.613Z",
+        "id": "673e52f3a311a8834bde1ad9"
     },
     {
         "disciplina": {
@@ -3327,7 +3327,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#00FFFF"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_d6078b1f-ce3b-4164-9d63-0318c434a0a6",
+        "GUID": "MZQ_82ee4b44-e219-4720-abe9-50c76b33a653",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -3352,14 +3352,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e105841f34ae87326aef",
-            "6733e106841f34ae87326af3"
+            "673e534ba311a8834bde21c2",
+            "673e534ba311a8834bde21c6"
         ],
-        "createdAt": "2024-11-12T23:11:22.160Z",
-        "updatedAt": "2024-11-12T23:13:11.051Z",
-        "id": "6733e09a841f34ae8732643e"
+        "createdAt": "2024-11-20T21:21:55.720Z",
+        "updatedAt": "2024-11-20T21:23:23.681Z",
+        "id": "673e52f3a311a8834bde1b11"
     },
     {
         "disciplina": {
@@ -3368,7 +3368,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#00FFFF"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_47b0d630-76d8-4aef-bc62-81b80c1ec7b1",
+        "GUID": "MZQ_ae84a4e1-e6a3-40f0-bc81-a6315805e713",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -3393,14 +3393,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e107841f34ae87326af7",
-            "6733e108841f34ae87326afb"
+            "673e534ca311a8834bde21ca",
+            "673e534ca311a8834bde21ce"
         ],
-        "createdAt": "2024-11-12T23:11:22.229Z",
-        "updatedAt": "2024-11-12T23:13:12.812Z",
-        "id": "6733e09a841f34ae87326476"
+        "createdAt": "2024-11-20T21:21:55.748Z",
+        "updatedAt": "2024-11-20T21:23:24.752Z",
+        "id": "673e52f3a311a8834bde1b49"
     },
     {
         "disciplina": {
@@ -3409,7 +3409,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#00FFFF"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_86fdf4ef-88f1-458b-9eae-317331b04fde",
+        "GUID": "MZQ_ebb6499a-0260-45fc-b379-4bc8cb2db46d",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -3434,14 +3434,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e109841f34ae87326aff",
-            "6733e10a841f34ae87326b03"
+            "673e534da311a8834bde21d2",
+            "673e534da311a8834bde21d6"
         ],
-        "createdAt": "2024-11-12T23:11:22.294Z",
-        "updatedAt": "2024-11-12T23:13:14.276Z",
-        "id": "6733e09a841f34ae873264ae"
+        "createdAt": "2024-11-20T21:21:55.780Z",
+        "updatedAt": "2024-11-20T21:23:25.819Z",
+        "id": "673e52f3a311a8834bde1b81"
     },
     {
         "disciplina": {
@@ -3450,7 +3450,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#00FFFF"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_d7fe7c32-1980-4406-abbd-a86a6576aad0",
+        "GUID": "MZQ_cd325cf1-6f1b-45ed-81c4-b2dfdd20ebcc",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -3475,14 +3475,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e10a841f34ae87326b07",
-            "6733e10b841f34ae87326b0b"
+            "673e534ea311a8834bde21da",
+            "673e534ea311a8834bde21de"
         ],
-        "createdAt": "2024-11-12T23:11:22.369Z",
-        "updatedAt": "2024-11-12T23:13:15.745Z",
-        "id": "6733e09a841f34ae873264e6"
+        "createdAt": "2024-11-20T21:21:55.808Z",
+        "updatedAt": "2024-11-20T21:23:26.883Z",
+        "id": "673e52f3a311a8834bde1bb9"
     },
     {
         "disciplina": {
@@ -3491,7 +3491,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#00FFFF"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_3bac0666-4c2e-4ac2-b1ae-a31722e56ab8",
+        "GUID": "MZQ_48aa5217-8915-4c72-95e6-3f9485d3fb4d",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -3516,14 +3516,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e10c841f34ae87326b0f",
-            "6733e10d841f34ae87326b13"
+            "673e534fa311a8834bde21e2",
+            "673e534fa311a8834bde21e6"
         ],
-        "createdAt": "2024-11-12T23:11:22.436Z",
-        "updatedAt": "2024-11-12T23:13:17.249Z",
-        "id": "6733e09a841f34ae8732651e"
+        "createdAt": "2024-11-20T21:21:55.837Z",
+        "updatedAt": "2024-11-20T21:23:27.943Z",
+        "id": "673e52f3a311a8834bde1bf1"
     },
     {
         "disciplina": {
@@ -3532,7 +3532,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#EE82EE"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_0eea6b9d-bc61-4ad3-9349-902dbd2060e7",
+        "GUID": "MZQ_d673ee49-c995-4a71-b576-52be6cbba0a5",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -3557,14 +3557,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e10d841f34ae87326b17",
-            "6733e10e841f34ae87326b1b"
+            "673e5350a311a8834bde21ea",
+            "673e5351a311a8834bde21ee"
         ],
-        "createdAt": "2024-11-12T23:11:22.501Z",
-        "updatedAt": "2024-11-12T23:13:18.768Z",
-        "id": "6733e09a841f34ae87326556"
+        "createdAt": "2024-11-20T21:21:55.868Z",
+        "updatedAt": "2024-11-20T21:23:29.014Z",
+        "id": "673e52f3a311a8834bde1c29"
     },
     {
         "disciplina": {
@@ -3573,7 +3573,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#EE82EE"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_7dc673e5-de9b-43db-8948-7c068fa25219",
+        "GUID": "MZQ_e646acb0-26c8-492a-b72d-4559a10bf947",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -3598,14 +3598,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e10f841f34ae87326b1f",
-            "6733e110841f34ae87326b23"
+            "673e5351a311a8834bde21f2",
+            "673e5352a311a8834bde21f6"
         ],
-        "createdAt": "2024-11-12T23:11:22.562Z",
-        "updatedAt": "2024-11-12T23:13:20.281Z",
-        "id": "6733e09a841f34ae8732658e"
+        "createdAt": "2024-11-20T21:21:55.898Z",
+        "updatedAt": "2024-11-20T21:23:30.074Z",
+        "id": "673e52f3a311a8834bde1c61"
     },
     {
         "disciplina": {
@@ -3614,7 +3614,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#EE82EE"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_d3d2c85d-1114-446f-9747-259a923cb40d",
+        "GUID": "MZQ_cea535af-1e14-4c4a-b8cb-0576a8feb866",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -3639,14 +3639,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e110841f34ae87326b27",
-            "6733e111841f34ae87326b2b"
+            "673e5352a311a8834bde21fa",
+            "673e5353a311a8834bde21fe"
         ],
-        "createdAt": "2024-11-12T23:11:22.631Z",
-        "updatedAt": "2024-11-12T23:13:21.785Z",
-        "id": "6733e09a841f34ae873265c6"
+        "createdAt": "2024-11-20T21:21:55.927Z",
+        "updatedAt": "2024-11-20T21:23:31.133Z",
+        "id": "673e52f3a311a8834bde1c99"
     },
     {
         "disciplina": {
@@ -3655,7 +3655,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#EE82EE"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_82b5db10-5adb-4a61-bb27-16db65808f28",
+        "GUID": "MZQ_39c9c865-23db-4f1c-a546-965367c29d57",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -3680,14 +3680,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e112841f34ae87326b2f",
-            "6733e113841f34ae87326b33"
+            "673e5353a311a8834bde2202",
+            "673e5354a311a8834bde2206"
         ],
-        "createdAt": "2024-11-12T23:11:22.712Z",
-        "updatedAt": "2024-11-12T23:13:23.252Z",
-        "id": "6733e09a841f34ae873265fe"
+        "createdAt": "2024-11-20T21:21:55.956Z",
+        "updatedAt": "2024-11-20T21:23:32.206Z",
+        "id": "673e52f3a311a8834bde1cd1"
     },
     {
         "disciplina": {
@@ -3696,7 +3696,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#EE82EE"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_b63a1792-13d4-42d4-9ec8-5d8f8f613f83",
+        "GUID": "MZQ_094c34d9-28e2-4611-8740-869b0398124f",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -3721,14 +3721,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e113841f34ae87326b37",
-            "6733e114841f34ae87326b3b"
+            "673e5354a311a8834bde220a",
+            "673e5355a311a8834bde220e"
         ],
-        "createdAt": "2024-11-12T23:11:22.794Z",
-        "updatedAt": "2024-11-12T23:13:24.743Z",
-        "id": "6733e09a841f34ae87326636"
+        "createdAt": "2024-11-20T21:21:55.985Z",
+        "updatedAt": "2024-11-20T21:23:33.278Z",
+        "id": "673e52f3a311a8834bde1d09"
     },
     {
         "disciplina": {
@@ -3737,7 +3737,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#EE82EE"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_71e52832-438c-4924-904f-1516d7796584",
+        "GUID": "MZQ_558a2848-80c0-4cbf-88f4-e3d577602527",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -3762,14 +3762,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e115841f34ae87326b3f",
-            "6733e116841f34ae87326b43"
+            "673e5355a311a8834bde2212",
+            "673e5356a311a8834bde2216"
         ],
-        "createdAt": "2024-11-12T23:11:22.869Z",
-        "updatedAt": "2024-11-12T23:13:26.227Z",
-        "id": "6733e09a841f34ae8732666e"
+        "createdAt": "2024-11-20T21:21:56.012Z",
+        "updatedAt": "2024-11-20T21:23:34.351Z",
+        "id": "673e52f4a311a8834bde1d41"
     },
     {
         "disciplina": {
@@ -3778,7 +3778,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#EE82EE"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_cf19c6f0-4fc4-4119-8e58-924f53280e27",
+        "GUID": "MZQ_dd487d9a-7786-472a-85f8-34062679c247",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -3803,14 +3803,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e116841f34ae87326b47",
-            "6733e117841f34ae87326b4b"
+            "673e5356a311a8834bde221a",
+            "673e5357a311a8834bde221e"
         ],
-        "createdAt": "2024-11-12T23:11:22.940Z",
-        "updatedAt": "2024-11-12T23:13:27.716Z",
-        "id": "6733e09a841f34ae873266a6"
+        "createdAt": "2024-11-20T21:21:56.045Z",
+        "updatedAt": "2024-11-20T21:23:35.429Z",
+        "id": "673e52f4a311a8834bde1d79"
     },
     {
         "disciplina": {
@@ -3819,7 +3819,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#EE82EE"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_49c3995e-d8d4-45b1-bc57-2f5e73f1fb1f",
+        "GUID": "MZQ_10c27318-3310-4b07-b074-94b2f5dae8ad",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -3844,14 +3844,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e118841f34ae87326b4f",
-            "6733e118841f34ae87326b53"
+            "673e5357a311a8834bde2222",
+            "673e5358a311a8834bde2226"
         ],
-        "createdAt": "2024-11-12T23:11:23.025Z",
-        "updatedAt": "2024-11-12T23:13:29.160Z",
-        "id": "6733e09b841f34ae873266de"
+        "createdAt": "2024-11-20T21:21:56.075Z",
+        "updatedAt": "2024-11-20T21:23:36.500Z",
+        "id": "673e52f4a311a8834bde1db1"
     },
     {
         "disciplina": {
@@ -3860,7 +3860,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#EE82EE"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_8c7c8f29-ca19-4872-87e9-aa9b475efa52",
+        "GUID": "MZQ_993b208d-349d-4a15-9a1f-b14340aacdc3",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -3885,14 +3885,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e119841f34ae87326b57",
-            "6733e11a841f34ae87326b5b"
+            "673e5359a311a8834bde222a",
+            "673e5359a311a8834bde222e"
         ],
-        "createdAt": "2024-11-12T23:11:23.093Z",
-        "updatedAt": "2024-11-12T23:13:30.635Z",
-        "id": "6733e09b841f34ae87326716"
+        "createdAt": "2024-11-20T21:21:56.106Z",
+        "updatedAt": "2024-11-20T21:23:37.576Z",
+        "id": "673e52f4a311a8834bde1de9"
     },
     {
         "disciplina": {
@@ -3901,7 +3901,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#EE82EE"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_00428e1c-c9fc-443e-ab9a-434065ffb943",
+        "GUID": "MZQ_1b410e0b-5b20-4166-b17a-f145d1f85aaf",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -3926,14 +3926,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e11b841f34ae87326b5f",
-            "6733e11b841f34ae87326b63"
+            "673e535aa311a8834bde2232",
+            "673e535aa311a8834bde2236"
         ],
-        "createdAt": "2024-11-12T23:11:23.166Z",
-        "updatedAt": "2024-11-12T23:13:32.142Z",
-        "id": "6733e09b841f34ae8732674e"
+        "createdAt": "2024-11-20T21:21:56.136Z",
+        "updatedAt": "2024-11-20T21:23:38.649Z",
+        "id": "673e52f4a311a8834bde1e21"
     },
     {
         "disciplina": {
@@ -3942,7 +3942,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#EE82EE"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_c5f42836-fc62-49bc-8de4-1c9e5f453f6e",
+        "GUID": "MZQ_de96ef63-f322-4374-9d40-a0abda8a433d",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -3967,14 +3967,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e11c841f34ae87326b67",
-            "6733e11d841f34ae87326b6b"
+            "673e535ba311a8834bde223a",
+            "673e535ba311a8834bde223e"
         ],
-        "createdAt": "2024-11-12T23:11:23.235Z",
-        "updatedAt": "2024-11-12T23:13:33.628Z",
-        "id": "6733e09b841f34ae87326786"
+        "createdAt": "2024-11-20T21:21:56.168Z",
+        "updatedAt": "2024-11-20T21:23:39.718Z",
+        "id": "673e52f4a311a8834bde1e59"
     },
     {
         "disciplina": {
@@ -3983,7 +3983,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#EE82EE"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_61b7bc36-8910-4379-99cb-d47cbd579999",
+        "GUID": "MZQ_a351efa6-860c-42c8-a14b-c89b71921aef",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -4008,14 +4008,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e11e841f34ae87326b6f",
-            "6733e11e841f34ae87326b73"
+            "673e535ca311a8834bde2242",
+            "673e535ca311a8834bde2246"
         ],
-        "createdAt": "2024-11-12T23:11:23.311Z",
-        "updatedAt": "2024-11-12T23:13:35.098Z",
-        "id": "6733e09b841f34ae873267be"
+        "createdAt": "2024-11-20T21:21:56.199Z",
+        "updatedAt": "2024-11-20T21:23:40.793Z",
+        "id": "673e52f4a311a8834bde1e91"
     },
     {
         "disciplina": {
@@ -4024,7 +4024,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#EE82EE"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_cd122be4-54ac-4d0d-87fa-0f1a28964f67",
+        "GUID": "MZQ_9692071d-9653-45da-9ebe-d40d173fc650",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -4049,14 +4049,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e11f841f34ae87326b77",
-            "6733e120841f34ae87326b7b"
+            "673e535da311a8834bde224a",
+            "673e535da311a8834bde224e"
         ],
-        "createdAt": "2024-11-12T23:11:23.365Z",
-        "updatedAt": "2024-11-12T23:13:36.605Z",
-        "id": "6733e09b841f34ae873267f6"
+        "createdAt": "2024-11-20T21:21:56.229Z",
+        "updatedAt": "2024-11-20T21:23:41.867Z",
+        "id": "673e52f4a311a8834bde1ec9"
     },
     {
         "disciplina": {
@@ -4065,7 +4065,7 @@ var questionDatabase = {"Questions" : [
             "cor": "#EE82EE"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_d379d035-9450-4926-b2ab-5f5c0172b1f9",
+        "GUID": "MZQ_722fd894-d860-4fc9-80eb-413e61b2e89b",
         "E": 0,
         "Q_T": 5,
         "Q": "",
@@ -4090,130 +4090,14 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
+        "usuario": "673e52f1a311a8834bde0923",
         "arquivos": [
-            "6733e121841f34ae87326b7f",
-            "6733e121841f34ae87326b83"
+            "673e535ea311a8834bde2252",
+            "673e535ea311a8834bde2256"
         ],
-        "createdAt": "2024-11-12T23:11:23.445Z",
-        "updatedAt": "2024-11-12T23:13:38.093Z",
-        "id": "6733e09b841f34ae8732682e"
-    },
-    {
-        "disciplina": {
-            "sigla": "LIN100",
-            "nomeCompleto": "Inglês I",
-            "cor": "#2F4F4F"
-        },
-        "tipo": "exercicio",
-        "GUID": "MZQ_abfcb149-0647-4f1e-a13a-17c1df7e3f1b",
-        "E": 0,
-        "Q_T": 5,
-        "Q": "",
-        "T": 780,
-        "I": 1,
-        "A": 0,
-        "C_A": "b",
-        "A2": "",
-        "descricao": "Teste de identificador",
-        "A3": "",
-        "A3_Why": "",
-        "A4": "",
-        "A4_Why": "",
-        "A5": "",
-        "A5_Why": "",
-        "C_S": 0,
-        "S": "",
-        "R_T": "AddState",
-        "R_I": 2,
-        "R_A": 1,
-        "P_T": "RemoveState",
-        "P_I": 2,
-        "P_A": 1,
-        "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
-        "arquivos": [],
-        "createdAt": "2024-11-12T23:14:37.686Z",
-        "updatedAt": "2024-11-19T23:36:06.247Z",
-        "id": "6733e15d11962d766f17ef15"
-    },
-    {
-        "disciplina": {
-            "sigla": "ISI002",
-            "nomeCompleto": "Sistemas de Informação",
-            "cor": "#008080"
-        },
-        "tipo": "ensino",
-        "GUID": "MZQ_2dfabe27-3caf-42fe-9340-ce9ee5bcec57",
-        "E": 0,
-        "Q_T": 5,
-        "Q": "",
-        "T": 3000,
-        "I": 1,
-        "A": 0,
-        "C_A": "a",
-        "A2": "",
-        "descricao": "Pergunta do Lucas",
-        "A3": "",
-        "A3_Why": "",
-        "A4": "",
-        "A4_Why": "",
-        "A5": "",
-        "A5_Why": "",
-        "C_S": 0,
-        "S": "",
-        "R_T": "AddState",
-        "R_I": 2,
-        "R_A": 1,
-        "P_T": "RemoveState",
-        "P_I": 2,
-        "P_A": 1,
-        "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
-        "arquivos": [],
-        "createdAt": "2024-11-19T23:41:00.606Z",
-        "updatedAt": "2024-11-19T23:42:44.842Z",
-        "id": "673d220cf0fecba97b4d0c45"
-    },
-    {
-        "disciplina": {
-            "sigla": "MMD001",
-            "nomeCompleto": "Matemática Discreta",
-            "cor": "#4682B4"
-        },
-        "tipo": "ensino",
-        "GUID": "MZQ_77e95a53-0608-4cde-8e5e-882c9b138246",
-        "E": 0,
-        "Q_T": 5,
-        "Q": "",
-        "T": 3000,
-        "I": 1,
-        "A": 0,
-        "C_A": "c",
-        "A2": "",
-        "descricao": "Pergunta do Lucas",
-        "A3": "",
-        "A3_Why": "",
-        "A4": "",
-        "A4_Why": "",
-        "A5": "",
-        "A5_Why": "",
-        "C_S": 0,
-        "S": "",
-        "R_T": "AddState",
-        "R_I": 2,
-        "R_A": 1,
-        "P_T": "RemoveState",
-        "P_I": 2,
-        "P_A": 1,
-        "O_L": 0,
-        "usuario": "6733e095841f34ae87325250",
-        "arquivos": [
-            "673d24351f585d050a9bad65"
-        ],
-        "createdAt": "2024-11-19T23:50:12.873Z",
-        "updatedAt": "2024-11-19T23:50:15.547Z",
-        "id": "673d24341f585d050a9bad2d"
+        "createdAt": "2024-11-20T21:21:56.259Z",
+        "updatedAt": "2024-11-20T21:23:42.930Z",
+        "id": "673e52f4a311a8834bde1f01"
     }
 ]}
 

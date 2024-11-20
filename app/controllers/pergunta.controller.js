@@ -114,22 +114,48 @@ exports.create = async (req, res) => {
 };
 
 
-// Recupera todas as perguntas do banco de dados
-exports.findAll = (req, res) => {
-  const descricaoFiltro = req.query.descricao;  // Assume que você está filtrando pela descrição
+exports.findAll = async (req, res) => {
+  const descricaoFiltro = req.query.descricao  
+  const userId = req.query.userId
+  const isAdmin = req.query.isAdmin === 'true'  // Converter isAdmin para booleano
 
-  // Se houver filtro por descrição, buscar pelo campo descricao
-  const condition = descricaoFiltro ? { "descricao": { $regex: new RegExp(descricaoFiltro, "i") } } : {};
+  if (isAdmin || !userId) {
+    Pergunta.find().then(data => res.send(data))
+      .catch(err => {
+        console.error("Erro ao buscar as perguntas:", err)
+        res.status(500).send({
+          message: err.message || "Ocorreu um erro ao buscar as perguntas."
+        })
+      })
+    return
+  }
+
+  let disciplinas = []
+  try {
+    const usuario = await Usuario.findById(userId)
+
+    disciplinas = usuario?.disciplinas?.map(disciplina => disciplina?.sigla) || []
+  } catch (err) {
+    console.log(err)
+  }
+
+  if (disciplinas.length === 0) {
+    return res.status(400).send({message: 'Nenhuma disciplina encontrada para o usuário.'})
+  }
+  const condition = descricaoFiltro
+    ? { "descricao": { $regex: new RegExp(descricaoFiltro, "i") }, "disciplina.sigla": { $in: disciplinas } }
+    : { "disciplina.sigla": { $in: disciplinas } }
 
   Pergunta.find(condition)
     .then(data => res.send(data))
     .catch(err => {
-      console.error("Erro ao buscar as perguntas:", err);
+      console.error("Erro ao buscar as perguntas:", err)
       res.status(500).send({
         message: err.message || "Ocorreu um erro ao buscar as perguntas."
-      });
-    });
-};
+      })
+    })
+}
+
 
 // Encontra uma pergunta pelo ID
 exports.findById = (req, res) => {

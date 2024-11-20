@@ -24,7 +24,7 @@ module.exports = app => {
             else res.status(404).json({msg: 'User not found'})
     })
     else res.status(404).send('No email sent')
-})
+  })
 
   router.put("/:id", checkToken, usuarios.update);
 
@@ -84,6 +84,19 @@ module.exports = app => {
       else{
           res.status(404).send("message: User not found")
       }
+  })
+
+  router.get('/authenticate/:email/:senha', (req, res) => {
+    Usuario.findOne({email: req.params.email, senha: req.params.senha})
+    .then(data => {
+      res.status(200).send({isAdmin: data?.isAdmin, disciplinas: data?.disciplinas, id: data?._id});
+    })
+    .catch(err => {
+      res.status(404).send({
+        message: "usuário não encontrado: " + err
+      });
+    });
+
   })
 
   app.use("/api/usuarios", router);
