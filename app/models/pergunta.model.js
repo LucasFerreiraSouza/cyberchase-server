@@ -13,7 +13,7 @@ module.exports = mongoose => {
       E: { type: Number, default: 0 },
       Q_T: { type: Number, default: 5 },
       Q: { type: String, default: '' },
-      T: { type: Number, default: null },
+      T: { type: Number, default: 0 },
       I: { type: Number, default: null },
       A: { type: Number, default: null },
       C_A: { type: String, default: '' },

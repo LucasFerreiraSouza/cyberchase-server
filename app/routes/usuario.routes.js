@@ -89,7 +89,9 @@ module.exports = app => {
   router.get('/authenticate/:email/:senha', (req, res) => {
     Usuario.findOne({email: req.params.email, senha: req.params.senha})
     .then(data => {
-      res.status(200).send({isAdmin: data?.isAdmin, disciplinas: data?.disciplinas, id: data?._id});
+
+        if(!data)  res.status(404).send({ message: "usuário ou senha não estão corretos" });
+        else res.status(200).send({isAdmin: data?.isAdmin, disciplinas: data?.disciplinas, id: data?._id});
     })
     .catch(err => {
       res.status(404).send({

@@ -9,7 +9,7 @@ const Usuario = db.usuarios;
 exports.create = async (req, res) => {
   try {
     // Extrair dados da requisição
-    const { 
+    let { 
       disciplina,  // Agora disciplina deve conter { sigla: "IAC001", nomeCompleto: "Arquitetura e Organização de Computadores", cor: "#FF5733" }
       tipo, 
       E, 
@@ -39,7 +39,38 @@ exports.create = async (req, res) => {
       usuario, 
       arquivos 
     } = req.body;
-
+    
+    if(C_A == 'A'){
+      A2 = 'B'
+      A3 = 'C'
+      A4 = 'D'
+      A5 = 'E'
+    }
+    if(C_A == 'B'){
+      A2 = 'A'
+      A3 = 'C'
+      A4 = 'D'
+      A5 = 'E'
+    }
+    if(C_A == 'C'){
+      A2 = 'B'
+      A3 = 'A'
+      A4 = 'D'
+      A5 = 'E'
+    }
+    if(C_A == 'D'){
+      A2 = 'B'
+      A3 = 'C'
+      A4 = 'A'
+      A5 = 'E'
+    }
+    if(C_A == 'E'){
+      A2 = 'B'
+      A3 = 'C'
+      A4 = 'D'
+      A5 = 'A'
+    }
+    
     // Verificar se a disciplina foi enviada corretamente
     if (!disciplina || !disciplina.sigla || !disciplina.nomeCompleto) {
       return res.status(400).json({ mensagem: "Disciplina inválida. Certifique-se de enviar a sigla e o nome completo." });
@@ -51,7 +82,8 @@ exports.create = async (req, res) => {
     }
 
     // Multiplicar o valor de T por 60
-    const emTicks = T * 60;
+    let emTicks = 0
+    if(T) emTicks = T * 60
 
     // Gerar o GUID da pergunta com prefixo 'MZQ_'
     const GUID = 'MZQ_' + uuidv4();
@@ -118,15 +150,31 @@ exports.findAll = async (req, res) => {
   const descricaoFiltro = req.query.descricao  
   const userId = req.query.userId
   const isAdmin = req.query.isAdmin === 'true'  // Converter isAdmin para booleano
-
+  
   if (isAdmin || !userId) {
-    Pergunta.find().then(data => res.send(data))
+
+    //retorna tudo caso não tenha descrição na query
+    if(descricaoFiltro == '' || !descricaoFiltro){
+      Pergunta.find().then(data => res.send(data))
       .catch(err => {
         console.error("Erro ao buscar as perguntas:", err)
         res.status(500).send({
           message: err.message || "Ocorreu um erro ao buscar as perguntas."
         })
       })
+  }
+
+  else{
+    //retorna com filtro da descrição
+    Pergunta.find({ "descricao": { $regex: descricaoFiltro, $options: "i" } })
+    .then(data => res.send(data))
+    .catch(err => {
+      console.error("Erro ao buscar as perguntas:", err)
+      res.status(500).send({
+        message: err.message || "Ocorreu um erro ao buscar as perguntas."
+      })
+    })
+  }
     return
   }
 

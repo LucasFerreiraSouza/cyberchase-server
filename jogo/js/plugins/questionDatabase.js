@@ -6,15 +6,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#32CD32"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_9f03284c-0f96-4589-a4ca-7d198059e0a5",
+        "GUID": "MZQ_459b3fcd-de6c-4987-a911-b4e4f0b716d3",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Arquitetura e Organização de Computadores.",
         "A3": "C",
         "A3_Why": "0",
@@ -31,14 +31,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e52f4a311a8834bde1f3a",
-            "673e52f4a311a8834bde1f3e"
+            "675451630158eb72736d786d"
         ],
-        "createdAt": "2024-11-20T21:21:53.599Z",
-        "updatedAt": "2024-11-20T21:21:56.877Z",
-        "id": "673e52f1a311a8834bde095a"
+        "createdAt": "2024-12-07T13:45:05.491Z",
+        "updatedAt": "2024-12-07T13:45:07.869Z",
+        "id": "675451610158eb72736d628a"
     },
     {
         "disciplina": {
@@ -47,15 +46,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#32CD32"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_50e3fe48-d2f8-47a5-a341-4c75dfa9f38f",
+        "GUID": "MZQ_af97cbcd-09ad-4f35-b1d7-2a4922dca412",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Arquitetura e Organização de Computadores.",
         "A3": "C",
         "A3_Why": "0",
@@ -72,14 +71,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e52f5a311a8834bde1f42",
-            "673e52f5a311a8834bde1f46"
+            "675451640158eb72736d7871"
         ],
-        "createdAt": "2024-11-20T21:21:53.638Z",
-        "updatedAt": "2024-11-20T21:21:57.952Z",
-        "id": "673e52f1a311a8834bde0991"
+        "createdAt": "2024-12-07T13:45:05.522Z",
+        "updatedAt": "2024-12-07T13:45:08.407Z",
+        "id": "675451610158eb72736d62c3"
     },
     {
         "disciplina": {
@@ -88,15 +86,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#32CD32"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_c499eb59-07d5-4b61-b946-ea97f1fb05e2",
+        "GUID": "MZQ_4319a551-aa29-4697-bf13-d274a1f9283b",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Algoritmos e Lógica de Programação.",
         "A3": "C",
         "A3_Why": "0",
@@ -113,14 +111,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e52f6a311a8834bde1f4a",
-            "673e52f7a311a8834bde1f4e"
+            "675451640158eb72736d7875"
         ],
-        "createdAt": "2024-11-20T21:21:53.661Z",
-        "updatedAt": "2024-11-20T21:21:59.025Z",
-        "id": "673e52f1a311a8834bde09c8"
+        "createdAt": "2024-12-07T13:45:05.542Z",
+        "updatedAt": "2024-12-07T13:45:08.946Z",
+        "id": "675451610158eb72736d62fb"
     },
     {
         "disciplina": {
@@ -129,15 +126,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#32CD32"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_007ac218-e337-4b39-a1af-fbd2fbf4b0de",
+        "GUID": "MZQ_8678545d-3d44-4645-801c-723cf7e5e267",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Algoritmos e Lógica de Programação.",
         "A3": "C",
         "A3_Why": "0",
@@ -154,14 +151,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e52f7a311a8834bde1f52",
-            "673e52f8a311a8834bde1f56"
+            "675451650158eb72736d7879"
         ],
-        "createdAt": "2024-11-20T21:21:53.694Z",
-        "updatedAt": "2024-11-20T21:22:00.096Z",
-        "id": "673e52f1a311a8834bde0a01"
+        "createdAt": "2024-12-07T13:45:05.565Z",
+        "updatedAt": "2024-12-07T13:45:09.525Z",
+        "id": "675451610158eb72736d6334"
     },
     {
         "disciplina": {
@@ -170,15 +166,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#32CD32"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_b9389388-5f49-4b1a-bf1f-ccda7c8f88a2",
+        "GUID": "MZQ_2352ea40-24cf-40c6-9cd4-c38ae2d53f06",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Programação em Microinformática.",
         "A3": "C",
         "A3_Why": "0",
@@ -195,14 +191,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e52f8a311a8834bde1f5a",
-            "673e52f9a311a8834bde1f5e"
+            "675451660158eb72736d787d"
         ],
-        "createdAt": "2024-11-20T21:21:53.725Z",
-        "updatedAt": "2024-11-20T21:22:01.176Z",
-        "id": "673e52f1a311a8834bde0a39"
+        "createdAt": "2024-12-07T13:45:05.587Z",
+        "updatedAt": "2024-12-07T13:45:10.060Z",
+        "id": "675451610158eb72736d636c"
     },
     {
         "disciplina": {
@@ -211,15 +206,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#32CD32"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_45d66efd-52ac-4652-a2a2-10a80c393baf",
+        "GUID": "MZQ_4e9f9309-d2e6-46a1-9e54-19e85bb3443c",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Programação em Microinformática.",
         "A3": "C",
         "A3_Why": "0",
@@ -236,14 +231,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e52f9a311a8834bde1f62",
-            "673e52faa311a8834bde1f66"
+            "675451660158eb72736d7881"
         ],
-        "createdAt": "2024-11-20T21:21:53.755Z",
-        "updatedAt": "2024-11-20T21:22:02.251Z",
-        "id": "673e52f1a311a8834bde0a71"
+        "createdAt": "2024-12-07T13:45:05.609Z",
+        "updatedAt": "2024-12-07T13:45:10.602Z",
+        "id": "675451610158eb72736d63a4"
     },
     {
         "disciplina": {
@@ -252,15 +246,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#32CD32"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_75c2afb9-4392-4702-bcf2-a80040580b7f",
+        "GUID": "MZQ_3966ce92-f756-4999-ae99-58864bd529f1",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Sistemas de Informação.",
         "A3": "C",
         "A3_Why": "0",
@@ -277,14 +271,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e52faa311a8834bde1f6a",
-            "673e52fba311a8834bde1f6e"
+            "675451670158eb72736d7885"
         ],
-        "createdAt": "2024-11-20T21:21:53.784Z",
-        "updatedAt": "2024-11-20T21:22:03.343Z",
-        "id": "673e52f1a311a8834bde0aa9"
+        "createdAt": "2024-12-07T13:45:05.629Z",
+        "updatedAt": "2024-12-07T13:45:11.145Z",
+        "id": "675451610158eb72736d63dc"
     },
     {
         "disciplina": {
@@ -293,15 +286,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#32CD32"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_949c4e1f-2776-41af-bc68-fcc62e245681",
+        "GUID": "MZQ_e6e50e2c-332b-4143-af66-a9e2950e14cd",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Sistemas de Informação.",
         "A3": "C",
         "A3_Why": "0",
@@ -318,14 +311,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e52fba311a8834bde1f72",
-            "673e52fca311a8834bde1f76"
+            "675451670158eb72736d7889"
         ],
-        "createdAt": "2024-11-20T21:21:53.852Z",
-        "updatedAt": "2024-11-20T21:22:04.449Z",
-        "id": "673e52f1a311a8834bde0ae1"
+        "createdAt": "2024-12-07T13:45:05.650Z",
+        "updatedAt": "2024-12-07T13:45:11.686Z",
+        "id": "675451610158eb72736d6414"
     },
     {
         "disciplina": {
@@ -334,15 +326,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#32CD32"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_cd9bfc84-0c60-461b-a05d-54231f987268",
+        "GUID": "MZQ_7d1b64c2-3cae-4454-b536-691a4a9e81b7",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Matemática Discreta.",
         "A3": "C",
         "A3_Why": "0",
@@ -359,14 +351,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e52fda311a8834bde1f7a",
-            "673e52fda311a8834bde1f7e"
+            "675451680158eb72736d788d"
         ],
-        "createdAt": "2024-11-20T21:21:53.882Z",
-        "updatedAt": "2024-11-20T21:22:05.546Z",
-        "id": "673e52f1a311a8834bde0b19"
+        "createdAt": "2024-12-07T13:45:05.671Z",
+        "updatedAt": "2024-12-07T13:45:12.228Z",
+        "id": "675451610158eb72736d644c"
     },
     {
         "disciplina": {
@@ -375,15 +366,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#32CD32"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_7d83e689-79b0-4c58-8977-f26e0218f983",
+        "GUID": "MZQ_d3c29a3d-5cec-404f-bb6d-80d241b16780",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Matemática Discreta.",
         "A3": "C",
         "A3_Why": "0",
@@ -400,14 +391,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e52fea311a8834bde1f82",
-            "673e52fea311a8834bde1f86"
+            "675451680158eb72736d7891"
         ],
-        "createdAt": "2024-11-20T21:21:53.906Z",
-        "updatedAt": "2024-11-20T21:22:06.621Z",
-        "id": "673e52f1a311a8834bde0b51"
+        "createdAt": "2024-12-07T13:45:05.691Z",
+        "updatedAt": "2024-12-07T13:45:12.769Z",
+        "id": "675451610158eb72736d6484"
     },
     {
         "disciplina": {
@@ -416,15 +406,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#FFD700"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_b693ea5a-9d30-406b-9e92-c52ac8ac42cf",
+        "GUID": "MZQ_651f734b-2db2-4b13-b36e-bfd191927ed9",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Administração Geral.",
         "A3": "C",
         "A3_Why": "0",
@@ -441,14 +431,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e52ffa311a8834bde1f8a",
-            "673e52ffa311a8834bde1f8e"
+            "675451690158eb72736d7895"
         ],
-        "createdAt": "2024-11-20T21:21:53.939Z",
-        "updatedAt": "2024-11-20T21:22:07.698Z",
-        "id": "673e52f1a311a8834bde0b89"
+        "createdAt": "2024-12-07T13:45:05.711Z",
+        "updatedAt": "2024-12-07T13:45:13.308Z",
+        "id": "675451610158eb72736d64bc"
     },
     {
         "disciplina": {
@@ -457,15 +446,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#FFD700"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_45400925-5028-4f12-a3bb-13eddc36fb52",
+        "GUID": "MZQ_0c66d6ce-2566-4c04-8f93-5ac6e8ed78bd",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Administração Geral.",
         "A3": "C",
         "A3_Why": "0",
@@ -482,14 +471,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5300a311a8834bde1f92",
-            "673e5300a311a8834bde1f96"
+            "675451690158eb72736d7899"
         ],
-        "createdAt": "2024-11-20T21:21:53.967Z",
-        "updatedAt": "2024-11-20T21:22:08.786Z",
-        "id": "673e52f1a311a8834bde0bc1"
+        "createdAt": "2024-12-07T13:45:05.729Z",
+        "updatedAt": "2024-12-07T13:45:13.836Z",
+        "id": "675451610158eb72736d64f4"
     },
     {
         "disciplina": {
@@ -498,15 +486,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#FFD700"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_85d966c5-771f-4805-9972-9aa14660a80f",
+        "GUID": "MZQ_a61ce0da-ca1f-4076-a541-7cda716f4798",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Linguagem de Programação.",
         "A3": "C",
         "A3_Why": "0",
@@ -523,14 +511,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5301a311a8834bde1f9a",
-            "673e5301a311a8834bde1f9e"
+            "6754516a0158eb72736d789d"
         ],
-        "createdAt": "2024-11-20T21:21:53.991Z",
-        "updatedAt": "2024-11-20T21:22:09.882Z",
-        "id": "673e52f1a311a8834bde0bf9"
+        "createdAt": "2024-12-07T13:45:05.748Z",
+        "updatedAt": "2024-12-07T13:45:14.372Z",
+        "id": "675451610158eb72736d652c"
     },
     {
         "disciplina": {
@@ -539,15 +526,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#FFD700"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_05652b8b-acab-4f7c-9673-d3abe3e219e6",
+        "GUID": "MZQ_14a0dbd8-170d-4dd3-bb9e-af8f8ce57cfc",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Linguagem de Programação.",
         "A3": "C",
         "A3_Why": "0",
@@ -564,14 +551,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5302a311a8834bde1fa2",
-            "673e5302a311a8834bde1fa6"
+            "6754516a0158eb72736d78a1"
         ],
-        "createdAt": "2024-11-20T21:21:54.013Z",
-        "updatedAt": "2024-11-20T21:22:10.984Z",
-        "id": "673e52f2a311a8834bde0c31"
+        "createdAt": "2024-12-07T13:45:05.768Z",
+        "updatedAt": "2024-12-07T13:45:14.898Z",
+        "id": "675451610158eb72736d6564"
     },
     {
         "disciplina": {
@@ -580,15 +566,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#FFD700"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_3ffb5bbe-033b-4bec-b57f-bfd11e552b6c",
+        "GUID": "MZQ_25770dee-aeff-47f3-b891-bf9a43096750",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Linguagem de Programação II - Linguagem Visual Basic (VB).",
         "A3": "C",
         "A3_Why": "0",
@@ -605,14 +591,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5303a311a8834bde1faa",
-            "673e5304a311a8834bde1fae"
+            "6754516b0158eb72736d78a5"
         ],
-        "createdAt": "2024-11-20T21:21:54.046Z",
-        "updatedAt": "2024-11-20T21:22:12.060Z",
-        "id": "673e52f2a311a8834bde0c69"
+        "createdAt": "2024-12-07T13:45:05.791Z",
+        "updatedAt": "2024-12-07T13:45:15.433Z",
+        "id": "675451610158eb72736d659c"
     },
     {
         "disciplina": {
@@ -621,15 +606,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#FFD700"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_da8bf7ba-6ba3-482e-ad1a-b879fab267c0",
+        "GUID": "MZQ_ab2dc3e6-db10-476d-86e3-5a347a2f8bb3",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Linguagem de Programação II - Linguagem Visual Basic (VB).",
         "A3": "C",
         "A3_Why": "0",
@@ -646,14 +631,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5304a311a8834bde1fb2",
-            "673e5305a311a8834bde1fb6"
+            "6754516b0158eb72736d78a9"
         ],
-        "createdAt": "2024-11-20T21:21:54.068Z",
-        "updatedAt": "2024-11-20T21:22:13.131Z",
-        "id": "673e52f2a311a8834bde0ca1"
+        "createdAt": "2024-12-07T13:45:05.811Z",
+        "updatedAt": "2024-12-07T13:45:15.968Z",
+        "id": "675451610158eb72736d65d4"
     },
     {
         "disciplina": {
@@ -662,15 +646,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#FFD700"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_9c717fc1-7e9d-4b36-b009-0bcbb8770ce5",
+        "GUID": "MZQ_ec12b228-3829-41a9-b278-1106bd88943a",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Comunicação e Expressão.",
         "A3": "C",
         "A3_Why": "0",
@@ -687,14 +671,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5305a311a8834bde1fba",
-            "673e5306a311a8834bde1fbe"
+            "6754516c0158eb72736d78ad"
         ],
-        "createdAt": "2024-11-20T21:21:54.089Z",
-        "updatedAt": "2024-11-20T21:22:14.208Z",
-        "id": "673e52f2a311a8834bde0cd9"
+        "createdAt": "2024-12-07T13:45:05.829Z",
+        "updatedAt": "2024-12-07T13:45:16.505Z",
+        "id": "675451610158eb72736d660c"
     },
     {
         "disciplina": {
@@ -703,15 +686,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#FFD700"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_eb0935cc-97cb-46e5-8577-e395e9b8f38e",
+        "GUID": "MZQ_bbad18d9-8218-4706-be47-b07e92efc5aa",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Comunicação e Expressão.",
         "A3": "C",
         "A3_Why": "0",
@@ -728,14 +711,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5306a311a8834bde1fc2",
-            "673e5307a311a8834bde1fc6"
+            "6754516d0158eb72736d78b1"
         ],
-        "createdAt": "2024-11-20T21:21:54.107Z",
-        "updatedAt": "2024-11-20T21:22:15.280Z",
-        "id": "673e52f2a311a8834bde0d11"
+        "createdAt": "2024-12-07T13:45:05.849Z",
+        "updatedAt": "2024-12-07T13:45:17.034Z",
+        "id": "675451610158eb72736d6644"
     },
     {
         "disciplina": {
@@ -744,15 +726,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#FFD700"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_600d6454-f4e6-4534-80e1-a473d8afc50a",
+        "GUID": "MZQ_10d0ba0d-0c39-4699-aa55-7f5e857e7df8",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Cálculo.",
         "A3": "C",
         "A3_Why": "0",
@@ -769,14 +751,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5307a311a8834bde1fca",
-            "673e5308a311a8834bde1fce"
+            "6754516d0158eb72736d78b5"
         ],
-        "createdAt": "2024-11-20T21:21:54.128Z",
-        "updatedAt": "2024-11-20T21:22:16.359Z",
-        "id": "673e52f2a311a8834bde0d49"
+        "createdAt": "2024-12-07T13:45:05.873Z",
+        "updatedAt": "2024-12-07T13:45:17.572Z",
+        "id": "675451610158eb72736d667c"
     },
     {
         "disciplina": {
@@ -785,15 +766,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#FFD700"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_74050ecc-91a2-4349-835a-7d2c862793fe",
+        "GUID": "MZQ_139e58a1-6b55-4a74-aa7b-94eb92a0d321",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Cálculo.",
         "A3": "C",
         "A3_Why": "0",
@@ -810,14 +791,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5308a311a8834bde1fd2",
-            "673e5309a311a8834bde1fd6"
+            "6754516e0158eb72736d78b9"
         ],
-        "createdAt": "2024-11-20T21:21:54.153Z",
-        "updatedAt": "2024-11-20T21:22:17.427Z",
-        "id": "673e52f2a311a8834bde0d81"
+        "createdAt": "2024-12-07T13:45:05.898Z",
+        "updatedAt": "2024-12-07T13:45:18.102Z",
+        "id": "675451610158eb72736d66b4"
     },
     {
         "disciplina": {
@@ -826,15 +806,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF8C00"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_cc35f1fb-bd09-478f-9371-395247c183d8",
+        "GUID": "MZQ_9cc06aa6-a7c3-437c-b3d3-985659274faf",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Contabilidade.",
         "A3": "C",
         "A3_Why": "0",
@@ -851,14 +831,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5309a311a8834bde1fda",
-            "673e530aa311a8834bde1fde"
+            "6754516e0158eb72736d78bd"
         ],
-        "createdAt": "2024-11-20T21:21:54.174Z",
-        "updatedAt": "2024-11-20T21:22:18.498Z",
-        "id": "673e52f2a311a8834bde0db9"
+        "createdAt": "2024-12-07T13:45:05.918Z",
+        "updatedAt": "2024-12-07T13:45:18.641Z",
+        "id": "675451610158eb72736d66ec"
     },
     {
         "disciplina": {
@@ -867,15 +846,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF8C00"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_f2c1e6b5-82e7-4cd2-abdc-2ea023ab078a",
+        "GUID": "MZQ_9245335b-3e83-4871-bf43-aa83efc2bd08",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Contabilidade.",
         "A3": "C",
         "A3_Why": "0",
@@ -892,14 +871,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e530ba311a8834bde1fe2",
-            "673e530ba311a8834bde1fe6"
+            "6754516f0158eb72736d78c1"
         ],
-        "createdAt": "2024-11-20T21:21:54.195Z",
-        "updatedAt": "2024-11-20T21:22:19.569Z",
-        "id": "673e52f2a311a8834bde0df1"
+        "createdAt": "2024-12-07T13:45:05.941Z",
+        "updatedAt": "2024-12-07T13:45:19.163Z",
+        "id": "675451610158eb72736d6724"
     },
     {
         "disciplina": {
@@ -908,15 +886,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF8C00"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_993f3a76-63e8-493e-b26f-71eb598e0108",
+        "GUID": "MZQ_69ff7727-2850-469e-9ae7-f39f59b8c7c3",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Estruturas de Dados.",
         "A3": "C",
         "A3_Why": "0",
@@ -933,14 +911,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e530ca311a8834bde1fea",
-            "673e530ca311a8834bde1fee"
+            "6754516f0158eb72736d78c5"
         ],
-        "createdAt": "2024-11-20T21:21:54.220Z",
-        "updatedAt": "2024-11-20T21:22:20.642Z",
-        "id": "673e52f2a311a8834bde0e29"
+        "createdAt": "2024-12-07T13:45:05.960Z",
+        "updatedAt": "2024-12-07T13:45:19.695Z",
+        "id": "675451610158eb72736d675c"
     },
     {
         "disciplina": {
@@ -949,15 +926,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF8C00"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_62bcb586-3ecd-4cd5-a8b1-b036467c6a51",
+        "GUID": "MZQ_8675f342-160e-4346-8c29-888b183faced",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Estruturas de Dados.",
         "A3": "C",
         "A3_Why": "0",
@@ -974,14 +951,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e530da311a8834bde1ff2",
-            "673e530da311a8834bde1ff6"
+            "675451700158eb72736d78c9"
         ],
-        "createdAt": "2024-11-20T21:21:54.243Z",
-        "updatedAt": "2024-11-20T21:22:21.718Z",
-        "id": "673e52f2a311a8834bde0e61"
+        "createdAt": "2024-12-07T13:45:05.979Z",
+        "updatedAt": "2024-12-07T13:45:20.231Z",
+        "id": "675451610158eb72736d6794"
     },
     {
         "disciplina": {
@@ -990,15 +966,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF8C00"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_59d84e7c-796e-4a74-96fb-36c6aecdb35c",
+        "GUID": "MZQ_c1bcbb1a-64b0-4d47-a30d-129a16304f86",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Interação Humano Computador.",
         "A3": "C",
         "A3_Why": "0",
@@ -1015,14 +991,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e530ea311a8834bde1ffa",
-            "673e530ea311a8834bde1ffe"
+            "675451700158eb72736d78cd"
         ],
-        "createdAt": "2024-11-20T21:21:54.266Z",
-        "updatedAt": "2024-11-20T21:22:22.796Z",
-        "id": "673e52f2a311a8834bde0e99"
+        "createdAt": "2024-12-07T13:45:05.997Z",
+        "updatedAt": "2024-12-07T13:45:20.772Z",
+        "id": "675451610158eb72736d67cc"
     },
     {
         "disciplina": {
@@ -1031,15 +1006,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF8C00"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_5983c55e-b7b2-4c4e-9cab-002008332a02",
+        "GUID": "MZQ_12f25878-bdd4-4e37-a94d-8841e544e4c2",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Interação Humano Computador.",
         "A3": "C",
         "A3_Why": "0",
@@ -1056,14 +1031,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e530fa311a8834bde2002",
-            "673e530fa311a8834bde2006"
+            "675451710158eb72736d78d1"
         ],
-        "createdAt": "2024-11-20T21:21:54.288Z",
-        "updatedAt": "2024-11-20T21:22:23.867Z",
-        "id": "673e52f2a311a8834bde0ed1"
+        "createdAt": "2024-12-07T13:45:06.021Z",
+        "updatedAt": "2024-12-07T13:45:21.302Z",
+        "id": "675451620158eb72736d6804"
     },
     {
         "disciplina": {
@@ -1072,15 +1046,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF8C00"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_9b70a3e4-3033-41bd-b699-7a4adb077c93",
+        "GUID": "MZQ_f0956225-e1b1-44da-af92-532e75d6901e",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Laboratório de Hardware.",
         "A3": "C",
         "A3_Why": "0",
@@ -1097,14 +1071,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5310a311a8834bde200a",
-            "673e5310a311a8834bde200e"
+            "675451710158eb72736d78d5"
         ],
-        "createdAt": "2024-11-20T21:21:54.307Z",
-        "updatedAt": "2024-11-20T21:22:24.928Z",
-        "id": "673e52f2a311a8834bde0f09"
+        "createdAt": "2024-12-07T13:45:06.041Z",
+        "updatedAt": "2024-12-07T13:45:21.852Z",
+        "id": "675451620158eb72736d683c"
     },
     {
         "disciplina": {
@@ -1113,15 +1086,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF8C00"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_cd5458f9-1ada-43eb-a9d3-f379a3f974c7",
+        "GUID": "MZQ_e9db3067-a708-433d-a8d1-311f82c99602",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Laboratório de Hardware.",
         "A3": "C",
         "A3_Why": "0",
@@ -1138,14 +1111,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5311a311a8834bde2012",
-            "673e5312a311a8834bde2016"
+            "675451720158eb72736d78d9"
         ],
-        "createdAt": "2024-11-20T21:21:54.328Z",
-        "updatedAt": "2024-11-20T21:22:26.006Z",
-        "id": "673e52f2a311a8834bde0f41"
+        "createdAt": "2024-12-07T13:45:06.061Z",
+        "updatedAt": "2024-12-07T13:45:22.386Z",
+        "id": "675451620158eb72736d6874"
     },
     {
         "disciplina": {
@@ -1154,15 +1126,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF8C00"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_8fc0387b-0ce4-41a2-84e6-3007ad349c4e",
+        "GUID": "MZQ_91d38736-eafd-4b4f-add2-437042981982",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Sistemas Operacionais I.",
         "A3": "C",
         "A3_Why": "0",
@@ -1179,14 +1151,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5312a311a8834bde201a",
-            "673e5313a311a8834bde201e"
+            "675451720158eb72736d78dd"
         ],
-        "createdAt": "2024-11-20T21:21:54.349Z",
-        "updatedAt": "2024-11-20T21:22:27.080Z",
-        "id": "673e52f2a311a8834bde0f79"
+        "createdAt": "2024-12-07T13:45:06.083Z",
+        "updatedAt": "2024-12-07T13:45:22.928Z",
+        "id": "675451620158eb72736d68ac"
     },
     {
         "disciplina": {
@@ -1195,15 +1166,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF8C00"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_2cdef9be-ae46-42e4-978f-58506a4b7b91",
+        "GUID": "MZQ_70a845a9-5110-4c03-97c7-8700520eba8d",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Sistemas Operacionais I.",
         "A3": "C",
         "A3_Why": "0",
@@ -1220,14 +1191,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5313a311a8834bde2022",
-            "673e5314a311a8834bde2026"
+            "675451730158eb72736d78e1"
         ],
-        "createdAt": "2024-11-20T21:21:54.375Z",
-        "updatedAt": "2024-11-20T21:22:28.145Z",
-        "id": "673e52f2a311a8834bde0fb1"
+        "createdAt": "2024-12-07T13:45:06.110Z",
+        "updatedAt": "2024-12-07T13:45:23.463Z",
+        "id": "675451620158eb72736d68e4"
     },
     {
         "disciplina": {
@@ -1236,15 +1206,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF8C00"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_7cfc25f7-18e8-4412-8be4-904310d70075",
+        "GUID": "MZQ_03d1525a-c302-4033-a8ab-40f1d1348c8f",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Inglês I.",
         "A3": "C",
         "A3_Why": "0",
@@ -1261,14 +1231,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5314a311a8834bde202a",
-            "673e5315a311a8834bde202e"
+            "675451730158eb72736d78e5"
         ],
-        "createdAt": "2024-11-20T21:21:54.408Z",
-        "updatedAt": "2024-11-20T21:22:29.216Z",
-        "id": "673e52f2a311a8834bde0fe9"
+        "createdAt": "2024-12-07T13:45:06.131Z",
+        "updatedAt": "2024-12-07T13:45:23.991Z",
+        "id": "675451620158eb72736d691c"
     },
     {
         "disciplina": {
@@ -1277,15 +1246,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF8C00"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_b1cc0e8c-737e-44f1-95cf-5da95ed48291",
+        "GUID": "MZQ_852441d7-188c-4ee7-b7ec-161de7d6b08b",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Inglês I.",
         "A3": "C",
         "A3_Why": "0",
@@ -1302,14 +1271,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5315a311a8834bde2032",
-            "673e5316a311a8834bde2036"
+            "675451740158eb72736d78e9"
         ],
-        "createdAt": "2024-11-20T21:21:54.428Z",
-        "updatedAt": "2024-11-20T21:22:30.290Z",
-        "id": "673e52f2a311a8834bde1021"
+        "createdAt": "2024-12-07T13:45:06.152Z",
+        "updatedAt": "2024-12-07T13:45:24.520Z",
+        "id": "675451620158eb72736d6954"
     },
     {
         "disciplina": {
@@ -1318,15 +1286,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF0000"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_a735d4d2-7a81-4bd7-a7ca-2b3280051589",
+        "GUID": "MZQ_42a72871-3011-4362-9918-f76c505716d2",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Economia e Finanças.",
         "A3": "C",
         "A3_Why": "0",
@@ -1343,14 +1311,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5316a311a8834bde203a",
-            "673e5317a311a8834bde203e"
+            "675451750158eb72736d78ed"
         ],
-        "createdAt": "2024-11-20T21:21:54.449Z",
-        "updatedAt": "2024-11-20T21:22:31.363Z",
-        "id": "673e52f2a311a8834bde1059"
+        "createdAt": "2024-12-07T13:45:06.172Z",
+        "updatedAt": "2024-12-07T13:45:25.047Z",
+        "id": "675451620158eb72736d698c"
     },
     {
         "disciplina": {
@@ -1359,15 +1326,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF0000"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_0771f712-0e03-4ed6-b9d7-432a1423123d",
+        "GUID": "MZQ_ad75d743-068f-412d-a146-7153a8d45590",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Economia e Finanças.",
         "A3": "C",
         "A3_Why": "0",
@@ -1384,14 +1351,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5317a311a8834bde2042",
-            "673e5318a311a8834bde2046"
+            "675451750158eb72736d78f1"
         ],
-        "createdAt": "2024-11-20T21:21:54.471Z",
-        "updatedAt": "2024-11-20T21:22:32.433Z",
-        "id": "673e52f2a311a8834bde1091"
+        "createdAt": "2024-12-07T13:45:06.190Z",
+        "updatedAt": "2024-12-07T13:45:25.574Z",
+        "id": "675451620158eb72736d69c4"
     },
     {
         "disciplina": {
@@ -1400,15 +1366,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF0000"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_906a94fe-3d57-4d99-b037-43e29260ae3a",
+        "GUID": "MZQ_4349daa8-f841-48ae-a63c-b1b9eda62be9",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Banco de Dados.",
         "A3": "C",
         "A3_Why": "0",
@@ -1425,14 +1391,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5318a311a8834bde204a",
-            "673e5319a311a8834bde204e"
+            "675451760158eb72736d78f5"
         ],
-        "createdAt": "2024-11-20T21:21:54.491Z",
-        "updatedAt": "2024-11-20T21:22:33.498Z",
-        "id": "673e52f2a311a8834bde10c9"
+        "createdAt": "2024-12-07T13:45:06.210Z",
+        "updatedAt": "2024-12-07T13:45:26.101Z",
+        "id": "675451620158eb72736d69fc"
     },
     {
         "disciplina": {
@@ -1441,15 +1406,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF0000"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_cfa81455-cf19-43df-8eee-1f172f208d55",
+        "GUID": "MZQ_6d399593-1538-47ff-987b-a2472a8c73b3",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Banco de Dados.",
         "A3": "C",
         "A3_Why": "0",
@@ -1466,14 +1431,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e531aa311a8834bde2052",
-            "673e531aa311a8834bde2056"
+            "675451760158eb72736d78f9"
         ],
-        "createdAt": "2024-11-20T21:21:54.517Z",
-        "updatedAt": "2024-11-20T21:22:34.559Z",
-        "id": "673e52f2a311a8834bde1101"
+        "createdAt": "2024-12-07T13:45:06.232Z",
+        "updatedAt": "2024-12-07T13:45:26.632Z",
+        "id": "675451620158eb72736d6a34"
     },
     {
         "disciplina": {
@@ -1482,15 +1446,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF0000"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_db428f23-cd16-4006-83a2-9479fe1d1559",
+        "GUID": "MZQ_f3914c97-0d7d-48eb-8683-92a28535c78f",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Engenharia de Software I.",
         "A3": "C",
         "A3_Why": "0",
@@ -1507,14 +1471,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e531ba311a8834bde205a",
-            "673e531ba311a8834bde205e"
+            "675451770158eb72736d78fd"
         ],
-        "createdAt": "2024-11-20T21:21:54.540Z",
-        "updatedAt": "2024-11-20T21:22:35.607Z",
-        "id": "673e52f2a311a8834bde1139"
+        "createdAt": "2024-12-07T13:45:06.253Z",
+        "updatedAt": "2024-12-07T13:45:27.168Z",
+        "id": "675451620158eb72736d6a6c"
     },
     {
         "disciplina": {
@@ -1523,15 +1486,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF0000"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_f2c9e4a6-be7d-4565-90c6-b5b8666dd8a6",
+        "GUID": "MZQ_22045d33-a801-4fca-9584-fd9f8e46ca7b",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Engenharia de Software I.",
         "A3": "C",
         "A3_Why": "0",
@@ -1548,14 +1511,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e531ca311a8834bde2062",
-            "673e531ca311a8834bde2066"
+            "675451770158eb72736d7901"
         ],
-        "createdAt": "2024-11-20T21:21:54.560Z",
-        "updatedAt": "2024-11-20T21:22:36.681Z",
-        "id": "673e52f2a311a8834bde1171"
+        "createdAt": "2024-12-07T13:45:06.272Z",
+        "updatedAt": "2024-12-07T13:45:27.706Z",
+        "id": "675451620158eb72736d6aa4"
     },
     {
         "disciplina": {
@@ -1564,15 +1526,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF0000"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_8a685a4f-e794-409d-88ba-97d011a76bba",
+        "GUID": "MZQ_87969d96-b28e-492f-81b4-8d7102e8ff41",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Programação Orientada a Objetos.",
         "A3": "C",
         "A3_Why": "0",
@@ -1589,14 +1551,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e531da311a8834bde206a",
-            "673e531da311a8834bde206e"
+            "675451780158eb72736d7905"
         ],
-        "createdAt": "2024-11-20T21:21:54.586Z",
-        "updatedAt": "2024-11-20T21:22:37.755Z",
-        "id": "673e52f2a311a8834bde11a9"
+        "createdAt": "2024-12-07T13:45:06.295Z",
+        "updatedAt": "2024-12-07T13:45:28.232Z",
+        "id": "675451620158eb72736d6adc"
     },
     {
         "disciplina": {
@@ -1605,15 +1566,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF0000"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_3d45cbb7-7e94-4041-9b62-131358b778ee",
+        "GUID": "MZQ_b0e9944d-eb89-49e7-abe2-150b06166ece",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Programação Orientada a Objetos.",
         "A3": "C",
         "A3_Why": "0",
@@ -1630,14 +1591,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e531ea311a8834bde2072",
-            "673e531ea311a8834bde2076"
+            "675451780158eb72736d7909"
         ],
-        "createdAt": "2024-11-20T21:21:54.607Z",
-        "updatedAt": "2024-11-20T21:22:38.816Z",
-        "id": "673e52f2a311a8834bde11e1"
+        "createdAt": "2024-12-07T13:45:06.315Z",
+        "updatedAt": "2024-12-07T13:45:28.759Z",
+        "id": "675451620158eb72736d6b14"
     },
     {
         "disciplina": {
@@ -1646,15 +1606,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF0000"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_5de4623d-3048-431b-a35a-cbbeb7387b17",
+        "GUID": "MZQ_3eb6fae9-31f5-4305-9576-c8ceb94f18d8",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Sistemas Operacionais II.",
         "A3": "C",
         "A3_Why": "0",
@@ -1671,14 +1631,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e531fa311a8834bde207a",
-            "673e531fa311a8834bde207e"
+            "675451790158eb72736d790d"
         ],
-        "createdAt": "2024-11-20T21:21:54.629Z",
-        "updatedAt": "2024-11-20T21:22:39.891Z",
-        "id": "673e52f2a311a8834bde1219"
+        "createdAt": "2024-12-07T13:45:06.339Z",
+        "updatedAt": "2024-12-07T13:45:29.285Z",
+        "id": "675451620158eb72736d6b4c"
     },
     {
         "disciplina": {
@@ -1687,15 +1646,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF0000"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_9eabcdaf-7179-46ac-ade8-e13c9c1915f7",
+        "GUID": "MZQ_bae9ff8c-11f3-4c27-9840-6a9bc0340a38",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Sistemas Operacionais II.",
         "A3": "C",
         "A3_Why": "0",
@@ -1712,14 +1671,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5320a311a8834bde2082",
-            "673e5320a311a8834bde2086"
+            "675451790158eb72736d7911"
         ],
-        "createdAt": "2024-11-20T21:21:54.655Z",
-        "updatedAt": "2024-11-20T21:22:40.960Z",
-        "id": "673e52f2a311a8834bde1251"
+        "createdAt": "2024-12-07T13:45:06.362Z",
+        "updatedAt": "2024-12-07T13:45:29.812Z",
+        "id": "675451620158eb72736d6b84"
     },
     {
         "disciplina": {
@@ -1728,15 +1686,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF0000"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_e6b8dea8-b6e2-4d82-bc2d-70cb3c64c9be",
+        "GUID": "MZQ_96ff0b19-d632-4633-927a-66c0de48408c",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Inglês II.",
         "A3": "C",
         "A3_Why": "0",
@@ -1753,14 +1711,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5321a311a8834bde208a",
-            "673e5322a311a8834bde208e"
+            "6754517a0158eb72736d7915"
         ],
-        "createdAt": "2024-11-20T21:21:54.676Z",
-        "updatedAt": "2024-11-20T21:22:42.025Z",
-        "id": "673e52f2a311a8834bde1289"
+        "createdAt": "2024-12-07T13:45:06.383Z",
+        "updatedAt": "2024-12-07T13:45:30.344Z",
+        "id": "675451620158eb72736d6bbc"
     },
     {
         "disciplina": {
@@ -1769,15 +1726,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#FF0000"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_21c598bb-c320-4e7c-953d-4a802a1d04f5",
+        "GUID": "MZQ_3771bdfd-621c-4c6c-ba98-fe09e02af2c3",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Inglês II.",
         "A3": "C",
         "A3_Why": "0",
@@ -1794,14 +1751,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5322a311a8834bde2092",
-            "673e5323a311a8834bde2096"
+            "6754517a0158eb72736d7919"
         ],
-        "createdAt": "2024-11-20T21:21:54.706Z",
-        "updatedAt": "2024-11-20T21:22:43.096Z",
-        "id": "673e52f2a311a8834bde12c1"
+        "createdAt": "2024-12-07T13:45:06.405Z",
+        "updatedAt": "2024-12-07T13:45:30.885Z",
+        "id": "675451620158eb72736d6bf4"
     },
     {
         "disciplina": {
@@ -1810,15 +1766,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#8A2BE2"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_fe9d9dbd-4e81-4205-bbba-f5e9e5459a1f",
+        "GUID": "MZQ_b81f1e59-a201-426f-bf7f-2c22fb93fdd2",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Sociedade e Tecnologia.",
         "A3": "C",
         "A3_Why": "0",
@@ -1835,14 +1791,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5323a311a8834bde209a",
-            "673e5324a311a8834bde209e"
+            "6754517b0158eb72736d791d"
         ],
-        "createdAt": "2024-11-20T21:21:54.740Z",
-        "updatedAt": "2024-11-20T21:22:44.157Z",
-        "id": "673e52f2a311a8834bde12f9"
+        "createdAt": "2024-12-07T13:45:06.425Z",
+        "updatedAt": "2024-12-07T13:45:31.422Z",
+        "id": "675451620158eb72736d6c2c"
     },
     {
         "disciplina": {
@@ -1851,15 +1806,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#8A2BE2"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_6f2d7f9c-615f-48f3-bdab-8c42adb76c15",
+        "GUID": "MZQ_b42cd103-98a0-47c5-a25c-cdbb3cfe6ef6",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Sociedade e Tecnologia.",
         "A3": "C",
         "A3_Why": "0",
@@ -1876,14 +1831,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5324a311a8834bde20a2",
-            "673e5325a311a8834bde20a6"
+            "6754517b0158eb72736d7921"
         ],
-        "createdAt": "2024-11-20T21:21:54.765Z",
-        "updatedAt": "2024-11-20T21:22:45.234Z",
-        "id": "673e52f2a311a8834bde1331"
+        "createdAt": "2024-12-07T13:45:06.452Z",
+        "updatedAt": "2024-12-07T13:45:31.949Z",
+        "id": "675451620158eb72736d6c64"
     },
     {
         "disciplina": {
@@ -1892,15 +1846,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#8A2BE2"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_0d9775f9-e7d2-4ed9-acab-696c007a488d",
+        "GUID": "MZQ_59014c6f-97b6-4c62-a913-5aab3b07531f",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Laboratório de Banco de Dados (Escolha 1).",
         "A3": "C",
         "A3_Why": "0",
@@ -1917,14 +1871,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5325a311a8834bde20aa",
-            "673e5326a311a8834bde20ae"
+            "6754517c0158eb72736d7925"
         ],
-        "createdAt": "2024-11-20T21:21:54.787Z",
-        "updatedAt": "2024-11-20T21:22:46.298Z",
-        "id": "673e52f2a311a8834bde1369"
+        "createdAt": "2024-12-07T13:45:06.473Z",
+        "updatedAt": "2024-12-07T13:45:32.488Z",
+        "id": "675451620158eb72736d6c9c"
     },
     {
         "disciplina": {
@@ -1933,15 +1886,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#8A2BE2"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_2d47868d-d3db-4baa-8648-bef0f0c89bf8",
+        "GUID": "MZQ_96133eb7-8165-4f49-a851-2ea0f0b3e476",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Laboratório de Banco de Dados (Escolha 1).",
         "A3": "C",
         "A3_Why": "0",
@@ -1958,14 +1911,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5326a311a8834bde20b2",
-            "673e5327a311a8834bde20b6"
+            "6754517d0158eb72736d7929"
         ],
-        "createdAt": "2024-11-20T21:21:54.808Z",
-        "updatedAt": "2024-11-20T21:22:47.378Z",
-        "id": "673e52f2a311a8834bde13a1"
+        "createdAt": "2024-12-07T13:45:06.494Z",
+        "updatedAt": "2024-12-07T13:45:33.027Z",
+        "id": "675451620158eb72736d6cd4"
     },
     {
         "disciplina": {
@@ -1974,15 +1926,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#8A2BE2"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_2f5abcbe-3946-43c8-b5d1-5179cabeff99",
+        "GUID": "MZQ_7a86a346-4b6a-4dfb-96fd-009a8ef5b648",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Engenharia de Software II.",
         "A3": "C",
         "A3_Why": "0",
@@ -1999,14 +1951,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5327a311a8834bde20ba",
-            "673e5328a311a8834bde20be"
+            "6754517d0158eb72736d792d"
         ],
-        "createdAt": "2024-11-20T21:21:54.830Z",
-        "updatedAt": "2024-11-20T21:22:48.447Z",
-        "id": "673e52f2a311a8834bde13d9"
+        "createdAt": "2024-12-07T13:45:06.515Z",
+        "updatedAt": "2024-12-07T13:45:33.554Z",
+        "id": "675451620158eb72736d6d0c"
     },
     {
         "disciplina": {
@@ -2015,15 +1966,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#8A2BE2"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_7ff8138b-cdbb-40d7-9c4d-42d8dff937ff",
+        "GUID": "MZQ_9463f59f-56e6-4685-8761-0009da0c3686",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Engenharia de Software II.",
         "A3": "C",
         "A3_Why": "0",
@@ -2040,14 +1991,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5328a311a8834bde20c2",
-            "673e5329a311a8834bde20c6"
+            "6754517e0158eb72736d7931"
         ],
-        "createdAt": "2024-11-20T21:21:54.852Z",
-        "updatedAt": "2024-11-20T21:22:49.509Z",
-        "id": "673e52f2a311a8834bde1411"
+        "createdAt": "2024-12-07T13:45:06.536Z",
+        "updatedAt": "2024-12-07T13:45:34.079Z",
+        "id": "675451620158eb72736d6d44"
     },
     {
         "disciplina": {
@@ -2056,15 +2006,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#8A2BE2"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_024ba0f4-3bb7-4e68-bf9a-2e14d3c02847",
+        "GUID": "MZQ_e76bc148-587f-442e-aa8f-ff18dbf2d3e2",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Programação para WEB.",
         "A3": "C",
         "A3_Why": "0",
@@ -2081,14 +2031,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e532aa311a8834bde20ca",
-            "673e532aa311a8834bde20ce"
+            "6754517e0158eb72736d7935"
         ],
-        "createdAt": "2024-11-20T21:21:54.875Z",
-        "updatedAt": "2024-11-20T21:22:50.579Z",
-        "id": "673e52f2a311a8834bde1449"
+        "createdAt": "2024-12-07T13:45:06.559Z",
+        "updatedAt": "2024-12-07T13:45:34.609Z",
+        "id": "675451620158eb72736d6d7c"
     },
     {
         "disciplina": {
@@ -2097,15 +2046,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#8A2BE2"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_0107fced-ca2a-404d-a3b4-66506a3ef6be",
+        "GUID": "MZQ_92c44718-c28a-4362-a268-b5e900d16f8c",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Programação para WEB.",
         "A3": "C",
         "A3_Why": "0",
@@ -2122,14 +2071,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e532ba311a8834bde20d2",
-            "673e532ba311a8834bde20d6"
+            "6754517f0158eb72736d7939"
         ],
-        "createdAt": "2024-11-20T21:21:54.899Z",
-        "updatedAt": "2024-11-20T21:22:51.657Z",
-        "id": "673e52f2a311a8834bde1481"
+        "createdAt": "2024-12-07T13:45:06.582Z",
+        "updatedAt": "2024-12-07T13:45:35.148Z",
+        "id": "675451620158eb72736d6db4"
     },
     {
         "disciplina": {
@@ -2138,15 +2086,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#8A2BE2"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_ac67701b-e892-4d76-afc9-801910664069",
+        "GUID": "MZQ_19df6aca-0a35-4d50-959d-7edadceae83d",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Sistemas Distribuídos.",
         "A3": "C",
         "A3_Why": "0",
@@ -2163,14 +2111,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e532ca311a8834bde20da",
-            "673e532ca311a8834bde20de"
+            "6754517f0158eb72736d793d"
         ],
-        "createdAt": "2024-11-20T21:21:54.921Z",
-        "updatedAt": "2024-11-20T21:22:52.731Z",
-        "id": "673e52f2a311a8834bde14b9"
+        "createdAt": "2024-12-07T13:45:06.605Z",
+        "updatedAt": "2024-12-07T13:45:35.687Z",
+        "id": "675451620158eb72736d6dec"
     },
     {
         "disciplina": {
@@ -2179,15 +2126,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#8A2BE2"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_904441ad-120a-4bc1-8220-11a0979753ed",
+        "GUID": "MZQ_23e67f87-bdb9-4261-8f7b-da9b534e6053",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Sistemas Distribuídos.",
         "A3": "C",
         "A3_Why": "0",
@@ -2204,14 +2151,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e532da311a8834bde20e2",
-            "673e532da311a8834bde20e6"
+            "675451800158eb72736d7941"
         ],
-        "createdAt": "2024-11-20T21:21:54.944Z",
-        "updatedAt": "2024-11-20T21:22:53.805Z",
-        "id": "673e52f2a311a8834bde14f1"
+        "createdAt": "2024-12-07T13:45:06.626Z",
+        "updatedAt": "2024-12-07T13:45:36.226Z",
+        "id": "675451620158eb72736d6e24"
     },
     {
         "disciplina": {
@@ -2220,15 +2166,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#8A2BE2"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_c30be56d-2d91-43ea-8b1b-c1029de74968",
+        "GUID": "MZQ_908af1a7-1f97-4eef-b5c9-f32dee5a47bb",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Inglês III.",
         "A3": "C",
         "A3_Why": "0",
@@ -2245,14 +2191,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e532ea311a8834bde20ea",
-            "673e532ea311a8834bde20ee"
+            "675451800158eb72736d7945"
         ],
-        "createdAt": "2024-11-20T21:21:54.970Z",
-        "updatedAt": "2024-11-20T21:22:54.879Z",
-        "id": "673e52f2a311a8834bde1529"
+        "createdAt": "2024-12-07T13:45:06.651Z",
+        "updatedAt": "2024-12-07T13:45:36.767Z",
+        "id": "675451620158eb72736d6e5c"
     },
     {
         "disciplina": {
@@ -2261,15 +2206,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#8A2BE2"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_88a8a653-a0bf-47e2-add9-7f80a2c4edd8",
+        "GUID": "MZQ_3e595f6b-c509-470f-a55d-5a4280d5be82",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Inglês III.",
         "A3": "C",
         "A3_Why": "0",
@@ -2286,14 +2231,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e532fa311a8834bde20f2",
-            "673e532fa311a8834bde20f6"
+            "675451810158eb72736d7949"
         ],
-        "createdAt": "2024-11-20T21:21:54.996Z",
-        "updatedAt": "2024-11-20T21:22:55.958Z",
-        "id": "673e52f2a311a8834bde1561"
+        "createdAt": "2024-12-07T13:45:06.674Z",
+        "updatedAt": "2024-12-07T13:45:37.304Z",
+        "id": "675451620158eb72736d6e94"
     },
     {
         "disciplina": {
@@ -2302,15 +2246,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#8A2BE2"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_0334d8ef-d3ed-46b3-a85b-003a25fd91c0",
+        "GUID": "MZQ_aeeca8d0-f4cb-465d-98de-c04601c3a2ce",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Estatística Aplicada.",
         "A3": "C",
         "A3_Why": "0",
@@ -2327,14 +2271,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5330a311a8834bde20fa",
-            "673e5331a311a8834bde20fe"
+            "675451810158eb72736d794d"
         ],
-        "createdAt": "2024-11-20T21:21:55.021Z",
-        "updatedAt": "2024-11-20T21:22:57.035Z",
-        "id": "673e52f3a311a8834bde1599"
+        "createdAt": "2024-12-07T13:45:06.698Z",
+        "updatedAt": "2024-12-07T13:45:37.829Z",
+        "id": "675451620158eb72736d6ecc"
     },
     {
         "disciplina": {
@@ -2343,15 +2286,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#8A2BE2"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_7c0eceb8-d62e-42bf-bbaf-975af1d892b4",
+        "GUID": "MZQ_a5f5e4d5-0679-4f61-bbdc-c9665285a5e0",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Estatística Aplicada.",
         "A3": "C",
         "A3_Why": "0",
@@ -2368,14 +2311,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5331a311a8834bde2102",
-            "673e5332a311a8834bde2106"
+            "675451820158eb72736d7951"
         ],
-        "createdAt": "2024-11-20T21:21:55.053Z",
-        "updatedAt": "2024-11-20T21:22:58.096Z",
-        "id": "673e52f3a311a8834bde15d1"
+        "createdAt": "2024-12-07T13:45:06.722Z",
+        "updatedAt": "2024-12-07T13:45:38.355Z",
+        "id": "675451620158eb72736d6f04"
     },
     {
         "disciplina": {
@@ -2384,15 +2326,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#4B0082"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_5777f702-3274-4e00-8e36-d7071973d209",
+        "GUID": "MZQ_7efc7bdc-29a6-4093-892f-1b84d7240746",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Gestão de Projetos.",
         "A3": "C",
         "A3_Why": "0",
@@ -2409,14 +2351,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5332a311a8834bde210a",
-            "673e5333a311a8834bde210e"
+            "675451820158eb72736d7955"
         ],
-        "createdAt": "2024-11-20T21:21:55.078Z",
-        "updatedAt": "2024-11-20T21:22:59.157Z",
-        "id": "673e52f3a311a8834bde1609"
+        "createdAt": "2024-12-07T13:45:06.749Z",
+        "updatedAt": "2024-12-07T13:45:38.885Z",
+        "id": "675451620158eb72736d6f3c"
     },
     {
         "disciplina": {
@@ -2425,15 +2366,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#4B0082"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_adc3ea07-0057-42da-8266-8cef91042ecf",
+        "GUID": "MZQ_bdf011fa-7b7a-4ffb-8e4d-bcd230bf6397",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Gestão de Projetos.",
         "A3": "C",
         "A3_Why": "0",
@@ -2450,14 +2391,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5333a311a8834bde2112",
-            "673e5334a311a8834bde2116"
+            "675451830158eb72736d7959"
         ],
-        "createdAt": "2024-11-20T21:21:55.105Z",
-        "updatedAt": "2024-11-20T21:23:00.226Z",
-        "id": "673e52f3a311a8834bde1641"
+        "createdAt": "2024-12-07T13:45:06.772Z",
+        "updatedAt": "2024-12-07T13:45:39.424Z",
+        "id": "675451620158eb72736d6f74"
     },
     {
         "disciplina": {
@@ -2466,15 +2406,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#4B0082"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_7dfff48e-d164-4b22-ab6b-76110eeff004",
+        "GUID": "MZQ_3038c265-8773-431b-be71-35718ecf0ed8",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Engenharia de Software III.",
         "A3": "C",
         "A3_Why": "0",
@@ -2491,14 +2431,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5334a311a8834bde211a",
-            "673e5335a311a8834bde211e"
+            "675451830158eb72736d795d"
         ],
-        "createdAt": "2024-11-20T21:21:55.132Z",
-        "updatedAt": "2024-11-20T21:23:01.291Z",
-        "id": "673e52f3a311a8834bde1679"
+        "createdAt": "2024-12-07T13:45:06.793Z",
+        "updatedAt": "2024-12-07T13:45:39.953Z",
+        "id": "675451620158eb72736d6fac"
     },
     {
         "disciplina": {
@@ -2507,15 +2446,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#4B0082"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_4e03b5ad-650a-4550-bd01-c020fb79e485",
+        "GUID": "MZQ_613dc156-4751-4423-b35d-6430af4feae4",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Engenharia de Software III.",
         "A3": "C",
         "A3_Why": "0",
@@ -2532,14 +2471,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5335a311a8834bde2122",
-            "673e5336a311a8834bde2126"
+            "675451840158eb72736d7961"
         ],
-        "createdAt": "2024-11-20T21:21:55.157Z",
-        "updatedAt": "2024-11-20T21:23:02.366Z",
-        "id": "673e52f3a311a8834bde16b1"
+        "createdAt": "2024-12-07T13:45:06.817Z",
+        "updatedAt": "2024-12-07T13:45:40.491Z",
+        "id": "675451620158eb72736d6fe4"
     },
     {
         "disciplina": {
@@ -2548,15 +2486,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#4B0082"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_dc2aad20-421e-4654-998d-85f6cd1567a4",
+        "GUID": "MZQ_b09babd7-7db1-4270-a3e7-c6e9c4a8024a",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Redes de Computadores.",
         "A3": "C",
         "A3_Why": "0",
@@ -2573,14 +2511,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5336a311a8834bde212a",
-            "673e5337a311a8834bde212e"
+            "675451850158eb72736d7965"
         ],
-        "createdAt": "2024-11-20T21:21:55.183Z",
-        "updatedAt": "2024-11-20T21:23:03.422Z",
-        "id": "673e52f3a311a8834bde16e9"
+        "createdAt": "2024-12-07T13:45:06.842Z",
+        "updatedAt": "2024-12-07T13:45:41.016Z",
+        "id": "675451620158eb72736d701c"
     },
     {
         "disciplina": {
@@ -2589,15 +2526,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#4B0082"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_073c36e3-1862-40f2-a313-7091cf4eefd5",
+        "GUID": "MZQ_d7d53237-87fb-4ef2-a296-225a90c14a67",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Redes de Computadores.",
         "A3": "C",
         "A3_Why": "0",
@@ -2614,14 +2551,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5337a311a8834bde2132",
-            "673e5338a311a8834bde2136"
+            "675451850158eb72736d7969"
         ],
-        "createdAt": "2024-11-20T21:21:55.209Z",
-        "updatedAt": "2024-11-20T21:23:04.500Z",
-        "id": "673e52f3a311a8834bde1721"
+        "createdAt": "2024-12-07T13:45:06.866Z",
+        "updatedAt": "2024-12-07T13:45:41.541Z",
+        "id": "675451620158eb72736d7054"
     },
     {
         "disciplina": {
@@ -2630,15 +2566,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#4B0082"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_99a6f6db-54e8-4cc3-9e88-65f02811f15e",
+        "GUID": "MZQ_03b1b367-5569-4fd4-bd97-4cd68c708df1",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Segurança da Informação.",
         "A3": "C",
         "A3_Why": "0",
@@ -2655,14 +2591,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5339a311a8834bde213a",
-            "673e5339a311a8834bde213e"
+            "675451860158eb72736d796d"
         ],
-        "createdAt": "2024-11-20T21:21:55.233Z",
-        "updatedAt": "2024-11-20T21:23:05.578Z",
-        "id": "673e52f3a311a8834bde1759"
+        "createdAt": "2024-12-07T13:45:06.888Z",
+        "updatedAt": "2024-12-07T13:45:42.066Z",
+        "id": "675451620158eb72736d708c"
     },
     {
         "disciplina": {
@@ -2671,15 +2606,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#4B0082"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_574bf87a-a0c5-42af-953f-9187c30decab",
+        "GUID": "MZQ_50eec1f1-f15b-44f5-8059-a11f1020424b",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Segurança da Informação.",
         "A3": "C",
         "A3_Why": "0",
@@ -2696,14 +2631,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e533aa311a8834bde2142",
-            "673e533aa311a8834bde2146"
+            "675451860158eb72736d7971"
         ],
-        "createdAt": "2024-11-20T21:21:55.261Z",
-        "updatedAt": "2024-11-20T21:23:06.627Z",
-        "id": "673e52f3a311a8834bde1791"
+        "createdAt": "2024-12-07T13:45:06.912Z",
+        "updatedAt": "2024-12-07T13:45:42.594Z",
+        "id": "675451620158eb72736d70c4"
     },
     {
         "disciplina": {
@@ -2712,15 +2646,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#4B0082"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_3a822165-0d05-441d-9f0b-87b02fcff2f1",
+        "GUID": "MZQ_8b380d39-2e42-4251-8313-64d519f45fce",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Inglês IV.",
         "A3": "C",
         "A3_Why": "0",
@@ -2737,14 +2671,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e533ba311a8834bde214a",
-            "673e533ba311a8834bde214e"
+            "675451870158eb72736d7975"
         ],
-        "createdAt": "2024-11-20T21:21:55.290Z",
-        "updatedAt": "2024-11-20T21:23:07.690Z",
-        "id": "673e52f3a311a8834bde17c9"
+        "createdAt": "2024-12-07T13:45:06.937Z",
+        "updatedAt": "2024-12-07T13:45:43.119Z",
+        "id": "675451620158eb72736d70fc"
     },
     {
         "disciplina": {
@@ -2753,15 +2686,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#4B0082"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_e9682915-0960-4afd-8639-7195c92f6023",
+        "GUID": "MZQ_6258b753-9171-4b34-83f9-3dd6fd52c188",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Inglês IV.",
         "A3": "C",
         "A3_Why": "0",
@@ -2778,14 +2711,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e533ca311a8834bde2152",
-            "673e533ca311a8834bde2156"
+            "675451870158eb72736d7979"
         ],
-        "createdAt": "2024-11-20T21:21:55.317Z",
-        "updatedAt": "2024-11-20T21:23:08.759Z",
-        "id": "673e52f3a311a8834bde1801"
+        "createdAt": "2024-12-07T13:45:06.963Z",
+        "updatedAt": "2024-12-07T13:45:43.644Z",
+        "id": "675451620158eb72736d7134"
     },
     {
         "disciplina": {
@@ -2794,15 +2726,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#4B0082"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_04106bdc-bfbd-40be-aacd-05d3ebee68af",
+        "GUID": "MZQ_a36004dd-a081-405b-ac04-0b8f486b17e7",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Programação Linear e Aplicações.",
         "A3": "C",
         "A3_Why": "0",
@@ -2819,14 +2751,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e533da311a8834bde215a",
-            "673e533da311a8834bde215e"
+            "675451880158eb72736d797d"
         ],
-        "createdAt": "2024-11-20T21:21:55.347Z",
-        "updatedAt": "2024-11-20T21:23:09.829Z",
-        "id": "673e52f3a311a8834bde1839"
+        "createdAt": "2024-12-07T13:45:06.988Z",
+        "updatedAt": "2024-12-07T13:45:44.174Z",
+        "id": "675451620158eb72736d716c"
     },
     {
         "disciplina": {
@@ -2835,15 +2766,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#4B0082"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_c30e1602-43bc-4ab4-82bc-b80d5a9e97b2",
+        "GUID": "MZQ_7977fbe7-ac30-461b-be95-dd6d6123f41e",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Programação Linear e Aplicações.",
         "A3": "C",
         "A3_Why": "0",
@@ -2860,14 +2791,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e533ea311a8834bde2162",
-            "673e533ea311a8834bde2166"
+            "675451880158eb72736d7981"
         ],
-        "createdAt": "2024-11-20T21:21:55.376Z",
-        "updatedAt": "2024-11-20T21:23:10.896Z",
-        "id": "673e52f3a311a8834bde1871"
+        "createdAt": "2024-12-07T13:45:07.013Z",
+        "updatedAt": "2024-12-07T13:45:44.697Z",
+        "id": "675451630158eb72736d71a4"
     },
     {
         "disciplina": {
@@ -2876,15 +2806,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#00FFFF"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_dee1c6c3-0632-4ffe-b8a3-2812dd881233",
+        "GUID": "MZQ_db421ae2-3d7a-49dd-8c7f-c35590e62039",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Gestão de Equipes.",
         "A3": "C",
         "A3_Why": "0",
@@ -2901,14 +2831,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e533fa311a8834bde216a",
-            "673e533fa311a8834bde216e"
+            "675451890158eb72736d7985"
         ],
-        "createdAt": "2024-11-20T21:21:55.407Z",
-        "updatedAt": "2024-11-20T21:23:11.963Z",
-        "id": "673e52f3a311a8834bde18a9"
+        "createdAt": "2024-12-07T13:45:07.037Z",
+        "updatedAt": "2024-12-07T13:45:45.224Z",
+        "id": "675451630158eb72736d71dc"
     },
     {
         "disciplina": {
@@ -2917,15 +2846,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#00FFFF"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_856d6501-7b7d-445a-ae6a-e96839f96b8e",
+        "GUID": "MZQ_3fe3121a-5e35-40cb-a483-7d22f11a6bcf",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Gestão de Equipes.",
         "A3": "C",
         "A3_Why": "0",
@@ -2942,14 +2871,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5340a311a8834bde2172",
-            "673e5341a311a8834bde2176"
+            "675451890158eb72736d7989"
         ],
-        "createdAt": "2024-11-20T21:21:55.440Z",
-        "updatedAt": "2024-11-20T21:23:13.023Z",
-        "id": "673e52f3a311a8834bde18e1"
+        "createdAt": "2024-12-07T13:45:07.060Z",
+        "updatedAt": "2024-12-07T13:45:45.750Z",
+        "id": "675451630158eb72736d7214"
     },
     {
         "disciplina": {
@@ -2958,15 +2886,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#00FFFF"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_3a4d0af2-9eda-4f07-b3b0-2bad457b332a",
+        "GUID": "MZQ_722f7760-eefd-44cd-bb68-21ca5d5eac42",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Empreendedorismo.",
         "A3": "C",
         "A3_Why": "0",
@@ -2983,14 +2911,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5341a311a8834bde217a",
-            "673e5342a311a8834bde217e"
+            "6754518a0158eb72736d798d"
         ],
-        "createdAt": "2024-11-20T21:21:55.469Z",
-        "updatedAt": "2024-11-20T21:23:14.098Z",
-        "id": "673e52f3a311a8834bde1919"
+        "createdAt": "2024-12-07T13:45:07.087Z",
+        "updatedAt": "2024-12-07T13:45:46.286Z",
+        "id": "675451630158eb72736d724c"
     },
     {
         "disciplina": {
@@ -2999,15 +2926,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#00FFFF"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_d979e643-ef54-49a3-80f2-67773a39d79d",
+        "GUID": "MZQ_b5b4d7c3-2bed-42fd-9366-86bdcd00616a",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Empreendedorismo.",
         "A3": "C",
         "A3_Why": "0",
@@ -3024,14 +2951,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5342a311a8834bde2182",
-            "673e5343a311a8834bde2186"
+            "6754518a0158eb72736d7991"
         ],
-        "createdAt": "2024-11-20T21:21:55.499Z",
-        "updatedAt": "2024-11-20T21:23:15.154Z",
-        "id": "673e52f3a311a8834bde1951"
+        "createdAt": "2024-12-07T13:45:07.112Z",
+        "updatedAt": "2024-12-07T13:45:46.825Z",
+        "id": "675451630158eb72736d7284"
     },
     {
         "disciplina": {
@@ -3040,15 +2966,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#00FFFF"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_ce2f33c6-aa13-4ad8-9356-9779cfcb8ca2",
+        "GUID": "MZQ_b60a1705-1b87-4078-9db1-1a6556c8a0d5",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Laboratório de Engenharia de Software.",
         "A3": "C",
         "A3_Why": "0",
@@ -3065,14 +2991,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5343a311a8834bde218a",
-            "673e5344a311a8834bde218e"
+            "6754518b0158eb72736d7995"
         ],
-        "createdAt": "2024-11-20T21:21:55.525Z",
-        "updatedAt": "2024-11-20T21:23:16.224Z",
-        "id": "673e52f3a311a8834bde1989"
+        "createdAt": "2024-12-07T13:45:07.139Z",
+        "updatedAt": "2024-12-07T13:45:47.362Z",
+        "id": "675451630158eb72736d72bc"
     },
     {
         "disciplina": {
@@ -3081,15 +3006,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#00FFFF"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_51d24f94-c76c-4e97-be58-964ee08ededb",
+        "GUID": "MZQ_ae394651-fe5f-4df4-8884-6034d452474f",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Laboratório de Engenharia de Software.",
         "A3": "C",
         "A3_Why": "0",
@@ -3106,14 +3031,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5344a311a8834bde2192",
-            "673e5345a311a8834bde2196"
+            "6754518b0158eb72736d7999"
         ],
-        "createdAt": "2024-11-20T21:21:55.553Z",
-        "updatedAt": "2024-11-20T21:23:17.282Z",
-        "id": "673e52f3a311a8834bde19c1"
+        "createdAt": "2024-12-07T13:45:07.167Z",
+        "updatedAt": "2024-12-07T13:45:47.888Z",
+        "id": "675451630158eb72736d72f4"
     },
     {
         "disciplina": {
@@ -3122,15 +3046,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#00FFFF"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_3b6af68a-2840-4443-b868-24a04c125cfd",
+        "GUID": "MZQ_2361e26a-48e5-4468-b465-0c38e1157c24",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Laboratório de Redes (Escolha 2).",
         "A3": "C",
         "A3_Why": "0",
@@ -3147,14 +3071,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5345a311a8834bde219a",
-            "673e5346a311a8834bde219e"
+            "6754518c0158eb72736d799d"
         ],
-        "createdAt": "2024-11-20T21:21:55.580Z",
-        "updatedAt": "2024-11-20T21:23:18.350Z",
-        "id": "673e52f3a311a8834bde19f9"
+        "createdAt": "2024-12-07T13:45:07.190Z",
+        "updatedAt": "2024-12-07T13:45:48.411Z",
+        "id": "675451630158eb72736d732c"
     },
     {
         "disciplina": {
@@ -3163,15 +3086,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#00FFFF"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_2f6f8d47-e317-408d-8392-7c677c938faf",
+        "GUID": "MZQ_c98f2de5-9f39-454f-beae-29e843195265",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Laboratório de Redes (Escolha 2).",
         "A3": "C",
         "A3_Why": "0",
@@ -3188,14 +3111,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5346a311a8834bde21a2",
-            "673e5347a311a8834bde21a6"
+            "6754518c0158eb72736d79a1"
         ],
-        "createdAt": "2024-11-20T21:21:55.607Z",
-        "updatedAt": "2024-11-20T21:23:19.413Z",
-        "id": "673e52f3a311a8834bde1a31"
+        "createdAt": "2024-12-07T13:45:07.214Z",
+        "updatedAt": "2024-12-07T13:45:48.944Z",
+        "id": "675451630158eb72736d7364"
     },
     {
         "disciplina": {
@@ -3204,15 +3126,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#00FFFF"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_cacbb09d-abf0-4255-9329-9e13d2f8719a",
+        "GUID": "MZQ_5d16813d-bdf6-41de-ba1b-2335576ac564",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Tópicos Especiais em Informática (Escolha 2).",
         "A3": "C",
         "A3_Why": "0",
@@ -3229,14 +3151,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5347a311a8834bde21aa",
-            "673e5348a311a8834bde21ae"
+            "6754518d0158eb72736d79a5"
         ],
-        "createdAt": "2024-11-20T21:21:55.634Z",
-        "updatedAt": "2024-11-20T21:23:20.477Z",
-        "id": "673e52f3a311a8834bde1a69"
+        "createdAt": "2024-12-07T13:45:07.239Z",
+        "updatedAt": "2024-12-07T13:45:49.473Z",
+        "id": "675451630158eb72736d739c"
     },
     {
         "disciplina": {
@@ -3245,15 +3166,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#00FFFF"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_8b207497-2001-4455-b639-c8ee8a561985",
+        "GUID": "MZQ_b2217a11-b8df-48da-9547-a62c49ea9984",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Tópicos Especiais em Informática (Escolha 2).",
         "A3": "C",
         "A3_Why": "0",
@@ -3270,14 +3191,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5349a311a8834bde21b2",
-            "673e5349a311a8834bde21b6"
+            "6754518d0158eb72736d79a9"
         ],
-        "createdAt": "2024-11-20T21:21:55.661Z",
-        "updatedAt": "2024-11-20T21:23:21.549Z",
-        "id": "673e52f3a311a8834bde1aa1"
+        "createdAt": "2024-12-07T13:45:07.268Z",
+        "updatedAt": "2024-12-07T13:45:50.000Z",
+        "id": "675451630158eb72736d73d4"
     },
     {
         "disciplina": {
@@ -3286,15 +3206,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#00FFFF"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_ac262b55-c2e3-46c2-8f5b-6e1f10504b2b",
+        "GUID": "MZQ_46ef7e57-8207-46e5-8954-1ba548d8e785",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Inglês V.",
         "A3": "C",
         "A3_Why": "0",
@@ -3311,14 +3231,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e534aa311a8834bde21ba",
-            "673e534aa311a8834bde21be"
+            "6754518e0158eb72736d79ad"
         ],
-        "createdAt": "2024-11-20T21:21:55.694Z",
-        "updatedAt": "2024-11-20T21:23:22.613Z",
-        "id": "673e52f3a311a8834bde1ad9"
+        "createdAt": "2024-12-07T13:45:07.292Z",
+        "updatedAt": "2024-12-07T13:45:50.526Z",
+        "id": "675451630158eb72736d740c"
     },
     {
         "disciplina": {
@@ -3327,15 +3246,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#00FFFF"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_82ee4b44-e219-4720-abe9-50c76b33a653",
+        "GUID": "MZQ_6a415f9f-3154-4a23-9527-db262cd4809f",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Inglês V.",
         "A3": "C",
         "A3_Why": "0",
@@ -3352,14 +3271,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e534ba311a8834bde21c2",
-            "673e534ba311a8834bde21c6"
+            "6754518f0158eb72736d79b1"
         ],
-        "createdAt": "2024-11-20T21:21:55.720Z",
-        "updatedAt": "2024-11-20T21:23:23.681Z",
-        "id": "673e52f3a311a8834bde1b11"
+        "createdAt": "2024-12-07T13:45:07.317Z",
+        "updatedAt": "2024-12-07T13:45:51.049Z",
+        "id": "675451630158eb72736d7444"
     },
     {
         "disciplina": {
@@ -3368,15 +3286,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#00FFFF"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_ae84a4e1-e6a3-40f0-bc81-a6315805e713",
+        "GUID": "MZQ_ec16c335-b882-442e-b6e0-eb091b54d2ce",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Metodologia da Pesquisa Científico-Tecnológica.",
         "A3": "C",
         "A3_Why": "0",
@@ -3393,14 +3311,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e534ca311a8834bde21ca",
-            "673e534ca311a8834bde21ce"
+            "6754518f0158eb72736d79b5"
         ],
-        "createdAt": "2024-11-20T21:21:55.748Z",
-        "updatedAt": "2024-11-20T21:23:24.752Z",
-        "id": "673e52f3a311a8834bde1b49"
+        "createdAt": "2024-12-07T13:45:07.343Z",
+        "updatedAt": "2024-12-07T13:45:51.576Z",
+        "id": "675451630158eb72736d747c"
     },
     {
         "disciplina": {
@@ -3409,15 +3326,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#00FFFF"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_ebb6499a-0260-45fc-b379-4bc8cb2db46d",
+        "GUID": "MZQ_76ff077f-c670-4c76-b10b-86ad267bdd91",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Metodologia da Pesquisa Científico-Tecnológica.",
         "A3": "C",
         "A3_Why": "0",
@@ -3434,14 +3351,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e534da311a8834bde21d2",
-            "673e534da311a8834bde21d6"
+            "675451900158eb72736d79b9"
         ],
-        "createdAt": "2024-11-20T21:21:55.780Z",
-        "updatedAt": "2024-11-20T21:23:25.819Z",
-        "id": "673e52f3a311a8834bde1b81"
+        "createdAt": "2024-12-07T13:45:07.371Z",
+        "updatedAt": "2024-12-07T13:45:52.105Z",
+        "id": "675451630158eb72736d74b4"
     },
     {
         "disciplina": {
@@ -3450,15 +3366,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#00FFFF"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_cd325cf1-6f1b-45ed-81c4-b2dfdd20ebcc",
+        "GUID": "MZQ_d8fe91e1-a9f8-4365-a6b0-43455e0fb15b",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Trabalho de Graduação I.",
         "A3": "C",
         "A3_Why": "0",
@@ -3475,14 +3391,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e534ea311a8834bde21da",
-            "673e534ea311a8834bde21de"
+            "675451900158eb72736d79bd"
         ],
-        "createdAt": "2024-11-20T21:21:55.808Z",
-        "updatedAt": "2024-11-20T21:23:26.883Z",
-        "id": "673e52f3a311a8834bde1bb9"
+        "createdAt": "2024-12-07T13:45:07.395Z",
+        "updatedAt": "2024-12-07T13:45:52.637Z",
+        "id": "675451630158eb72736d74ec"
     },
     {
         "disciplina": {
@@ -3491,15 +3406,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#00FFFF"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_48aa5217-8915-4c72-95e6-3f9485d3fb4d",
+        "GUID": "MZQ_e8f18121-bf2b-4ca4-a425-f7337b88e815",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Trabalho de Graduação I.",
         "A3": "C",
         "A3_Why": "0",
@@ -3516,14 +3431,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e534fa311a8834bde21e2",
-            "673e534fa311a8834bde21e6"
+            "675451910158eb72736d79c1"
         ],
-        "createdAt": "2024-11-20T21:21:55.837Z",
-        "updatedAt": "2024-11-20T21:23:27.943Z",
-        "id": "673e52f3a311a8834bde1bf1"
+        "createdAt": "2024-12-07T13:45:07.422Z",
+        "updatedAt": "2024-12-07T13:45:53.164Z",
+        "id": "675451630158eb72736d7524"
     },
     {
         "disciplina": {
@@ -3532,15 +3446,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#EE82EE"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_d673ee49-c995-4a71-b576-52be6cbba0a5",
+        "GUID": "MZQ_c4fae8ad-6fb1-485e-9500-9f8a495de436",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Ética e Responsabilidade Profissional.",
         "A3": "C",
         "A3_Why": "0",
@@ -3557,14 +3471,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5350a311a8834bde21ea",
-            "673e5351a311a8834bde21ee"
+            "675451910158eb72736d79c5"
         ],
-        "createdAt": "2024-11-20T21:21:55.868Z",
-        "updatedAt": "2024-11-20T21:23:29.014Z",
-        "id": "673e52f3a311a8834bde1c29"
+        "createdAt": "2024-12-07T13:45:07.448Z",
+        "updatedAt": "2024-12-07T13:45:53.689Z",
+        "id": "675451630158eb72736d755c"
     },
     {
         "disciplina": {
@@ -3573,15 +3486,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#EE82EE"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_e646acb0-26c8-492a-b72d-4559a10bf947",
+        "GUID": "MZQ_5313cf38-96aa-4d26-a02a-81e962a1eb57",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Ética e Responsabilidade Profissional.",
         "A3": "C",
         "A3_Why": "0",
@@ -3598,14 +3511,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5351a311a8834bde21f2",
-            "673e5352a311a8834bde21f6"
+            "675451920158eb72736d79c9"
         ],
-        "createdAt": "2024-11-20T21:21:55.898Z",
-        "updatedAt": "2024-11-20T21:23:30.074Z",
-        "id": "673e52f3a311a8834bde1c61"
+        "createdAt": "2024-12-07T13:45:07.474Z",
+        "updatedAt": "2024-12-07T13:45:54.216Z",
+        "id": "675451630158eb72736d7594"
     },
     {
         "disciplina": {
@@ -3614,15 +3526,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#EE82EE"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_cea535af-1e14-4c4a-b8cb-0576a8feb866",
+        "GUID": "MZQ_9aae1f65-9cd4-45e0-866c-043ef5aa30ab",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Inteligência Artificial (Escolha 3).",
         "A3": "C",
         "A3_Why": "0",
@@ -3639,14 +3551,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5352a311a8834bde21fa",
-            "673e5353a311a8834bde21fe"
+            "675451920158eb72736d79cd"
         ],
-        "createdAt": "2024-11-20T21:21:55.927Z",
-        "updatedAt": "2024-11-20T21:23:31.133Z",
-        "id": "673e52f3a311a8834bde1c99"
+        "createdAt": "2024-12-07T13:45:07.502Z",
+        "updatedAt": "2024-12-07T13:45:54.744Z",
+        "id": "675451630158eb72736d75cc"
     },
     {
         "disciplina": {
@@ -3655,15 +3566,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#EE82EE"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_39c9c865-23db-4f1c-a546-965367c29d57",
+        "GUID": "MZQ_03bb26ad-1dae-46ff-88ec-d82224854f01",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Inteligência Artificial (Escolha 3).",
         "A3": "C",
         "A3_Why": "0",
@@ -3680,14 +3591,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5353a311a8834bde2202",
-            "673e5354a311a8834bde2206"
+            "675451930158eb72736d79d1"
         ],
-        "createdAt": "2024-11-20T21:21:55.956Z",
-        "updatedAt": "2024-11-20T21:23:32.206Z",
-        "id": "673e52f3a311a8834bde1cd1"
+        "createdAt": "2024-12-07T13:45:07.527Z",
+        "updatedAt": "2024-12-07T13:45:55.273Z",
+        "id": "675451630158eb72736d7604"
     },
     {
         "disciplina": {
@@ -3696,15 +3606,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#EE82EE"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_094c34d9-28e2-4611-8740-869b0398124f",
+        "GUID": "MZQ_26972be9-97ae-4f64-86ea-c03798ad0676",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Auditoria de Sistemas (Escolha 3).",
         "A3": "C",
         "A3_Why": "0",
@@ -3721,14 +3631,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5354a311a8834bde220a",
-            "673e5355a311a8834bde220e"
+            "675451930158eb72736d79d5"
         ],
-        "createdAt": "2024-11-20T21:21:55.985Z",
-        "updatedAt": "2024-11-20T21:23:33.278Z",
-        "id": "673e52f3a311a8834bde1d09"
+        "createdAt": "2024-12-07T13:45:07.556Z",
+        "updatedAt": "2024-12-07T13:45:55.801Z",
+        "id": "675451630158eb72736d763c"
     },
     {
         "disciplina": {
@@ -3737,15 +3646,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#EE82EE"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_558a2848-80c0-4cbf-88f4-e3d577602527",
+        "GUID": "MZQ_f5bbaccc-178c-4660-abfd-0b18ce3feacf",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Auditoria de Sistemas (Escolha 3).",
         "A3": "C",
         "A3_Why": "0",
@@ -3762,14 +3671,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5355a311a8834bde2212",
-            "673e5356a311a8834bde2216"
+            "675451940158eb72736d79d9"
         ],
-        "createdAt": "2024-11-20T21:21:56.012Z",
-        "updatedAt": "2024-11-20T21:23:34.351Z",
-        "id": "673e52f4a311a8834bde1d41"
+        "createdAt": "2024-12-07T13:45:07.586Z",
+        "updatedAt": "2024-12-07T13:45:56.325Z",
+        "id": "675451630158eb72736d7674"
     },
     {
         "disciplina": {
@@ -3778,15 +3686,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#EE82EE"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_dd487d9a-7786-472a-85f8-34062679c247",
+        "GUID": "MZQ_a77c35e2-6a3c-489c-80a6-5284af6ccb8e",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Gestão e Governança de Tecnologia da Informação.",
         "A3": "C",
         "A3_Why": "0",
@@ -3803,14 +3711,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5356a311a8834bde221a",
-            "673e5357a311a8834bde221e"
+            "675451940158eb72736d79dd"
         ],
-        "createdAt": "2024-11-20T21:21:56.045Z",
-        "updatedAt": "2024-11-20T21:23:35.429Z",
-        "id": "673e52f4a311a8834bde1d79"
+        "createdAt": "2024-12-07T13:45:07.611Z",
+        "updatedAt": "2024-12-07T13:45:56.855Z",
+        "id": "675451630158eb72736d76ac"
     },
     {
         "disciplina": {
@@ -3819,15 +3726,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#EE82EE"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_10c27318-3310-4b07-b074-94b2f5dae8ad",
+        "GUID": "MZQ_a4538799-a7fc-4eac-95d6-5f217798e91d",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Gestão e Governança de Tecnologia da Informação.",
         "A3": "C",
         "A3_Why": "0",
@@ -3844,14 +3751,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5357a311a8834bde2222",
-            "673e5358a311a8834bde2226"
+            "675451950158eb72736d79e1"
         ],
-        "createdAt": "2024-11-20T21:21:56.075Z",
-        "updatedAt": "2024-11-20T21:23:36.500Z",
-        "id": "673e52f4a311a8834bde1db1"
+        "createdAt": "2024-12-07T13:45:07.639Z",
+        "updatedAt": "2024-12-07T13:45:57.395Z",
+        "id": "675451630158eb72736d76e4"
     },
     {
         "disciplina": {
@@ -3860,15 +3766,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#EE82EE"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_993b208d-349d-4a15-9a1f-b14340aacdc3",
+        "GUID": "MZQ_dd524865-046d-48cc-af97-2633f6836be0",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Inglês VI.",
         "A3": "C",
         "A3_Why": "0",
@@ -3885,14 +3791,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e5359a311a8834bde222a",
-            "673e5359a311a8834bde222e"
+            "675451950158eb72736d79e5"
         ],
-        "createdAt": "2024-11-20T21:21:56.106Z",
-        "updatedAt": "2024-11-20T21:23:37.576Z",
-        "id": "673e52f4a311a8834bde1de9"
+        "createdAt": "2024-12-07T13:45:07.668Z",
+        "updatedAt": "2024-12-07T13:45:57.921Z",
+        "id": "675451630158eb72736d771c"
     },
     {
         "disciplina": {
@@ -3901,15 +3806,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#EE82EE"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_1b410e0b-5b20-4166-b17a-f145d1f85aaf",
+        "GUID": "MZQ_cd4d6f24-6ec1-4d67-87b5-3da4e4bd7143",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Inglês VI.",
         "A3": "C",
         "A3_Why": "0",
@@ -3926,14 +3831,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e535aa311a8834bde2232",
-            "673e535aa311a8834bde2236"
+            "675451960158eb72736d79e9"
         ],
-        "createdAt": "2024-11-20T21:21:56.136Z",
-        "updatedAt": "2024-11-20T21:23:38.649Z",
-        "id": "673e52f4a311a8834bde1e21"
+        "createdAt": "2024-12-07T13:45:07.694Z",
+        "updatedAt": "2024-12-07T13:45:58.462Z",
+        "id": "675451630158eb72736d7754"
     },
     {
         "disciplina": {
@@ -3942,15 +3846,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#EE82EE"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_de96ef63-f322-4374-9d40-a0abda8a433d",
+        "GUID": "MZQ_3ffbf1e8-9629-45de-b4be-ef78c65e28fd",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Estágio Supervisionado.",
         "A3": "C",
         "A3_Why": "0",
@@ -3967,14 +3871,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e535ba311a8834bde223a",
-            "673e535ba311a8834bde223e"
+            "675451960158eb72736d79ed"
         ],
-        "createdAt": "2024-11-20T21:21:56.168Z",
-        "updatedAt": "2024-11-20T21:23:39.718Z",
-        "id": "673e52f4a311a8834bde1e59"
+        "createdAt": "2024-12-07T13:45:07.723Z",
+        "updatedAt": "2024-12-07T13:45:58.991Z",
+        "id": "675451630158eb72736d778c"
     },
     {
         "disciplina": {
@@ -3983,15 +3886,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#EE82EE"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_a351efa6-860c-42c8-a14b-c89b71921aef",
+        "GUID": "MZQ_49f89f09-4b03-48d4-9e62-c09cef051ad7",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Estágio Supervisionado.",
         "A3": "C",
         "A3_Why": "0",
@@ -4008,14 +3911,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e535ca311a8834bde2242",
-            "673e535ca311a8834bde2246"
+            "675451970158eb72736d79f1"
         ],
-        "createdAt": "2024-11-20T21:21:56.199Z",
-        "updatedAt": "2024-11-20T21:23:40.793Z",
-        "id": "673e52f4a311a8834bde1e91"
+        "createdAt": "2024-12-07T13:45:07.750Z",
+        "updatedAt": "2024-12-07T13:45:59.516Z",
+        "id": "675451630158eb72736d77c4"
     },
     {
         "disciplina": {
@@ -4024,15 +3926,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#EE82EE"
         },
         "tipo": "ensino",
-        "GUID": "MZQ_9692071d-9653-45da-9ebe-d40d173fc650",
+        "GUID": "MZQ_3820665c-d794-4b38-bff7-38308d23b3ca",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Explique um conceito chave da disciplina Trabalho de Graduação II.",
         "A3": "C",
         "A3_Why": "0",
@@ -4049,14 +3951,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e535da311a8834bde224a",
-            "673e535da311a8834bde224e"
+            "675451980158eb72736d79f5"
         ],
-        "createdAt": "2024-11-20T21:21:56.229Z",
-        "updatedAt": "2024-11-20T21:23:41.867Z",
-        "id": "673e52f4a311a8834bde1ec9"
+        "createdAt": "2024-12-07T13:45:07.776Z",
+        "updatedAt": "2024-12-07T13:46:00.044Z",
+        "id": "675451630158eb72736d77fc"
     },
     {
         "disciplina": {
@@ -4065,15 +3966,15 @@ var questionDatabase = {"Questions" : [
             "cor": "#EE82EE"
         },
         "tipo": "exercicio",
-        "GUID": "MZQ_722fd894-d860-4fc9-80eb-413e61b2e89b",
+        "GUID": "MZQ_54bb5102-4f2d-40d7-989a-863547ace54f",
         "E": 0,
         "Q_T": 5,
         "Q": "",
         "T": 3600,
         "I": 1,
-        "A": 1,
-        "C_A": "A",
-        "A2": "B",
+        "A": 0,
+        "C_A": "B",
+        "A2": "A",
         "descricao": "Resolva o seguinte problema da disciplina Trabalho de Graduação II.",
         "A3": "C",
         "A3_Why": "0",
@@ -4090,14 +3991,13 @@ var questionDatabase = {"Questions" : [
         "P_I": 2,
         "P_A": 1,
         "O_L": 0,
-        "usuario": "673e52f1a311a8834bde0923",
+        "usuario": "675451610158eb72736d6253",
         "arquivos": [
-            "673e535ea311a8834bde2252",
-            "673e535ea311a8834bde2256"
+            "675451980158eb72736d79f9"
         ],
-        "createdAt": "2024-11-20T21:21:56.259Z",
-        "updatedAt": "2024-11-20T21:23:42.930Z",
-        "id": "673e52f4a311a8834bde1f01"
+        "createdAt": "2024-12-07T13:45:07.805Z",
+        "updatedAt": "2024-12-07T13:46:00.586Z",
+        "id": "675451630158eb72736d7834"
     }
 ]}
 

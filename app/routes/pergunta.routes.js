@@ -53,12 +53,16 @@ module.exports = app => {
 
   // Delete Pergunta with id
   router.delete("/:id", checkToken, async (req, res) => {
+    console.log("Antes do TRY");
+    
     try {
       await perguntasController.delete(req, res); // Chama a função delete do controlador de perguntas
 
       // Chamada das funções updateQuestions e updateArchives
       await arquivoRoutes.updateQuestions(); // Chama a função para atualizar perguntas
       await arquivoRoutes.updateArchives(); // Chama a função para atualizar perguntas
+      console.log("Depois do TRY");
+
 
 
       // Se a resposta não foi enviada pelo controlador

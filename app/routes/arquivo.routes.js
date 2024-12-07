@@ -39,7 +39,7 @@ router.put("/:id", checkToken, async (req, res) => {
     //await app.locals.updateArchives();
 
     // Chama a função de atualização de arquivos
-    await arquivos.update(req.params.id, req.body, res); // Assume que arquivos.update aceita esses parâmetros
+    await arquivos.update(req, res); // Assume que arquivos.update aceita esses parâmetros
   } catch (error) {
     console.error("Erro ao processar a requisição:", error.message);
     res.status(500).send('Erro ao processar a requisição.');
